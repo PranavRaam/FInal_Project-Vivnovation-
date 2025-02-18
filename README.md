@@ -9,10 +9,10 @@ This solution integrates data processing, API interactions, natural language und
 
 ### Output Visualizations:
 
-![Map 1](./output_images/output_1.png)
-![Map 2](./output_images/output_2.png)
-![Map 3](./output_images/output_3.png)
-![Map 4](./output_images/output_4.png)
+![Map 1](./output_1.png)
+![Map 2](./output_2.png)
+![Map 3](./output_3.png)
+![Map 4](./output_4.png)
 
 
 # Steps To Run & Execute The Code:

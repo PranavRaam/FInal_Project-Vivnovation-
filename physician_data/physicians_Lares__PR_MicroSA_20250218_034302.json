@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "msa_name": "Lares, PR MicroSA",
+    "query_timestamp": "2025-02-18T03:43:02.696716",
+    "total_physicians": 2,
+    "specialty_distribution": {
+      "Physician Assistant": 2,
+      "General Practice": 2
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1427466093",
+      "personal_info": {
+        "first_name": "YESICA",
+        "last_name": "MARTINEZ",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1075",
+        "address_line_2": null,
+        "city": "LARES",
+        "state": "PR",
+        "postal_code": "006691075",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "002540"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00669",
+        "retrieved_timestamp": "2025-02-18T03:43:02.696742"
+      }
+    },
+    {
+      "npi": "1710657085",
+      "personal_info": {
+        "first_name": "EDGAR",
+        "last_name": "SOTO PEREZ",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "CARR 129 KM 13.7",
+        "address_line_2": null,
+        "city": "LARES",
+        "state": "PR",
+        "postal_code": "006699715",
+        "telephone": "787-382-1590",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": false,
+          "state": "PR",
+          "license": "16035-I"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PR",
+          "license": "240-P.A."
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "23090"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00669",
+        "retrieved_timestamp": "2025-02-18T03:43:02.696754"
+      }
+    }
+  ]
+}

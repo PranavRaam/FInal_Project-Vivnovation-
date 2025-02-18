@@ -1,0 +1,6894 @@
+{
+  "metadata": {
+    "msa_name": "Monticello, NY MicroSA",
+    "query_timestamp": "2025-02-18T04:22:14.661010",
+    "total_physicians": 186,
+    "specialty_distribution": {
+      "Physician Assistant": 138,
+      "Physician Assistant, Medical": 103,
+      "Physician Assistant, Surgical": 38,
+      "Nurse Practitioner": 3,
+      "Emergency Medicine": 3,
+      "Acupuncturist": 2,
+      "Student in an Organized Health Care Education/Training Program": 1,
+      "Internal Medicine": 1,
+      "Nurse Practitioner, Family": 1,
+      "Family Medicine": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1407684905",
+      "personal_info": {
+        "first_name": "RICHARD",
+        "last_name": "BLAZESKI",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 SINSABAUGH RD",
+        "address_line_2": null,
+        "city": "PINE BUSH",
+        "state": "NY",
+        "postal_code": "125665461",
+        "telephone": "845-978-5121",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "032493"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12566",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661028"
+      }
+    },
+    {
+      "npi": "1457910929",
+      "personal_info": {
+        "first_name": "JAYNE",
+        "last_name": "VANDER HEY-WRIGHT",
+        "middle_name": "ALICE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "18 MARK DR",
+        "address_line_2": null,
+        "city": "PORT JERVIS",
+        "state": "NY",
+        "postal_code": "127713907",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "03795"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10963",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661037"
+      }
+    },
+    {
+      "npi": "1932591195",
+      "personal_info": {
+        "first_name": "PAUL",
+        "last_name": "HNATIW",
+        "middle_name": null,
+        "credential": "P.A",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "750 BERME RD",
+        "address_line_2": null,
+        "city": "NAPANOCH",
+        "state": "NY",
+        "postal_code": "124582709",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "002601-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12458",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661046"
+      }
+    },
+    {
+      "npi": "1356733612",
+      "personal_info": {
+        "first_name": "YAROSLAVA",
+        "last_name": "MILOV",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "750 BERME RD",
+        "address_line_2": null,
+        "city": "NAPANOCH",
+        "state": "NY",
+        "postal_code": "124582709",
+        "telephone": "845-647-1670",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "008434"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12458",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661053"
+      }
+    },
+    {
+      "npi": "1871985127",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "750 BERME RD",
+        "address_line_2": "PO BOX 800",
+        "city": "NAPANOCH",
+        "state": "NY",
+        "postal_code": "124582709",
+        "telephone": "845-647-1670",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "008434"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12458",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661060"
+      }
+    },
+    {
+      "npi": "1336794619",
+      "personal_info": {
+        "first_name": "YUSUF",
+        "last_name": "AFIFI",
+        "middle_name": "RICHARD",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "45 READE PL",
+        "address_line_2": null,
+        "city": "POUGHKEEPSIE",
+        "state": "NY",
+        "postal_code": "126013947",
+        "telephone": "845-454-8500",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "024751"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661068"
+      }
+    },
+    {
+      "npi": "1982292785",
+      "personal_info": {
+        "first_name": "ROXANNE",
+        "last_name": "ALLEN",
+        "middle_name": "SHELLY-ANN T.",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "026161"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "026161"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661077"
+      }
+    },
+    {
+      "npi": "1194814673",
+      "personal_info": {
+        "first_name": "BRANDI",
+        "last_name": "AQUINO",
+        "middle_name": "BOYCE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "10940",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "009630"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661084"
+      }
+    },
+    {
+      "npi": "1114413697",
+      "personal_info": {
+        "first_name": "ALBERT",
+        "last_name": "ARCERI",
+        "middle_name": "SALVATORE",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "43 NEW SCOTLAND AVE",
+        "address_line_2": null,
+        "city": "ALBANY",
+        "state": "NY",
+        "postal_code": "122083412",
+        "telephone": "646-335-5455",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "022189-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661091"
+      }
+    },
+    {
+      "npi": "1508870924",
+      "personal_info": {
+        "first_name": "MAX",
+        "last_name": "AUERBACH",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 CENTRAL AVE",
+        "address_line_2": "EMERGENCY MEDICINE DEPT",
+        "city": "EAST ORANGE",
+        "state": "NJ",
+        "postal_code": "070182819",
+        "telephone": "973-672-8400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00162100"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "011393"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661100"
+      }
+    },
+    {
+      "npi": "1730549114",
+      "personal_info": {
+        "first_name": "CAROLINE",
+        "last_name": "BABCANEC",
+        "middle_name": "ANITA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "019551"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661106"
+      }
+    },
+    {
+      "npi": "1871335497",
+      "personal_info": {
+        "first_name": "ZOHRA",
+        "last_name": "BATOOL",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "7901 BROADWAY",
+        "address_line_2": null,
+        "city": "ELMHURST",
+        "state": "NY",
+        "postal_code": "113731329",
+        "telephone": "718-334-4000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661114"
+      }
+    },
+    {
+      "npi": "1811224603",
+      "personal_info": {
+        "first_name": "LINDSEY",
+        "last_name": "BAUER",
+        "middle_name": "MARTHA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "91 GLENEIDA AVE",
+        "address_line_2": null,
+        "city": "CARMEL",
+        "state": "NY",
+        "postal_code": "105121222",
+        "telephone": "845-228-7000",
+        "fax": "845-228-5485"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "013722"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661122"
+      }
+    },
+    {
+      "npi": "1689418725",
+      "personal_info": {
+        "first_name": "KYRA",
+        "last_name": "BEACHER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "031830"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661129"
+      }
+    },
+    {
+      "npi": "1831574433",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "BLAIR",
+        "middle_name": "JAMES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "018790"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661136"
+      }
+    },
+    {
+      "npi": "1821425489",
+      "personal_info": {
+        "first_name": "BENJAMIN",
+        "last_name": "BRADLEY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "7 SYCAMORE ST",
+        "address_line_2": null,
+        "city": "GARNERVILLE",
+        "state": "NY",
+        "postal_code": "109232008",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "017055"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661143"
+      }
+    },
+    {
+      "npi": "1972334266",
+      "personal_info": {
+        "first_name": "BREANNA",
+        "last_name": "BRUCHER",
+        "middle_name": "T",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402141",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "032553"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661151"
+      }
+    },
+    {
+      "npi": "1538209168",
+      "personal_info": {
+        "first_name": "YVONNE",
+        "last_name": "BUCKNER",
+        "middle_name": "MARCIA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "002081"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661159"
+      }
+    },
+    {
+      "npi": "1902515109",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "BUNNELL",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "029469"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661165"
+      }
+    },
+    {
+      "npi": "1437824042",
+      "personal_info": {
+        "first_name": "REBECCA",
+        "last_name": "BYAM",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-3641"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA8206"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "031695"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661172"
+      }
+    },
+    {
+      "npi": "1588817399",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "CHASE",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-818-7555"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "012923"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "GA",
+          "license": "6841"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661180"
+      }
+    },
+    {
+      "npi": "1407222599",
+      "personal_info": {
+        "first_name": "ROSENNY",
+        "last_name": "CHASIN",
+        "middle_name": "CAROLINA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "14 JASON PL",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109401909",
+        "telephone": "845-800-5118",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "019120"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661188"
+      }
+    },
+    {
+      "npi": "1841834959",
+      "personal_info": {
+        "first_name": "ARIEL",
+        "last_name": "CHASIPANTA",
+        "middle_name": "D.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "024874"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "024874"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661196"
+      }
+    },
+    {
+      "npi": "1437987351",
+      "personal_info": {
+        "first_name": "EMILY",
+        "last_name": "CHENG",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 PROSPECT AVE",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109404133",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661203"
+      }
+    },
+    {
+      "npi": "1528802501",
+      "personal_info": {
+        "first_name": "CHARLES",
+        "last_name": "CHRISTIAN",
+        "middle_name": "R",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-1000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661210"
+      }
+    },
+    {
+      "npi": "1710297197",
+      "personal_info": {
+        "first_name": "DONNA",
+        "last_name": "COLLINS",
+        "middle_name": "M",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DRIVE",
+        "address_line_2": "MIDDLETOWN MEDICAL PC",
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-818-7555"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "014346"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661217"
+      }
+    },
+    {
+      "npi": "1396342648",
+      "personal_info": {
+        "first_name": "MCKINNLEY",
+        "last_name": "CONKLIN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "025676"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661225"
+      }
+    },
+    {
+      "npi": "1568425684",
+      "personal_info": {
+        "first_name": "DEBORAH",
+        "last_name": "CORREALE",
+        "middle_name": "A.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "206 E BROWN ST",
+        "address_line_2": "HOSPITALIST DEPARTMENT",
+        "city": "EAST STROUDSBURG",
+        "state": "PA",
+        "postal_code": "183013006",
+        "telephone": "570-421-4000",
+        "fax": "570-420-2459"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "011919"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA001076"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PA",
+          "license": "MA003155L"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661233"
+      }
+    },
+    {
+      "npi": "1407480551",
+      "personal_info": {
+        "first_name": "KELLIE",
+        "last_name": "CUMMINGS",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "400 GIDNEY AVE",
+        "address_line_2": null,
+        "city": "NEWBURGH",
+        "state": "NY",
+        "postal_code": "125503760",
+        "telephone": "845-561-1565",
+        "fax": "845-561-1578"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "024733"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661240"
+      }
+    },
+    {
+      "npi": "1215596317",
+      "personal_info": {
+        "first_name": "SHADOE",
+        "last_name": "DANIELS",
+        "middle_name": "M",
+        "credential": "MPAS, PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "8881 NY-97",
+        "address_line_2": null,
+        "city": "CALLICOON",
+        "state": "NY",
+        "postal_code": "12723",
+        "telephone": "845-333-6800",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "024896"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ND",
+          "license": "PAC0965"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PA",
+          "license": "MA060726"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661248"
+      }
+    },
+    {
+      "npi": "1154153765",
+      "personal_info": {
+        "first_name": "JACQUELYN",
+        "last_name": "DEJESUS",
+        "middle_name": "VICTORY",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "480 ROUTE 17M",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109404525",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661255"
+      }
+    },
+    {
+      "npi": "1235723388",
+      "personal_info": {
+        "first_name": "ARMEL",
+        "last_name": "DJIOGAN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "026659"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661262"
+      }
+    },
+    {
+      "npi": "1427353358",
+      "personal_info": {
+        "first_name": "TONI",
+        "last_name": "EATON",
+        "middle_name": "ANN",
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "200 CORPORATE BLVD",
+        "address_line_2": "SUITE 201",
+        "city": "LAFAYETTE",
+        "state": "LA",
+        "postal_code": "705083870",
+        "telephone": "800-893-9698",
+        "fax": "337-593-1838"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "014589"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "014589"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661270"
+      }
+    },
+    {
+      "npi": "1427350982",
+      "personal_info": {
+        "first_name": "CHRISTINE",
+        "last_name": "EDUGENE",
+        "middle_name": "VICTORIA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "33 OVERLOOK RD STE 201",
+        "address_line_2": null,
+        "city": "SUMMIT",
+        "state": "NJ",
+        "postal_code": "079013562",
+        "telephone": "908-522-5045",
+        "fax": "908-522-5041"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "014493"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00678400"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661278"
+      }
+    },
+    {
+      "npi": "1659460236",
+      "personal_info": {
+        "first_name": "IRENE",
+        "last_name": "ENG",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 MYRTLE AVE",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109404122",
+        "telephone": "845-343-4141",
+        "fax": "845-343-1535"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "002456"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661285"
+      }
+    },
+    {
+      "npi": "1164728838",
+      "personal_info": {
+        "first_name": "DAMIEN",
+        "last_name": "FAILLACE",
+        "middle_name": "T",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-1454"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "014579"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "014579"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661293"
+      }
+    },
+    {
+      "npi": "1659920767",
+      "personal_info": {
+        "first_name": "JUSTIN",
+        "last_name": "FALLACARO",
+        "middle_name": "MICHAEL",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "024728"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661301"
+      }
+    },
+    {
+      "npi": "1750890901",
+      "personal_info": {
+        "first_name": "TIMOTHY",
+        "last_name": "FERGUSON",
+        "middle_name": "JAMES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "021345"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "021345"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661308"
+      }
+    },
+    {
+      "npi": "1942452149",
+      "personal_info": {
+        "first_name": "ERIN",
+        "last_name": "FRAWLEY",
+        "middle_name": "COURTNEY",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 PASTEUR DR",
+        "address_line_2": null,
+        "city": "PALO ALTO",
+        "state": "CA",
+        "postal_code": "943042203",
+        "telephone": "650-723-4000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CA",
+          "license": "PA22735"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "002119"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "019968"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CA",
+          "license": "63860"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661317"
+      }
+    },
+    {
+      "npi": "1699962167",
+      "personal_info": {
+        "first_name": "DAPHNE",
+        "last_name": "GARCIA",
+        "middle_name": "A",
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-3641"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "010455"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "010445"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661324"
+      }
+    },
+    {
+      "npi": "1912377656",
+      "personal_info": {
+        "first_name": "SAMANTHA",
+        "last_name": "GARIGLIANO",
+        "middle_name": "ERIN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-818-7555"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "019195"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661332"
+      }
+    },
+    {
+      "npi": "1649462664",
+      "personal_info": {
+        "first_name": "AMBER",
+        "last_name": "GEBHARDT",
+        "middle_name": "RAE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00184400"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "013604-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661339"
+      }
+    },
+    {
+      "npi": "1316209703",
+      "personal_info": {
+        "first_name": "KRISTIN",
+        "last_name": "GRAHAM",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "45 READE PL",
+        "address_line_2": null,
+        "city": "POUGHKEEPSIE",
+        "state": "NY",
+        "postal_code": "126013947",
+        "telephone": "845-437-3152",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "015670"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "015670"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661347"
+      }
+    },
+    {
+      "npi": "1245279405",
+      "personal_info": {
+        "first_name": "TANYA",
+        "last_name": "GREEN",
+        "middle_name": "RENITA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "68 HARRIS RD",
+        "address_line_2": null,
+        "city": "HARRIS",
+        "state": "NY",
+        "postal_code": "127425030",
+        "telephone": "845-794-3300",
+        "fax": "845-794-3240"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "TX",
+          "license": "PA06905"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661353"
+      }
+    },
+    {
+      "npi": "1689142168",
+      "personal_info": {
+        "first_name": "KIERA",
+        "last_name": "HALLIGAN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4744",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "022927"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661360"
+      }
+    },
+    {
+      "npi": "1598125585",
+      "personal_info": {
+        "first_name": "KELLY",
+        "last_name": "HANDEL",
+        "middle_name": "ANN",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "45 READE PL",
+        "address_line_2": null,
+        "city": "POUGHKEEPSIE",
+        "state": "NY",
+        "postal_code": "126013947",
+        "telephone": "845-454-8500",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "019556"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661367"
+      }
+    },
+    {
+      "npi": "1184713729",
+      "personal_info": {
+        "first_name": "AMANDA",
+        "last_name": "HANSEN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-818-7555"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "008330"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661374"
+      }
+    },
+    {
+      "npi": "1306138797",
+      "personal_info": {
+        "first_name": "TODD",
+        "last_name": "JONES",
+        "middle_name": "WILLIAM",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "8881 STATE ROUTE 97",
+        "address_line_2": null,
+        "city": "CALLICOON",
+        "state": "NY",
+        "postal_code": "127235052",
+        "telephone": "845-887-5693",
+        "fax": "845-887-5694"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "014879"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661382"
+      }
+    },
+    {
+      "npi": "1679059216",
+      "personal_info": {
+        "first_name": "KAREN",
+        "last_name": "KAYTES",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "022257"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661390"
+      }
+    },
+    {
+      "npi": "1942455050",
+      "personal_info": {
+        "first_name": "AMRIT",
+        "last_name": "KHATRICHETTRI",
+        "middle_name": "BAHADUR",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "938 OLD YORK RD",
+        "address_line_2": null,
+        "city": "ABINGTON",
+        "state": "PA",
+        "postal_code": "190014703",
+        "telephone": "676-200-2372",
+        "fax": "717-782-5716"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "019610"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "OA004892"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "RI",
+          "license": "PA01294"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA053703"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00697100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661400"
+      }
+    },
+    {
+      "npi": "1841623337",
+      "personal_info": {
+        "first_name": "PANAGIOTIS",
+        "last_name": "KOULOUMBINIS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "016802"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "016802"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661406"
+      }
+    },
+    {
+      "npi": "1457870289",
+      "personal_info": {
+        "first_name": "STEPHANIE",
+        "last_name": "KRAMER",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "200 STONY BROOK CT",
+        "address_line_2": null,
+        "city": "NEWBURGH",
+        "state": "NY",
+        "postal_code": "12550",
+        "telephone": "845-863-1772",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "021300"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "021300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661414"
+      }
+    },
+    {
+      "npi": "1780460857",
+      "personal_info": {
+        "first_name": "MORGAN",
+        "last_name": "KUPERUS",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "10 MANGO DR",
+        "address_line_2": null,
+        "city": "SUSSEX",
+        "state": "NJ",
+        "postal_code": "074614921",
+        "telephone": "973-600-1402",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661421"
+      }
+    },
+    {
+      "npi": "1538198940",
+      "personal_info": {
+        "first_name": "RACHEL",
+        "last_name": "LANDRES",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "914-493-8558",
+        "fax": "914-493-1488"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "007702"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661428"
+      }
+    },
+    {
+      "npi": "1972822203",
+      "personal_info": {
+        "first_name": "JEANNE",
+        "last_name": "LENZER",
+        "middle_name": "MARIE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-343-3295"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "003679"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661434"
+      }
+    },
+    {
+      "npi": "1912324468",
+      "personal_info": {
+        "first_name": "MELANIE",
+        "last_name": "LERNER",
+        "middle_name": "ARIANA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402141",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "027166"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661441"
+      }
+    },
+    {
+      "npi": "1952944308",
+      "personal_info": {
+        "first_name": "THOMAS",
+        "last_name": "MACPHERSON",
+        "middle_name": "C",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402141",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "024312"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661448"
+      }
+    },
+    {
+      "npi": "1851346225",
+      "personal_info": {
+        "first_name": "COLLEEN",
+        "last_name": "MAGAI",
+        "middle_name": "SONDRA",
+        "credential": "R.P.A.-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "2209 GENESEE ST",
+        "address_line_2": null,
+        "city": "UTICA",
+        "state": "NY",
+        "postal_code": "135015930",
+        "telephone": "315-801-3282",
+        "fax": "315-801-8391"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "007669-01"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "007669"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661456"
+      }
+    },
+    {
+      "npi": "1124307210",
+      "personal_info": {
+        "first_name": "DANIELLE",
+        "last_name": "MALONE",
+        "middle_name": null,
+        "credential": "R-PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-1454"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "014959"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "014959"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661464"
+      }
+    },
+    {
+      "npi": "1730837030",
+      "personal_info": {
+        "first_name": "AMRITA",
+        "last_name": "MANGAR",
+        "middle_name": null,
+        "credential": "MPAS, PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "028136"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661471"
+      }
+    },
+    {
+      "npi": "1619518446",
+      "personal_info": {
+        "first_name": "KELLY",
+        "last_name": "MARKISELLO",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "024159"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661478"
+      }
+    },
+    {
+      "npi": "1639620693",
+      "personal_info": {
+        "first_name": "ANDRIY",
+        "last_name": "MARKOV",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "259 1ST ST",
+        "address_line_2": null,
+        "city": "MINEOLA",
+        "state": "NY",
+        "postal_code": "115013957",
+        "telephone": "516-663-4400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "020286"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661486"
+      }
+    },
+    {
+      "npi": "1689306664",
+      "personal_info": {
+        "first_name": "MARIA",
+        "last_name": "MAZUCA",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "029066"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661493"
+      }
+    },
+    {
+      "npi": "1285262956",
+      "personal_info": {
+        "first_name": "BRIDGET",
+        "last_name": "MCKEEVER",
+        "middle_name": "MAUREEN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402141",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "025855"
+        },
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "025855"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661501"
+      }
+    },
+    {
+      "npi": "1548815731",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "MEDINA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "5546 BROADWAY",
+        "address_line_2": null,
+        "city": "BRONX",
+        "state": "NY",
+        "postal_code": "104635250",
+        "telephone": "917-383-2164",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "023799"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661509"
+      }
+    },
+    {
+      "npi": "1598797102",
+      "personal_info": {
+        "first_name": "ALFRED",
+        "last_name": "MENARD",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "005443"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "005443"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661517"
+      }
+    },
+    {
+      "npi": "1699814525",
+      "personal_info": {
+        "first_name": "MARY",
+        "last_name": "MICHALAK",
+        "middle_name": "K",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "147 LAKE ST",
+        "address_line_2": null,
+        "city": "NEWBURGH",
+        "state": "NY",
+        "postal_code": "125505242",
+        "telephone": "845-563-8000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "171100000X",
+          "taxonomy_desc": "Acupuncturist",
+          "primary": false,
+          "state": "NY",
+          "license": "001913"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "013621"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661524"
+      }
+    },
+    {
+      "npi": "1437356706",
+      "personal_info": {
+        "first_name": "CALVIN",
+        "last_name": "MILLER",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-818-7555"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "000164"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661532"
+      }
+    },
+    {
+      "npi": "1801867262",
+      "personal_info": {
+        "first_name": "ERIKA",
+        "last_name": "MONTI",
+        "middle_name": "S",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "016107"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661539"
+      }
+    },
+    {
+      "npi": "1639912975",
+      "personal_info": {
+        "first_name": "MEGHAN",
+        "last_name": "MURPHY",
+        "middle_name": "LEE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 188",
+        "address_line_2": null,
+        "city": "SUGAR LOAF",
+        "state": "NY",
+        "postal_code": "109810188",
+        "telephone": "845-323-0075",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "031986"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661547"
+      }
+    },
+    {
+      "npi": "1538173661",
+      "personal_info": {
+        "first_name": "ANNETTE",
+        "last_name": "MUSANO",
+        "middle_name": "C.",
+        "credential": "RPA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "453 ROUTE 211 E",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402206",
+        "telephone": "845-344-4040",
+        "fax": "845-344-4041"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "001939-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661553"
+      }
+    },
+    {
+      "npi": "1144647959",
+      "personal_info": {
+        "first_name": "DIBNAIN",
+        "last_name": "NANDA",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-1114",
+        "fax": "845-333-2645"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "017478"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "017478"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661560"
+      }
+    },
+    {
+      "npi": "1295397222",
+      "personal_info": {
+        "first_name": "CARLEY",
+        "last_name": "NEINAS",
+        "middle_name": "BROOKE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "023873"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PA",
+          "license": "MA061098"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661568"
+      }
+    },
+    {
+      "npi": "1508262619",
+      "personal_info": {
+        "first_name": "ERICA",
+        "last_name": "NICHOLSON",
+        "middle_name": "JOY",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "018090"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661574"
+      }
+    },
+    {
+      "npi": "1013009976",
+      "personal_info": {
+        "first_name": "BRIGHT",
+        "last_name": "NKRUMAH",
+        "middle_name": "BOAFO",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-1114",
+        "fax": "845-333-1102"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "006344"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "006344"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661581"
+      }
+    },
+    {
+      "npi": "1316780976",
+      "personal_info": {
+        "first_name": "TRACY",
+        "last_name": "NORMAN",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "6926 NE FOURTH PLAIN BLVD",
+        "address_line_2": null,
+        "city": "VANCOUVER",
+        "state": "WA",
+        "postal_code": "986617254",
+        "telephone": "360-993-3000",
+        "fax": "360-993-3099"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "WA",
+          "license": "61576251"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661588"
+      }
+    },
+    {
+      "npi": "1245612373",
+      "personal_info": {
+        "first_name": "OLUWAFEMI",
+        "last_name": "OMOSEBI",
+        "middle_name": "A",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "018668"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "018668"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661595"
+      }
+    },
+    {
+      "npi": "1043589682",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "200 CORPORATE BLVD",
+        "address_line_2": null,
+        "city": "LAFAYETTE",
+        "state": "LA",
+        "postal_code": "705083870",
+        "telephone": "800-893-9698",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207P00000X",
+          "taxonomy_desc": "Emergency Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661604"
+      }
+    },
+    {
+      "npi": "1528540127",
+      "personal_info": {
+        "first_name": "MANEESH",
+        "last_name": "PAL",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-1454"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "022692"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661612"
+      }
+    },
+    {
+      "npi": "1144076928",
+      "personal_info": {
+        "first_name": "MANSHI",
+        "last_name": "PATEL",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "032148"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661619"
+      }
+    },
+    {
+      "npi": "1508309840",
+      "personal_info": {
+        "first_name": "JANET",
+        "last_name": "PENNISI",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-343-8741"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "020094"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661627"
+      }
+    },
+    {
+      "npi": "1144418054",
+      "personal_info": {
+        "first_name": "BREANNE",
+        "last_name": "PHILLIPS",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402141",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PA",
+          "license": "MA053102"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00228600"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "028248"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661635"
+      }
+    },
+    {
+      "npi": "1538922612",
+      "personal_info": {
+        "first_name": "JESSICA",
+        "last_name": "RALLO",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "033268"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661641"
+      }
+    },
+    {
+      "npi": "1356095772",
+      "personal_info": {
+        "first_name": "ERICA",
+        "last_name": "RAMOS",
+        "middle_name": "J",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "22 COTTAGE ST STE 3A",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109405060",
+        "telephone": "619-964-9945",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661648"
+      }
+    },
+    {
+      "npi": "1750651279",
+      "personal_info": {
+        "first_name": "AMANDA",
+        "last_name": "RAND",
+        "middle_name": "ROSE",
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661656"
+      }
+    },
+    {
+      "npi": "1508823212",
+      "personal_info": {
+        "first_name": "THERESA",
+        "last_name": "RAPOSO MARQUES",
+        "middle_name": "ANN",
+        "credential": "MPAS; APA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "021883"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661663"
+      }
+    },
+    {
+      "npi": "1447868807",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "RIVERA",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "025314"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661670"
+      }
+    },
+    {
+      "npi": "1003221193",
+      "personal_info": {
+        "first_name": "KIRSTEN",
+        "last_name": "RUHL",
+        "middle_name": "A.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "249 FRANKLIN AVE",
+        "address_line_2": null,
+        "city": "NUTLEY",
+        "state": "NJ",
+        "postal_code": "071102115",
+        "telephone": "845-342-4774",
+        "fax": "845-343-8741"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "017609"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00348900"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661677"
+      }
+    },
+    {
+      "npi": "1427020056",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "SAMPLES",
+        "middle_name": "L",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-342-8741"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "009761"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661683"
+      }
+    },
+    {
+      "npi": "1841777430",
+      "personal_info": {
+        "first_name": "JASMINE",
+        "last_name": "SANTIAGO",
+        "middle_name": "LEIGH",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "022743"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661691"
+      }
+    },
+    {
+      "npi": "1497970305",
+      "personal_info": {
+        "first_name": "NICOLE",
+        "last_name": "SCHACHNOVSKY",
+        "middle_name": "B.",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-343-4774",
+        "fax": "845-818-7555"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "008059-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661698"
+      }
+    },
+    {
+      "npi": "1912500307",
+      "personal_info": {
+        "first_name": "MAJA",
+        "last_name": "SCHAPPELL",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402141",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "025983"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661704"
+      }
+    },
+    {
+      "npi": "1851885602",
+      "personal_info": {
+        "first_name": "WALTER",
+        "last_name": "SCHILLING",
+        "middle_name": "JOHN",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "022179"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661711"
+      }
+    },
+    {
+      "npi": "1255938577",
+      "personal_info": {
+        "first_name": "RAMSHA",
+        "last_name": "SHEIKH",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "2107 STATE ROUTE 35",
+        "address_line_2": null,
+        "city": "HOLMDEL",
+        "state": "NJ",
+        "postal_code": "077332795",
+        "telephone": "732-706-5437",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "025878"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00752300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661719"
+      }
+    },
+    {
+      "npi": "1497599542",
+      "personal_info": {
+        "first_name": "MORGAN",
+        "last_name": "SICURO",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "61-63 CANAL ST",
+        "address_line_2": null,
+        "city": "PORT JERVIS",
+        "state": "NY",
+        "postal_code": "127711625",
+        "telephone": "845-313-9938",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661726"
+      }
+    },
+    {
+      "npi": "1689122400",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "SIDOTI",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-343-8741"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "020100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661733"
+      }
+    },
+    {
+      "npi": "1134961576",
+      "personal_info": {
+        "first_name": "MAGDALENA",
+        "last_name": "SKUMIAL",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-1300",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661740"
+      }
+    },
+    {
+      "npi": "1598431231",
+      "personal_info": {
+        "first_name": "OLIVER",
+        "last_name": "SMITH",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-1454"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "027026-01"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661747"
+      }
+    },
+    {
+      "npi": "1770056566",
+      "personal_info": {
+        "first_name": "JUSTIN",
+        "last_name": "SPANGLER",
+        "middle_name": "PETER",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2700 DOLBEER ST",
+        "address_line_2": null,
+        "city": "EUREKA",
+        "state": "CA",
+        "postal_code": "955014736",
+        "telephone": "707-269-4253",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NV",
+          "license": "PA2082"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "025290"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CA",
+          "license": "56456"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661755"
+      }
+    },
+    {
+      "npi": "1275295917",
+      "personal_info": {
+        "first_name": "PETER",
+        "last_name": "STAMPFEL",
+        "middle_name": "GERARD",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "55 FOGG RD",
+        "address_line_2": null,
+        "city": "WEYMOUTH",
+        "state": "MA",
+        "postal_code": "021902432",
+        "telephone": "781-624-8000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661763"
+      }
+    },
+    {
+      "npi": "1083238984",
+      "personal_info": {
+        "first_name": "AREZOO",
+        "last_name": "TEIMOURI",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661770"
+      }
+    },
+    {
+      "npi": "1871586891",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "THORNELL",
+        "middle_name": null,
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "007682"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "007682"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661778"
+      }
+    },
+    {
+      "npi": "1295487411",
+      "personal_info": {
+        "first_name": "MARIJANE",
+        "last_name": "TINOCO",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402141",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "027962"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661786"
+      }
+    },
+    {
+      "npi": "1558989004",
+      "personal_info": {
+        "first_name": "ANISHA",
+        "last_name": "VADEHRA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661794"
+      }
+    },
+    {
+      "npi": "1306872486",
+      "personal_info": {
+        "first_name": "DAVID",
+        "last_name": "VARIAN",
+        "middle_name": "W",
+        "credential": "RPA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "011052"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "011052"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661802"
+      }
+    },
+    {
+      "npi": "1932302478",
+      "personal_info": {
+        "first_name": "SORAYA",
+        "last_name": "VAZQUEZ",
+        "middle_name": "E",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "004472"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "004472"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661809"
+      }
+    },
+    {
+      "npi": "1942625504",
+      "personal_info": {
+        "first_name": "MARCO",
+        "last_name": "VEINTIMILLA",
+        "middle_name": "ANTONIO",
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "017392"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661816"
+      }
+    },
+    {
+      "npi": "1861647224",
+      "personal_info": {
+        "first_name": "JASMINE",
+        "last_name": "VIGO",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "111 E 210TH ST",
+        "address_line_2": null,
+        "city": "BRONX",
+        "state": "NY",
+        "postal_code": "104672401",
+        "telephone": "718-920-2961",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "013032"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661823"
+      }
+    },
+    {
+      "npi": "1871739128",
+      "personal_info": {
+        "first_name": "ANNEMARIE",
+        "last_name": "VILLARRAGA",
+        "middle_name": "L",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-1454"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "019726"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661830"
+      }
+    },
+    {
+      "npi": "1689714123",
+      "personal_info": {
+        "first_name": "DAVIDE",
+        "last_name": "VOLPE",
+        "middle_name": "MATTHEW",
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "177 FORT WASHINGTON AVE",
+        "address_line_2": null,
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "100323733",
+        "telephone": "212-305-1246",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "5657-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661840"
+      }
+    },
+    {
+      "npi": "1801291299",
+      "personal_info": {
+        "first_name": "JONATHAN",
+        "last_name": "WEISS",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "018166"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661847"
+      }
+    },
+    {
+      "npi": "1972796696",
+      "personal_info": {
+        "first_name": "ADAM",
+        "last_name": "WIESENTHAL",
+        "middle_name": "JASON",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-3641"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "012686"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "CT",
+          "license": "002057"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "012686-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661854"
+      }
+    },
+    {
+      "npi": "1194299347",
+      "personal_info": {
+        "first_name": "ALICIA",
+        "last_name": "WILSON",
+        "middle_name": "ANN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "023302"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661862"
+      }
+    },
+    {
+      "npi": "1467504993",
+      "personal_info": {
+        "first_name": "ANTHONY",
+        "last_name": "WONG",
+        "middle_name": null,
+        "credential": "RPA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "75 HOLLY HILL LN",
+        "address_line_2": null,
+        "city": "GREENWICH",
+        "state": "CT",
+        "postal_code": "068306098",
+        "telephone": "203-661-3333",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "CT",
+          "license": "002215"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "23-009726"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661870"
+      }
+    },
+    {
+      "npi": "1346716727",
+      "personal_info": {
+        "first_name": "SHANNA",
+        "last_name": "WOOD",
+        "middle_name": "LEIGH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661877"
+      }
+    },
+    {
+      "npi": "1194081752",
+      "personal_info": {
+        "first_name": "AMBER",
+        "last_name": "WRIGHT",
+        "middle_name": null,
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-4696"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "014762"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "014762"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661884"
+      }
+    },
+    {
+      "npi": "1851707830",
+      "personal_info": {
+        "first_name": "DOUGLAS",
+        "last_name": "YODICE",
+        "middle_name": "STEVEN",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "020249"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661892"
+      }
+    },
+    {
+      "npi": "1922400480",
+      "personal_info": {
+        "first_name": "MICHELLE",
+        "last_name": "ZINN",
+        "middle_name": "C",
+        "credential": "physician assistant",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 MALTESE DR",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115",
+        "telephone": "845-342-4774",
+        "fax": "845-343-8741"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "OA003396"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PA",
+          "license": "MA057123"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661900"
+      }
+    },
+    {
+      "npi": "1750524435",
+      "personal_info": {
+        "first_name": "JASMINE",
+        "last_name": "ZOSCHAK",
+        "middle_name": "MARTINEZ",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "185 RYKOWSKI LN 101",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109414055",
+        "telephone": "845-692-0030",
+        "fax": "845-692-0037"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PA",
+          "license": "MA003175L"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "10940",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661906"
+      }
+    },
+    {
+      "npi": "1225812951",
+      "personal_info": {
+        "first_name": "MCKINLEY",
+        "last_name": "BERNITT",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "32 THOMPSON SQUARE MALL STE 5",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013220",
+        "telephone": "845-791-6400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "030479"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661913"
+      }
+    },
+    {
+      "npi": "1831574433",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "BLAIR",
+        "middle_name": "JAMES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "018790"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661921"
+      }
+    },
+    {
+      "npi": "1356129191",
+      "personal_info": {
+        "first_name": "MADJEANNA",
+        "last_name": "BRUTUS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "030958"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661928"
+      }
+    },
+    {
+      "npi": "1902515109",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "BUNNELL",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "029469"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661935"
+      }
+    },
+    {
+      "npi": "1215596317",
+      "personal_info": {
+        "first_name": "SHADOE",
+        "last_name": "DANIELS",
+        "middle_name": "M",
+        "credential": "MPAS, PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "8881 NY-97",
+        "address_line_2": null,
+        "city": "CALLICOON",
+        "state": "NY",
+        "postal_code": "12723",
+        "telephone": "845-333-6800",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "024896"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ND",
+          "license": "PAC0965"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PA",
+          "license": "MA060726"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661943"
+      }
+    },
+    {
+      "npi": "1811746381",
+      "personal_info": {
+        "first_name": "ANDREW",
+        "last_name": "DE LA MATA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "68 HARRIS BUSHVILLE RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013027",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661950"
+      }
+    },
+    {
+      "npi": "1750890901",
+      "personal_info": {
+        "first_name": "TIMOTHY",
+        "last_name": "FERGUSON",
+        "middle_name": "JAMES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "021345"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "021345"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661958"
+      }
+    },
+    {
+      "npi": "1861416810",
+      "personal_info": {
+        "first_name": "TRICIA",
+        "last_name": "HARVEY",
+        "middle_name": null,
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CT",
+          "license": "001602"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "010513"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661965"
+      }
+    },
+    {
+      "npi": "1306138797",
+      "personal_info": {
+        "first_name": "TODD",
+        "last_name": "JONES",
+        "middle_name": "WILLIAM",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "8881 STATE ROUTE 97",
+        "address_line_2": null,
+        "city": "CALLICOON",
+        "state": "NY",
+        "postal_code": "127235052",
+        "telephone": "845-887-5693",
+        "fax": "845-887-5694"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "014879"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661972"
+      }
+    },
+    {
+      "npi": "1679059216",
+      "personal_info": {
+        "first_name": "KAREN",
+        "last_name": "KAYTES",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "022257"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661979"
+      }
+    },
+    {
+      "npi": "1912617895",
+      "personal_info": {
+        "first_name": "HUI",
+        "last_name": "LIN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "110 BRIDGEVILLE RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013829",
+        "telephone": "845-794-3030",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661987"
+      }
+    },
+    {
+      "npi": "1306894324",
+      "personal_info": {
+        "first_name": "ZECHARIA",
+        "last_name": "LIND",
+        "middle_name": null,
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "110 BRIDGEVILLE RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127011742",
+        "telephone": "845-794-3030",
+        "fax": "845-794-3036"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "007128-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.661994"
+      }
+    },
+    {
+      "npi": "1730837030",
+      "personal_info": {
+        "first_name": "AMRITA",
+        "last_name": "MANGAR",
+        "middle_name": null,
+        "credential": "MPAS, PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "028136"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662192"
+      }
+    },
+    {
+      "npi": "1619518446",
+      "personal_info": {
+        "first_name": "KELLY",
+        "last_name": "MARKISELLO",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "024159"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662200"
+      }
+    },
+    {
+      "npi": "1689306664",
+      "personal_info": {
+        "first_name": "MARIA",
+        "last_name": "MAZUCA",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "029066"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662207"
+      }
+    },
+    {
+      "npi": "1669929899",
+      "personal_info": {
+        "first_name": "BRYNN",
+        "last_name": "MCKEON",
+        "middle_name": "NICOLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "020076"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662213"
+      }
+    },
+    {
+      "npi": "1699814525",
+      "personal_info": {
+        "first_name": "MARY",
+        "last_name": "MICHALAK",
+        "middle_name": "K",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "147 LAKE ST",
+        "address_line_2": null,
+        "city": "NEWBURGH",
+        "state": "NY",
+        "postal_code": "125505242",
+        "telephone": "845-563-8000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "171100000X",
+          "taxonomy_desc": "Acupuncturist",
+          "primary": false,
+          "state": "NY",
+          "license": "001913"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "013621"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662222"
+      }
+    },
+    {
+      "npi": "1538922612",
+      "personal_info": {
+        "first_name": "JESSICA",
+        "last_name": "RALLO",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "033268"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662229"
+      }
+    },
+    {
+      "npi": "1508823212",
+      "personal_info": {
+        "first_name": "THERESA",
+        "last_name": "RAPOSO MARQUES",
+        "middle_name": "ANN",
+        "credential": "MPAS; APA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "021883"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662236"
+      }
+    },
+    {
+      "npi": "1841777430",
+      "personal_info": {
+        "first_name": "JASMINE",
+        "last_name": "SANTIAGO",
+        "middle_name": "LEIGH",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "022743"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662243"
+      }
+    },
+    {
+      "npi": "1851885602",
+      "personal_info": {
+        "first_name": "WALTER",
+        "last_name": "SCHILLING",
+        "middle_name": "JOHN",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "022179"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662249"
+      }
+    },
+    {
+      "npi": "1255938577",
+      "personal_info": {
+        "first_name": "RAMSHA",
+        "last_name": "SHEIKH",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "2107 STATE ROUTE 35",
+        "address_line_2": null,
+        "city": "HOLMDEL",
+        "state": "NJ",
+        "postal_code": "077332795",
+        "telephone": "732-706-5437",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "025878"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00752300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662256"
+      }
+    },
+    {
+      "npi": "1720170533",
+      "personal_info": {
+        "first_name": "DONALD",
+        "last_name": "STONER",
+        "middle_name": "DUANE",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1200 BROWN ST",
+        "address_line_2": "4TH FLOOR - CREDENTIALING",
+        "city": "PEEKSKILL",
+        "state": "NY",
+        "postal_code": "105663617",
+        "telephone": "914-734-8858",
+        "fax": "914-734-8745"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "003363"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662263"
+      }
+    },
+    {
+      "npi": "1871586891",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "THORNELL",
+        "middle_name": null,
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "007682"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "007682"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662270"
+      }
+    },
+    {
+      "npi": "1558989004",
+      "personal_info": {
+        "first_name": "ANISHA",
+        "last_name": "VADEHRA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7139"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12701",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662276"
+      }
+    },
+    {
+      "npi": "1538814231",
+      "personal_info": {
+        "first_name": "ANTHONY",
+        "last_name": "ANGELONI",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "440 MAMARONECK AVE STE 201",
+        "address_line_2": null,
+        "city": "HARRISON",
+        "state": "NY",
+        "postal_code": "105282438",
+        "telephone": "646-380-2600",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "027782"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12721",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662283"
+      }
+    },
+    {
+      "npi": "1215596317",
+      "personal_info": {
+        "first_name": "SHADOE",
+        "last_name": "DANIELS",
+        "middle_name": "M",
+        "credential": "MPAS, PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "8881 NY-97",
+        "address_line_2": null,
+        "city": "CALLICOON",
+        "state": "NY",
+        "postal_code": "12723",
+        "telephone": "845-333-6800",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "024896"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ND",
+          "license": "PAC0965"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PA",
+          "license": "MA060726"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12723",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662291"
+      }
+    },
+    {
+      "npi": "1306138797",
+      "personal_info": {
+        "first_name": "TODD",
+        "last_name": "JONES",
+        "middle_name": "WILLIAM",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "8881 STATE ROUTE 97",
+        "address_line_2": null,
+        "city": "CALLICOON",
+        "state": "NY",
+        "postal_code": "127235052",
+        "telephone": "845-887-5693",
+        "fax": "845-887-5694"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "014879"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12723",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662298"
+      }
+    },
+    {
+      "npi": "1902997091",
+      "personal_info": {
+        "first_name": "DENNIS",
+        "last_name": "WAXMAN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 421",
+        "address_line_2": "CRMC PHYSICIAN SERVICES",
+        "city": "HARRIS",
+        "state": "NY",
+        "postal_code": "127420421",
+        "telephone": "845-794-9864",
+        "fax": "845-794-9868"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "001355"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12734",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662305"
+      }
+    },
+    {
+      "npi": "1326060906",
+      "personal_info": {
+        "first_name": "CAROL",
+        "last_name": "WAXMAN",
+        "middle_name": "ANN",
+        "credential": "RPAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "108 HALL ROAD",
+        "address_line_2": null,
+        "city": "GRAHAMSVILLE",
+        "state": "NY",
+        "postal_code": "127409749",
+        "telephone": "845-985-7304",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "0018351"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12740",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662313"
+      }
+    },
+    {
+      "npi": "1982292785",
+      "personal_info": {
+        "first_name": "ROXANNE",
+        "last_name": "ALLEN",
+        "middle_name": "SHELLY-ANN T.",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "026161"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "026161"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662320"
+      }
+    },
+    {
+      "npi": "1538209168",
+      "personal_info": {
+        "first_name": "YVONNE",
+        "last_name": "BUCKNER",
+        "middle_name": "MARCIA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "002081"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662327"
+      }
+    },
+    {
+      "npi": "1437824042",
+      "personal_info": {
+        "first_name": "REBECCA",
+        "last_name": "BYAM",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-3641"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA8206"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "031695"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662334"
+      }
+    },
+    {
+      "npi": "1841834959",
+      "personal_info": {
+        "first_name": "ARIEL",
+        "last_name": "CHASIPANTA",
+        "middle_name": "D.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "024874"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "024874"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662341"
+      }
+    },
+    {
+      "npi": "1568425684",
+      "personal_info": {
+        "first_name": "DEBORAH",
+        "last_name": "CORREALE",
+        "middle_name": "A.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "206 E BROWN ST",
+        "address_line_2": "HOSPITALIST DEPARTMENT",
+        "city": "EAST STROUDSBURG",
+        "state": "PA",
+        "postal_code": "183013006",
+        "telephone": "570-421-4000",
+        "fax": "570-420-2459"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "011919"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA001076"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PA",
+          "license": "MA003155L"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662348"
+      }
+    },
+    {
+      "npi": "1235723388",
+      "personal_info": {
+        "first_name": "ARMEL",
+        "last_name": "DJIOGAN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "026659"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662355"
+      }
+    },
+    {
+      "npi": "1659920767",
+      "personal_info": {
+        "first_name": "JUSTIN",
+        "last_name": "FALLACARO",
+        "middle_name": "MICHAEL",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "024728"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662362"
+      }
+    },
+    {
+      "npi": "1750890901",
+      "personal_info": {
+        "first_name": "TIMOTHY",
+        "last_name": "FERGUSON",
+        "middle_name": "JAMES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "021345"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "021345"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662370"
+      }
+    },
+    {
+      "npi": "1942452149",
+      "personal_info": {
+        "first_name": "ERIN",
+        "last_name": "FRAWLEY",
+        "middle_name": "COURTNEY",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 PASTEUR DR",
+        "address_line_2": null,
+        "city": "PALO ALTO",
+        "state": "CA",
+        "postal_code": "943042203",
+        "telephone": "650-723-4000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CA",
+          "license": "PA22735"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "002119"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "019968"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CA",
+          "license": "63860"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662378"
+      }
+    },
+    {
+      "npi": "1245279405",
+      "personal_info": {
+        "first_name": "TANYA",
+        "last_name": "GREEN",
+        "middle_name": "RENITA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "68 HARRIS RD",
+        "address_line_2": null,
+        "city": "HARRIS",
+        "state": "NY",
+        "postal_code": "127425030",
+        "telephone": "845-794-3300",
+        "fax": "845-794-3240"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "TX",
+          "license": "PA06905"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662385"
+      }
+    },
+    {
+      "npi": "1598125585",
+      "personal_info": {
+        "first_name": "KELLY",
+        "last_name": "HANDEL",
+        "middle_name": "ANN",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "45 READE PL",
+        "address_line_2": null,
+        "city": "POUGHKEEPSIE",
+        "state": "NY",
+        "postal_code": "126013947",
+        "telephone": "845-454-8500",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "019556"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662392"
+      }
+    },
+    {
+      "npi": "1841623337",
+      "personal_info": {
+        "first_name": "PANAGIOTIS",
+        "last_name": "KOULOUMBINIS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "016802"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "016802"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662400"
+      }
+    },
+    {
+      "npi": "1245612373",
+      "personal_info": {
+        "first_name": "OLUWAFEMI",
+        "last_name": "OMOSEBI",
+        "middle_name": "A",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "018668"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "018668"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662408"
+      }
+    },
+    {
+      "npi": "1366879108",
+      "personal_info": {
+        "first_name": "JONATHAN",
+        "last_name": "ORTEGA",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "68 HARRIS RD",
+        "address_line_2": null,
+        "city": "HARRIS",
+        "state": "NY",
+        "postal_code": "127425030",
+        "telephone": "800-893-9698",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "016976"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662415"
+      }
+    },
+    {
+      "npi": "1750651279",
+      "personal_info": {
+        "first_name": "AMANDA",
+        "last_name": "RAND",
+        "middle_name": "ROSE",
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662423"
+      }
+    },
+    {
+      "npi": "1508823212",
+      "personal_info": {
+        "first_name": "THERESA",
+        "last_name": "RAPOSO MARQUES",
+        "middle_name": "ANN",
+        "credential": "MPAS; APA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-7575",
+        "fax": "845-333-7202"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "021883"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662431"
+      }
+    },
+    {
+      "npi": "1851885602",
+      "personal_info": {
+        "first_name": "WALTER",
+        "last_name": "SCHILLING",
+        "middle_name": "JOHN",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "022179"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662437"
+      }
+    },
+    {
+      "npi": "1477823292",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "68 HARRIS ROAD",
+        "address_line_2": null,
+        "city": "HARRIS",
+        "state": "NY",
+        "postal_code": "127425030",
+        "telephone": "845-794-3300",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207P00000X",
+          "taxonomy_desc": "Emergency Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662444"
+      }
+    },
+    {
+      "npi": "1528338480",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "68 HARRIS RD",
+        "address_line_2": null,
+        "city": "HARRIS",
+        "state": "NY",
+        "postal_code": "12742",
+        "telephone": "845-794-3300",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207P00000X",
+          "taxonomy_desc": "Emergency Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662452"
+      }
+    },
+    {
+      "npi": "1083238984",
+      "personal_info": {
+        "first_name": "AREZOO",
+        "last_name": "TEIMOURI",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662458"
+      }
+    },
+    {
+      "npi": "1932302478",
+      "personal_info": {
+        "first_name": "SORAYA",
+        "last_name": "VAZQUEZ",
+        "middle_name": "E",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "004472"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "004472"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662465"
+      }
+    },
+    {
+      "npi": "1902997091",
+      "personal_info": {
+        "first_name": "DENNIS",
+        "last_name": "WAXMAN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 421",
+        "address_line_2": "CRMC PHYSICIAN SERVICES",
+        "city": "HARRIS",
+        "state": "NY",
+        "postal_code": "127420421",
+        "telephone": "845-794-9864",
+        "fax": "845-794-9868"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "001355"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662472"
+      }
+    },
+    {
+      "npi": "1194299347",
+      "personal_info": {
+        "first_name": "ALICIA",
+        "last_name": "WILSON",
+        "middle_name": "ANN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "023302"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662479"
+      }
+    },
+    {
+      "npi": "1851707830",
+      "personal_info": {
+        "first_name": "DOUGLAS",
+        "last_name": "YODICE",
+        "middle_name": "STEVEN",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "707 E MAIN ST",
+        "address_line_2": null,
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402650",
+        "telephone": "845-333-3370",
+        "fax": "845-333-3372"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "020249"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12742",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662486"
+      }
+    },
+    {
+      "npi": "1447210125",
+      "personal_info": {
+        "first_name": "MICHELE",
+        "last_name": "SCHWARTZ",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "63 FOX CROFT VLG",
+        "address_line_2": null,
+        "city": "LOCH SHELDRAKE",
+        "state": "NY",
+        "postal_code": "127595407",
+        "telephone": "845-434-4763",
+        "fax": "718-567-4077"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "001408"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12759",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662493"
+      }
+    },
+    {
+      "npi": "1851592927",
+      "personal_info": {
+        "first_name": "ANGELA",
+        "last_name": "PANTELIAS",
+        "middle_name": "V",
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "202 FRIEDENSTEIN RD",
+        "address_line_2": null,
+        "city": "LONG EDDY",
+        "state": "NY",
+        "postal_code": "127605906",
+        "telephone": "845-887-2060",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "0037321"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12760",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662501"
+      }
+    },
+    {
+      "npi": "1114632510",
+      "personal_info": {
+        "first_name": "KIMI",
+        "last_name": "SAN MIGUEL DIAZ",
+        "middle_name": null,
+        "credential": "MS, PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 JUBILEE DR",
+        "address_line_2": null,
+        "city": "PEABODY",
+        "state": "MA",
+        "postal_code": "019604068",
+        "telephone": "978-513-7588",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12762",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662508"
+      }
+    },
+    {
+      "npi": "1831242395",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "66 5TH ST",
+        "address_line_2": null,
+        "city": "NARROWSBURG",
+        "state": "NY",
+        "postal_code": "127646001",
+        "telephone": "845-252-6677",
+        "fax": "845-252-7127"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363LF0000X",
+          "taxonomy_desc": "Nurse Practitioner, Family",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12764",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662516"
+      }
+    },
+    {
+      "npi": "1386866796",
+      "personal_info": {
+        "first_name": "JAMES",
+        "last_name": "GILLIAM",
+        "middle_name": "WILLIAM",
+        "credential": "M.P.A.S., PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 792",
+        "address_line_2": null,
+        "city": "ROCK HILL",
+        "state": "NY",
+        "postal_code": "127750792",
+        "telephone": "645-544-1563",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "000227"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12775",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662523"
+      }
+    },
+    {
+      "npi": "1801266994",
+      "personal_info": {
+        "first_name": "KATE",
+        "last_name": "INGBER",
+        "middle_name": "M.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "61 EMERALD PL",
+        "address_line_2": null,
+        "city": "ROCK HILL",
+        "state": "NY",
+        "postal_code": "127756049",
+        "telephone": "845-794-6999",
+        "fax": "845-703-6297"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "019212"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12775",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662530"
+      }
+    },
+    {
+      "npi": "1659103182",
+      "personal_info": {
+        "first_name": "CARLY",
+        "last_name": "LEVENTOFF",
+        "middle_name": "ROSE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "640 S STATE ST",
+        "address_line_2": null,
+        "city": "DOVER",
+        "state": "DE",
+        "postal_code": "199013530",
+        "telephone": "302-674-4700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12779",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662537"
+      }
+    },
+    {
+      "npi": "1326060906",
+      "personal_info": {
+        "first_name": "CAROL",
+        "last_name": "WAXMAN",
+        "middle_name": "ANN",
+        "credential": "RPAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "108 HALL ROAD",
+        "address_line_2": null,
+        "city": "GRAHAMSVILLE",
+        "state": "NY",
+        "postal_code": "127409749",
+        "telephone": "845-985-7304",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "0018351"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12783",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662544"
+      }
+    },
+    {
+      "npi": "1063626760",
+      "personal_info": {
+        "first_name": "MARCO",
+        "last_name": "TARDIO",
+        "middle_name": "FRANCESCO",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1377 STATE ROUTE 42",
+        "address_line_2": null,
+        "city": "SPARROWBUSH",
+        "state": "NY",
+        "postal_code": "127805027",
+        "telephone": "347-598-2434",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "010418"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12780",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662551"
+      }
+    },
+    {
+      "npi": "1952912404",
+      "personal_info": {
+        "first_name": "ALEXANDRA",
+        "last_name": "BALAN",
+        "middle_name": "LIVIA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 157",
+        "address_line_2": null,
+        "city": "WHITE LAKE",
+        "state": "NY",
+        "postal_code": "127860157",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "024724"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12786",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662558"
+      }
+    },
+    {
+      "npi": "1669929899",
+      "personal_info": {
+        "first_name": "BRYNN",
+        "last_name": "MCKEON",
+        "middle_name": "NICOLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 CONCORD RD",
+        "address_line_2": null,
+        "city": "MONTICELLO",
+        "state": "NY",
+        "postal_code": "127013210",
+        "telephone": "845-333-6500",
+        "fax": "845-333-6501"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "020076"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12786",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662565"
+      }
+    },
+    {
+      "npi": "1467706333",
+      "personal_info": {
+        "first_name": "INESSA",
+        "last_name": "SHLIFER",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 32",
+        "address_line_2": null,
+        "city": "WHITE LAKE",
+        "state": "NY",
+        "postal_code": "127860032",
+        "telephone": "914-907-3864",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "005355"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12786",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662573"
+      }
+    },
+    {
+      "npi": "1184903841",
+      "personal_info": {
+        "first_name": "FRANK",
+        "last_name": "CHATEAU",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "28 SUMMIT DR",
+        "address_line_2": null,
+        "city": "YULAN",
+        "state": "NY",
+        "postal_code": "12792",
+        "telephone": "845-557-8491",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "000559-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12792",
+        "retrieved_timestamp": "2025-02-18T04:22:14.662580"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2023 @@
+{
+  "metadata": {
+    "msa_name": "Amsterdam, NY MicroSA",
+    "query_timestamp": "2025-02-18T04:19:12.016507",
+    "total_physicians": 57,
+    "specialty_distribution": {
+      "Physician Assistant": 50,
+      "Physician Assistant, Medical": 10,
+      "Physician Assistant, Surgical": 4,
+      "Nurse Practitioner": 2,
+      "Family Medicine": 1,
+      "Surgery": 1,
+      "General Practice": 1,
+      "Internal Medicine, Clinical Cardiac Electrophysiology": 1,
+      "Internal Medicine, Interventional Cardiology": 1,
+      "Internal Medicine, Pulmonary Disease": 1,
+      "Clinic/Center, Multi-Specialty": 1,
+      "Internal Medicine, Cardiovascular Disease": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1205804408",
+      "personal_info": {
+        "first_name": "RICK",
+        "last_name": "MCLAUGHLIN",
+        "middle_name": "L.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1101 HARDIN RD",
+        "address_line_2": null,
+        "city": "DELANSON",
+        "state": "NY",
+        "postal_code": "120534113",
+        "telephone": "518-281-6572",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "001244-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12053",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016525"
+      }
+    },
+    {
+      "npi": "1508893157",
+      "personal_info": {
+        "first_name": "CHERYL",
+        "last_name": "PEROG",
+        "middle_name": "J",
+        "credential": "PA-C, MHS",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "21 LEA DR",
+        "address_line_2": null,
+        "city": "DELANSON",
+        "state": "NY",
+        "postal_code": "120533551",
+        "telephone": "518-875-6192",
+        "fax": "518-875-9037"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "003521"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12053",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016534"
+      }
+    },
+    {
+      "npi": "1669995965",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "BEYER",
+        "middle_name": "K",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "3768 STATE HIGHWAY 30",
+        "address_line_2": "BROADALBIN HEALTH CENTER",
+        "city": "BROADALBIN",
+        "state": "NY",
+        "postal_code": "120250923",
+        "telephone": "518-883-3121",
+        "fax": "518-883-8268"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "020907"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016543"
+      }
+    },
+    {
+      "npi": "1972619047",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "BIELAWA",
+        "middle_name": "A",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 FRONT ST",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120104819",
+        "telephone": "518-843-4414",
+        "fax": "518-843-4415"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "007131"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016550"
+      }
+    },
+    {
+      "npi": "1861939944",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "3768 STATE HIGHWAY 30",
+        "address_line_2": "BROADALBIN HEALTH CENTER",
+        "city": "BROADALBIN",
+        "state": "NY",
+        "postal_code": "120250923",
+        "telephone": "518-883-3121",
+        "fax": "518-883-8268"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208600000X",
+          "taxonomy_desc": "Surgery",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016560"
+      }
+    },
+    {
+      "npi": "1861825473",
+      "personal_info": {
+        "first_name": "BLAIR",
+        "last_name": "CICCARELLI",
+        "middle_name": "LEE",
+        "credential": "RPA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120101054",
+        "telephone": "518-841-7237",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "016862"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016568"
+      }
+    },
+    {
+      "npi": "1265001911",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "D'AGOSTINO",
+        "middle_name": "JON",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1001 E 2ND ST",
+        "address_line_2": null,
+        "city": "COUDERSPORT",
+        "state": "PA",
+        "postal_code": "169158161",
+        "telephone": "814-274-0900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "026685"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "026685"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016575"
+      }
+    },
+    {
+      "npi": "1205148210",
+      "personal_info": {
+        "first_name": "JESSICA",
+        "last_name": "DEVER",
+        "middle_name": "S",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120101054",
+        "telephone": "215-749-2976",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "016921"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016581"
+      }
+    },
+    {
+      "npi": "1043347784",
+      "personal_info": {
+        "first_name": "THOMAS",
+        "last_name": "DOOLIN",
+        "middle_name": "MICHAEL",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4988 STATE HIGHWAY 30",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120107520",
+        "telephone": "518-841-3580",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "004415-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016589"
+      }
+    },
+    {
+      "npi": "1215949292",
+      "personal_info": {
+        "first_name": "YVONNE",
+        "last_name": "FASONE",
+        "middle_name": null,
+        "credential": "R.P.A.-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "5010 STATE HIGHWAY 30",
+        "address_line_2": "SUITE G-02",
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120107532",
+        "telephone": "518-842-0017",
+        "fax": "518-842-7545"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "002636-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016595"
+      }
+    },
+    {
+      "npi": "1952138810",
+      "personal_info": {
+        "first_name": "JULIA",
+        "last_name": "FISHER",
+        "middle_name": "CLEO",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "425 GUY PARK AVE STE 302",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120101044",
+        "telephone": "518-841-7432",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016603"
+      }
+    },
+    {
+      "npi": "1629022454",
+      "personal_info": {
+        "first_name": "KARIN",
+        "last_name": "FOWLER",
+        "middle_name": "ANNE",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2546 BALLTOWN RD",
+        "address_line_2": "SUITE 203",
+        "city": "SCHENECTADY",
+        "state": "NY",
+        "postal_code": "123091079",
+        "telephone": "518-377-8198",
+        "fax": "518-377-0620"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "005449"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016610"
+      }
+    },
+    {
+      "npi": "1932910999",
+      "personal_info": {
+        "first_name": "KYLIE",
+        "last_name": "GEORGE",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "801 RIVERSIDE AVE",
+        "address_line_2": null,
+        "city": "SCOTIA",
+        "state": "NY",
+        "postal_code": "123021127",
+        "telephone": "518-227-2886",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016617"
+      }
+    },
+    {
+      "npi": "1326654633",
+      "personal_info": {
+        "first_name": "KORTNEY",
+        "last_name": "GUGUMUCK",
+        "middle_name": "ROSE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "11835 RT 9W",
+        "address_line_2": null,
+        "city": "WEST COXSACKIE",
+        "state": "NY",
+        "postal_code": "121923605",
+        "telephone": "518-264-9000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "025618"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016623"
+      }
+    },
+    {
+      "npi": "1063429686",
+      "personal_info": {
+        "first_name": "CHRISTINE",
+        "last_name": "HOLZ",
+        "middle_name": "E",
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4104 STATE HIGHWAY 30",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120106202",
+        "telephone": "518-883-8620",
+        "fax": "518-883-5456"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "004692"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016631"
+      }
+    },
+    {
+      "npi": "1144306283",
+      "personal_info": {
+        "first_name": "JAMES",
+        "last_name": "HOPPER",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4104 STATE HIGHWAY 30",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120106202",
+        "telephone": "518-883-8620",
+        "fax": "518-883-5653"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "009212"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016637"
+      }
+    },
+    {
+      "npi": "1194126607",
+      "personal_info": {
+        "first_name": "ABIGAIL",
+        "last_name": "JOHNSON",
+        "middle_name": "RUTH",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "5010 STATE HIGHWAY 30 STE 205",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "12010",
+        "telephone": "518-842-2663",
+        "fax": "518-842-4861"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "017834"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016644"
+      }
+    },
+    {
+      "npi": "1649513433",
+      "personal_info": {
+        "first_name": "EMILY",
+        "last_name": "KATZ",
+        "middle_name": "JEAN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 BELFANCE RD",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "12010",
+        "telephone": "518-366-9552",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "PA4690"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1527"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016652"
+      }
+    },
+    {
+      "npi": "1417470998",
+      "personal_info": {
+        "first_name": "BRIANNA",
+        "last_name": "LOPEZ",
+        "middle_name": "KATE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1700 RIVERFRONT CTR",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120104620",
+        "telephone": "518-843-0020",
+        "fax": "518-843-0023"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "020964"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016659"
+      }
+    },
+    {
+      "npi": "1619434057",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "MALSCH",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2546 BALLTOWN RD STE 300",
+        "address_line_2": null,
+        "city": "SCHENECTADY",
+        "state": "NY",
+        "postal_code": "123091079",
+        "telephone": "518-377-8184",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "023183"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016666"
+      }
+    },
+    {
+      "npi": "1083100408",
+      "personal_info": {
+        "first_name": "RYAN",
+        "last_name": "MCVAIGH",
+        "middle_name": "MICHAEL",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2546 BALLTOWN RD",
+        "address_line_2": null,
+        "city": "SCHENECTADY",
+        "state": "NY",
+        "postal_code": "123091082",
+        "telephone": "518-377-8184",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "022158-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016673"
+      }
+    },
+    {
+      "npi": "1386375657",
+      "personal_info": {
+        "first_name": "AUBREY",
+        "last_name": "MENDOZA",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4104 STATE HIGHWAY 30",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120106202",
+        "telephone": "518-883-8634",
+        "fax": "518-883-8286"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016681"
+      }
+    },
+    {
+      "npi": "1659325397",
+      "personal_info": {
+        "first_name": "CRAIG",
+        "last_name": "MILLER",
+        "middle_name": "F",
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2546 BALLTOWN RD",
+        "address_line_2": "SUITE 203",
+        "city": "SCHENECTADY",
+        "state": "NY",
+        "postal_code": "123091079",
+        "telephone": "518-377-8198",
+        "fax": "518-377-0620"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "009640"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016688"
+      }
+    },
+    {
+      "npi": "1780611228",
+      "personal_info": {
+        "first_name": "VINCENT",
+        "last_name": "MONTAGNINO",
+        "middle_name": "JOSEPH",
+        "credential": "RPA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE - PRIMARY & SPECIALTY CARE DEPT.",
+        "address_line_2": "ST. MARY'S HOSPITAL AT AMSTERDAM",
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "12010",
+        "telephone": "518-841-7430",
+        "fax": "518-841-7121"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "001484"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016695"
+      }
+    },
+    {
+      "npi": "1134890288",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "NELLIS",
+        "middle_name": "DOUGLAS",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2546 BALLTOWN RD STE 300",
+        "address_line_2": null,
+        "city": "SCHENECTADY",
+        "state": "NY",
+        "postal_code": "123091079",
+        "telephone": "518-377-8184",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "027341"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016701"
+      }
+    },
+    {
+      "npi": "1619172426",
+      "personal_info": {
+        "first_name": "MICHELE",
+        "last_name": "OCHAL",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE - PRIMARY & SPECIALTY CARE DEPT.",
+        "address_line_2": "ST. MARY'S HOSPITAL AT AMSTERDAM",
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "12010",
+        "telephone": "518-841-7430",
+        "fax": "518-841-7121"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "002545"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016708"
+      }
+    },
+    {
+      "npi": "1124602982",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "PAVLUS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120101064",
+        "telephone": "518-842-1900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "026621"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016716"
+      }
+    },
+    {
+      "npi": "1730628751",
+      "personal_info": {
+        "first_name": "ELISABETH",
+        "last_name": "PENREE",
+        "middle_name": "RYAN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120101064",
+        "telephone": "518-842-1900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016722"
+      }
+    },
+    {
+      "npi": "1952561649",
+      "personal_info": {
+        "first_name": "JOAN",
+        "last_name": "PETITH-PAULSEN",
+        "middle_name": "M",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4803 STATE HIGHWAY 30",
+        "address_line_2": "KEM PLAZA",
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120107418",
+        "telephone": "518-842-0285",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "001757"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016729"
+      }
+    },
+    {
+      "npi": "1023552940",
+      "personal_info": {
+        "first_name": "ASHLEY",
+        "last_name": "RESETARITS",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2546 BALLTOWN RD",
+        "address_line_2": "SUITE 300",
+        "city": "SCHENECTADY",
+        "state": "NY",
+        "postal_code": "123091082",
+        "telephone": "518-377-8184",
+        "fax": "518-374-5918"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "020334"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016736"
+      }
+    },
+    {
+      "npi": "1609505007",
+      "personal_info": {
+        "first_name": "DANA",
+        "last_name": "RUGGLES",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1365 WASHINGTON AVE STE 100",
+        "address_line_2": null,
+        "city": "ALBANY",
+        "state": "NY",
+        "postal_code": "122061098",
+        "telephone": "518-459-8106",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016743"
+      }
+    },
+    {
+      "npi": "1831800143",
+      "personal_info": {
+        "first_name": "ERICA",
+        "last_name": "RUTKOWSKI",
+        "middle_name": "N",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4950 NY-30",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "12010",
+        "telephone": "518-841-7224",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016749"
+      }
+    },
+    {
+      "npi": "1659192672",
+      "personal_info": {
+        "first_name": "GABRIELLE",
+        "last_name": "SCHAFFER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "425 GUY PARK AVE",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120101043",
+        "telephone": "518-842-7088",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016755"
+      }
+    },
+    {
+      "npi": "1770517476",
+      "personal_info": {
+        "first_name": "DENNIS",
+        "last_name": "SMALL",
+        "middle_name": "C.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120101054",
+        "telephone": "518-841-7237",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "009781"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016762"
+      }
+    },
+    {
+      "npi": "1316548738",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "PO BOX 14890",
+        "address_line_2": null,
+        "city": "ALBANY",
+        "state": "NY",
+        "postal_code": "122124890",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207RC0001X",
+          "taxonomy_desc": "Internal Medicine, Clinical Cardiac Electrophysiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RI0011X",
+          "taxonomy_desc": "Internal Medicine, Interventional Cardiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RP1001X",
+          "taxonomy_desc": "Internal Medicine, Pulmonary Disease",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "261QM1300X",
+          "taxonomy_desc": "Clinic/Center, Multi-Specialty",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RC0000X",
+          "taxonomy_desc": "Internal Medicine, Cardiovascular Disease",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016772"
+      }
+    },
+    {
+      "npi": "1528070596",
+      "personal_info": {
+        "first_name": "KAREN",
+        "last_name": "TAFT",
+        "middle_name": null,
+        "credential": "RPA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "5010 STATE HIGHWAY 30",
+        "address_line_2": "SUITE 205",
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120107532",
+        "telephone": "518-842-2663",
+        "fax": "518-842-4861"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "011351"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016779"
+      }
+    },
+    {
+      "npi": "1518181817",
+      "personal_info": {
+        "first_name": "DAVID",
+        "last_name": "TOLGE",
+        "middle_name": null,
+        "credential": "RPA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "5010 STATE HWY 30",
+        "address_line_2": "SUITE 205",
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120107532",
+        "telephone": "518-842-2663",
+        "fax": "518-842-4861"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "008365"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016786"
+      }
+    },
+    {
+      "npi": "1851709042",
+      "personal_info": {
+        "first_name": "DANIELLE",
+        "last_name": "TORTORICI",
+        "middle_name": null,
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "375 GOLF COURSE RD",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120107506",
+        "telephone": "518-212-6070",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "017581-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016793"
+      }
+    },
+    {
+      "npi": "1154501690",
+      "personal_info": {
+        "first_name": "MARY",
+        "last_name": "TRACY",
+        "middle_name": "A.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "307 S EVERGREEN AVE",
+        "address_line_2": null,
+        "city": "WOODBURY",
+        "state": "NJ",
+        "postal_code": "080962739",
+        "telephone": "856-686-4317",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "012195"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016800"
+      }
+    },
+    {
+      "npi": "1386629483",
+      "personal_info": {
+        "first_name": "JOAN",
+        "last_name": "VENEROSA",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE - PRIMARY & SPECIALTY CARE DEPT.",
+        "address_line_2": "ST. MARY'S HOSPITAL AT AMSTERDAM",
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "12010",
+        "telephone": "518-841-7430",
+        "fax": "518-841-7121"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "0010571"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016807"
+      }
+    },
+    {
+      "npi": "1811463102",
+      "personal_info": {
+        "first_name": "JACQUELYN",
+        "last_name": "WHITE",
+        "middle_name": "Y",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "211 CHURCH ST",
+        "address_line_2": null,
+        "city": "SARATOGA SPRINGS",
+        "state": "NY",
+        "postal_code": "128661090",
+        "telephone": "518-587-3222",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "022808"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12010",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016814"
+      }
+    },
+    {
+      "npi": "1508972670",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "DEFILIPPO",
+        "middle_name": "L",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "6801 LAKE WORTH RD",
+        "address_line_2": null,
+        "city": "GREENACRES",
+        "state": "FL",
+        "postal_code": "334672955",
+        "telephone": "561-693-6444",
+        "fax": "866-450-1704"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "006253"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016821"
+      }
+    },
+    {
+      "npi": "1992114243",
+      "personal_info": {
+        "first_name": "ABIGAIL",
+        "last_name": "DIONNE",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "23 S PERRY ST",
+        "address_line_2": null,
+        "city": "JOHNSTOWN",
+        "state": "NY",
+        "postal_code": "120952316",
+        "telephone": "518-736-1500",
+        "fax": "518-762-8194"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "018005"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016828"
+      }
+    },
+    {
+      "npi": "1730565219",
+      "personal_info": {
+        "first_name": "CHRISTIE",
+        "last_name": "FLANAGAN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "700 S PERRY ST",
+        "address_line_2": "JOHNSTOWN HEALTH CENTER",
+        "city": "JOHNSTOWN",
+        "state": "NY",
+        "postal_code": "120953213",
+        "telephone": "518-762-3161",
+        "fax": "518-762-4902"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "018876"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016835"
+      }
+    },
+    {
+      "npi": "1366623928",
+      "personal_info": {
+        "first_name": "STEPHANIE",
+        "last_name": "HANRAHAN",
+        "middle_name": "R",
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 ATWELL RD",
+        "address_line_2": null,
+        "city": "COOPERSTOWN",
+        "state": "NY",
+        "postal_code": "133261301",
+        "telephone": "607-547-3334",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "012228-1"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA3839"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016843"
+      }
+    },
+    {
+      "npi": "1275941411",
+      "personal_info": {
+        "first_name": "MEGAN",
+        "last_name": "KILLEEN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "121 EVERETT RD",
+        "address_line_2": null,
+        "city": "ALBANY",
+        "state": "NY",
+        "postal_code": "122051474",
+        "telephone": "518-489-2663",
+        "fax": "518-689-3881"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "017801"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA6336"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "017801"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "017801"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016851"
+      }
+    },
+    {
+      "npi": "1386375657",
+      "personal_info": {
+        "first_name": "AUBREY",
+        "last_name": "MENDOZA",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4104 STATE HIGHWAY 30",
+        "address_line_2": null,
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "120106202",
+        "telephone": "518-883-8634",
+        "fax": "518-883-8286"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016858"
+      }
+    },
+    {
+      "npi": "1538290614",
+      "personal_info": {
+        "first_name": "COLLEEN",
+        "last_name": "SHAW",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "400 N PERRY ST",
+        "address_line_2": null,
+        "city": "JOHNSTOWN",
+        "state": "NY",
+        "postal_code": "120951115",
+        "telephone": "518-736-1911",
+        "fax": "518-736-1923"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "0852001PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016864"
+      }
+    },
+    {
+      "npi": "1568570919",
+      "personal_info": {
+        "first_name": "STACEY",
+        "last_name": "VANBUSKIRK",
+        "middle_name": "J",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "23 S PERRY ST",
+        "address_line_2": null,
+        "city": "JOHNSTOWN",
+        "state": "NY",
+        "postal_code": "120952316",
+        "telephone": "518-736-1500",
+        "fax": "518-762-8194"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "005851"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016872"
+      }
+    },
+    {
+      "npi": "1386629483",
+      "personal_info": {
+        "first_name": "JOAN",
+        "last_name": "VENEROSA",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "427 GUY PARK AVE - PRIMARY & SPECIALTY CARE DEPT.",
+        "address_line_2": "ST. MARY'S HOSPITAL AT AMSTERDAM",
+        "city": "AMSTERDAM",
+        "state": "NY",
+        "postal_code": "12010",
+        "telephone": "518-841-7430",
+        "fax": "518-841-7121"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "0010571"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12095",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016878"
+      }
+    },
+    {
+      "npi": "1851346225",
+      "personal_info": {
+        "first_name": "COLLEEN",
+        "last_name": "MAGAI",
+        "middle_name": "SONDRA",
+        "credential": "R.P.A.-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "2209 GENESEE ST",
+        "address_line_2": null,
+        "city": "UTICA",
+        "state": "NY",
+        "postal_code": "135015930",
+        "telephone": "315-801-3282",
+        "fax": "315-801-8391"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "007669-01"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "007669"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "12072",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016886"
+      }
+    },
+    {
+      "npi": "1689765018",
+      "personal_info": {
+        "first_name": "LISA",
+        "last_name": "HENSON",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1 ATWELL RD",
+        "address_line_2": null,
+        "city": "COOPERSTOWN",
+        "state": "NY",
+        "postal_code": "133261301",
+        "telephone": "607-547-6982",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "0114871"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "13320",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016893"
+      }
+    },
+    {
+      "npi": "1669995965",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "BEYER",
+        "middle_name": "K",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "3768 STATE HIGHWAY 30",
+        "address_line_2": "BROADALBIN HEALTH CENTER",
+        "city": "BROADALBIN",
+        "state": "NY",
+        "postal_code": "120250923",
+        "telephone": "518-883-3121",
+        "fax": "518-883-8268"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "020907"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "13317",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016900"
+      }
+    },
+    {
+      "npi": "1538109616",
+      "personal_info": {
+        "first_name": "BRIAN",
+        "last_name": "HALL",
+        "middle_name": "W",
+        "credential": "R.P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 725",
+        "address_line_2": null,
+        "city": "COOPERSTOWN",
+        "state": "NY",
+        "postal_code": "133260725",
+        "telephone": "518-673-5555",
+        "fax": "518-673-5761"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "002006"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "13317",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016907"
+      }
+    },
+    {
+      "npi": "1285220293",
+      "personal_info": {
+        "first_name": "ANDREW",
+        "last_name": "WHEELOCK",
+        "middle_name": "LLOYD",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "121 W MAIN ST",
+        "address_line_2": null,
+        "city": "SAINT JOHNSVILLE",
+        "state": "NY",
+        "postal_code": "134521021",
+        "telephone": "518-332-5040",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "13452",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016915"
+      }
+    },
+    {
+      "npi": "1649264730",
+      "personal_info": {
+        "first_name": "RYAN",
+        "last_name": "WHITE",
+        "middle_name": "JAMES",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "170 BURWELL ST",
+        "address_line_2": null,
+        "city": "LITTLE FALLS",
+        "state": "NY",
+        "postal_code": "133651716",
+        "telephone": "315-823-4546",
+        "fax": "315-823-4760"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "021703"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "13452",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016921"
+      }
+    },
+    {
+      "npi": "1083666895",
+      "personal_info": {
+        "first_name": "DALE",
+        "last_name": "BINKLEY",
+        "middle_name": "L",
+        "credential": "R.P.A.C.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 725",
+        "address_line_2": null,
+        "city": "COOPERSTOWN",
+        "state": "NY",
+        "postal_code": "133260725",
+        "telephone": "518-284-2333",
+        "fax": "518-284-2245"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "003293"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "13459",
+        "retrieved_timestamp": "2025-02-18T04:19:12.016928"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7028 @@
+{
+  "metadata": {
+    "msa_name": "Amherst Town-Northampton, MA MSA",
+    "query_timestamp": "2025-02-18T03:50:58.701222",
+    "total_physicians": 190,
+    "specialty_distribution": {
+      "Physician Assistant": 144,
+      "Physician Assistant, Medical": 82,
+      "Physician Assistant, Surgical": 6,
+      "Social Worker, Clinical": 4,
+      "Internal Medicine, Cardiovascular Disease": 4,
+      "Specialist/Technologist, Athletic Trainer": 4,
+      "Student in an Organized Health Care Education/Training Program": 3,
+      "Psychologist": 3,
+      "Marriage & Family Therapist": 3,
+      "Optometrist": 3,
+      "Internal Medicine": 3,
+      "Internal Medicine, Endocrinology, Diabetes & Metabolism": 3,
+      "Internal Medicine, Rheumatology": 3,
+      "Pediatrics": 3,
+      "Psychiatry & Neurology, Psychiatry": 3,
+      "Radiology, Diagnostic Radiology": 3,
+      "Occupational Therapist": 3,
+      "Clinic/Center, Radiology": 3,
+      "Nurse Practitioner, Family": 3,
+      "Family Medicine": 3,
+      "Physical Therapist": 2,
+      "Acupuncturist": 1,
+      "Nurse's Aide": 1,
+      "Naturopath": 1,
+      "Emergency Medical Technician, Basic": 1,
+      "Plastic Surgery": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1104124858",
+      "personal_info": {
+        "first_name": "KATELYNN",
+        "last_name": "AGRAFIOTIS",
+        "middle_name": "T",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "35 BRIDGE ST",
+        "address_line_2": null,
+        "city": "BELCHERTOWN",
+        "state": "MA",
+        "postal_code": "010078909",
+        "telephone": "413-213-0550",
+        "fax": "413-213-0554"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4139"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701267"
+      }
+    },
+    {
+      "npi": "1518435015",
+      "personal_info": {
+        "first_name": "BRITIANY",
+        "last_name": "BROWNING",
+        "middle_name": "ALICIA",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "117 ELLENFIELD ST STE 101",
+        "address_line_2": null,
+        "city": "PROVIDENCE",
+        "state": "RI",
+        "postal_code": "029054541",
+        "telephone": "401-444-6779",
+        "fax": "401-444-6912"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": "MA",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "RI",
+          "license": "PA01132"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701286"
+      }
+    },
+    {
+      "npi": "1265279988",
+      "personal_info": {
+        "first_name": "SAMANTHA",
+        "last_name": "CAREY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 TURKEY HILL RD",
+        "address_line_2": null,
+        "city": "BELCHERTOWN",
+        "state": "MA",
+        "postal_code": "010079408",
+        "telephone": "413-323-7700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100829"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701304"
+      }
+    },
+    {
+      "npi": "1144819053",
+      "personal_info": {
+        "first_name": "ABIGAIL",
+        "last_name": "COTE",
+        "middle_name": "NICOLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "211 STATE STREET",
+        "address_line_2": "UNIT C",
+        "city": "BELCHERTOWN",
+        "state": "MA",
+        "postal_code": "01007",
+        "telephone": "413-725-4214",
+        "fax": "413-277-6087"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8771"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701318"
+      }
+    },
+    {
+      "npi": "1912282609",
+      "personal_info": {
+        "first_name": "JASON",
+        "last_name": "FRANCONERI",
+        "middle_name": "M",
+        "credential": "MS, PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "280 CHESTNUT STREET",
+        "address_line_2": "2ND FLOOR",
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011091001",
+        "telephone": "413-794-3909",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4258"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701336"
+      }
+    },
+    {
+      "npi": "1619367604",
+      "personal_info": {
+        "first_name": "SILVIA",
+        "last_name": "GALVAN",
+        "middle_name": "A",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "35 BRIDGE ST",
+        "address_line_2": "SUITE 1",
+        "city": "BELCHERTOWN",
+        "state": "MA",
+        "postal_code": "010078924",
+        "telephone": "413-213-0550",
+        "fax": "413-213-0554"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5122"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701349"
+      }
+    },
+    {
+      "npi": "1871114199",
+      "personal_info": {
+        "first_name": "KATHERINE",
+        "last_name": "RICE",
+        "middle_name": "MARY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 DEER RUN",
+        "address_line_2": null,
+        "city": "BELCHERTOWN",
+        "state": "MA",
+        "postal_code": "010079498",
+        "telephone": "413-636-8951",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7979"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701365"
+      }
+    },
+    {
+      "npi": "1659424869",
+      "personal_info": {
+        "first_name": "MICHELLE",
+        "last_name": "RICKER",
+        "middle_name": "L",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "24 JASONS WAY",
+        "address_line_2": null,
+        "city": "BELCHERTOWN",
+        "state": "MA",
+        "postal_code": "01007",
+        "telephone": "413-213-0507",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1542"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "742"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701380"
+      }
+    },
+    {
+      "npi": "1164839684",
+      "personal_info": {
+        "first_name": "MIRANDA",
+        "last_name": "TSOUMAS",
+        "middle_name": "L",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "95 SARGENT ST",
+        "address_line_2": null,
+        "city": "BELCHERTOWN",
+        "state": "MA",
+        "postal_code": "010079881",
+        "telephone": "413-323-7212",
+        "fax": "413-967-2524"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5095"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01007",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701396"
+      }
+    },
+    {
+      "npi": "1801302922",
+      "personal_info": {
+        "first_name": "KRISTIN",
+        "last_name": "ANDRES",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "20 GULF RD",
+        "address_line_2": null,
+        "city": "PELHAM",
+        "state": "MA",
+        "postal_code": "010029740",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701410"
+      }
+    },
+    {
+      "npi": "1780050831",
+      "personal_info": {
+        "first_name": "JONIDA",
+        "last_name": "BALAZI",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "170 UNIVERSITY DR",
+        "address_line_2": "SUITE 201",
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022247",
+        "telephone": "413-253-2767",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5437"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701424"
+      }
+    },
+    {
+      "npi": "1568175693",
+      "personal_info": {
+        "first_name": "CASEY",
+        "last_name": "BARTLETT",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "01062",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100471"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701436"
+      }
+    },
+    {
+      "npi": "1174969802",
+      "personal_info": {
+        "first_name": "JAMES",
+        "last_name": "BARTUS",
+        "middle_name": "P.",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "170 UNIVERSITY DR.",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "01002",
+        "telephone": "413-461-3530",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4654"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701450"
+      }
+    },
+    {
+      "npi": "1154192854",
+      "personal_info": {
+        "first_name": "ELISABETH",
+        "last_name": "BORKOWSKI",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010271046",
+        "telephone": "413-529-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100396"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701463"
+      }
+    },
+    {
+      "npi": "1770686859",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "BROWN",
+        "middle_name": "N.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "29 COTTAGE ST STE B",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022178",
+        "telephone": "413-549-7400",
+        "fax": "413-549-7402"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1977"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701475"
+      }
+    },
+    {
+      "npi": "1821304312",
+      "personal_info": {
+        "first_name": "PETER",
+        "last_name": "BUCHANAN",
+        "middle_name": "A",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": null,
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011521",
+        "telephone": "413-774-6301",
+        "fax": "866-644-0871"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "4009"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701488"
+      }
+    },
+    {
+      "npi": "1366074122",
+      "personal_info": {
+        "first_name": "HEATHER",
+        "last_name": "CLARKE",
+        "middle_name": "LYNNE KIRBY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": "VALLEY MEDICAL GROUP, PC-EASTHAMPTON HEATH CENTER",
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "01027",
+        "telephone": "413-529-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7409"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701505"
+      }
+    },
+    {
+      "npi": "1053395491",
+      "personal_info": {
+        "first_name": "MERCEDES",
+        "last_name": "CLINGERMAN",
+        "middle_name": "LEE",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "31 HALL DR",
+        "address_line_2": "VALLEY MEDICAL GROUP",
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022751",
+        "telephone": "413-256-8561",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "1588"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701519"
+      }
+    },
+    {
+      "npi": "1295441954",
+      "personal_info": {
+        "first_name": "ADAM",
+        "last_name": "CORRIVEAU",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 WALNUT ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010603218",
+        "telephone": "413-588-8694",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701532"
+      }
+    },
+    {
+      "npi": "1902270515",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "CREASER",
+        "middle_name": null,
+        "credential": "MPA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "35 STATION RD",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010023421",
+        "telephone": "413-530-9453",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "003465"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6416"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701547"
+      }
+    },
+    {
+      "npi": "1134368400",
+      "personal_info": {
+        "first_name": "KATELYN",
+        "last_name": "DUTKIEWICZ",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "17 RESEARCH DRIVE",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022178",
+        "telephone": "413-549-8400",
+        "fax": "413-549-8409"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA3740"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701560"
+      }
+    },
+    {
+      "npi": "1700409893",
+      "personal_info": {
+        "first_name": "CASEY",
+        "last_name": "ERELLI",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "170 UNIVERSITY DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022247",
+        "telephone": "413-461-3530",
+        "fax": "413-461-3532"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701576"
+      }
+    },
+    {
+      "npi": "1174590103",
+      "personal_info": {
+        "first_name": "ANN",
+        "last_name": "ESRICK",
+        "middle_name": "S",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621487",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA309"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701593"
+      }
+    },
+    {
+      "npi": "1154975811",
+      "personal_info": {
+        "first_name": "PAUL",
+        "last_name": "FIONTE",
+        "middle_name": "ARTHUR",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": null,
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011521",
+        "telephone": "413-774-6301",
+        "fax": "866-644-0871"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7308"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701607"
+      }
+    },
+    {
+      "npi": "1164700613",
+      "personal_info": {
+        "first_name": "MARK",
+        "last_name": "FOELSTER",
+        "middle_name": "ANDREW",
+        "credential": "PA-C, PT",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "95 COLLEGE ST",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022306",
+        "telephone": "413-542-2267",
+        "fax": "413-542-2647"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "225100000X",
+          "taxonomy_desc": "Physical Therapist",
+          "primary": false,
+          "state": "MA",
+          "license": "19241"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5527"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701623"
+      }
+    },
+    {
+      "npi": "1912458217",
+      "personal_info": {
+        "first_name": "JENNA",
+        "last_name": "GIGLIOTTI",
+        "middle_name": "NICOLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "31 HALL DR",
+        "address_line_2": "AMHERST MEDICAL CENTER",
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022751",
+        "telephone": "413-256-8561",
+        "fax": "413-256-4010"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5927"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701637"
+      }
+    },
+    {
+      "npi": "1215577895",
+      "personal_info": {
+        "first_name": "SUKHJIT",
+        "last_name": "KAUR",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "133 OLD ROAD TO 9 ACRE COR",
+        "address_line_2": null,
+        "city": "CONCORD",
+        "state": "MA",
+        "postal_code": "017424159",
+        "telephone": "413-204-8394",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8190"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701654"
+      }
+    },
+    {
+      "npi": "1649390865",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "LACASSE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "31 HALL DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022751",
+        "telephone": "413-256-8561",
+        "fax": "866-644-0869"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "2481"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701672"
+      }
+    },
+    {
+      "npi": "1619151396",
+      "personal_info": {
+        "first_name": "KAREN",
+        "last_name": "LEVINE",
+        "middle_name": null,
+        "credential": "Lic. Ac.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "59 VALLEY VIEW DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010023054",
+        "telephone": "413-256-0324",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "171100000X",
+          "taxonomy_desc": "Acupuncturist",
+          "primary": true,
+          "state": "MA",
+          "license": "132"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "503"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701688"
+      }
+    },
+    {
+      "npi": "1396398251",
+      "personal_info": {
+        "first_name": "VICTORIA",
+        "last_name": "LUCAS",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "29B COTTAGE ST",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010021206",
+        "telephone": "413-549-7400",
+        "fax": "413-549-7402"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7129"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701701"
+      }
+    },
+    {
+      "npi": "1235107970",
+      "personal_info": {
+        "first_name": "BLAIR",
+        "last_name": "MAEROWITZ",
+        "middle_name": "J",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "29 COTTAGE STREET",
+        "address_line_2": "B (PIONEER VALLEY DERMATOLOGY)",
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010021206",
+        "telephone": "413-406-3250",
+        "fax": "413-549-7402"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1521"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701714"
+      }
+    },
+    {
+      "npi": "1558996975",
+      "personal_info": {
+        "first_name": "NORA",
+        "last_name": "MAHONEY",
+        "middle_name": "MARY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "31 HALL DR STE 1",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022754",
+        "telephone": "413-256-8561",
+        "fax": "866-644-0869"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7407"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701727"
+      }
+    },
+    {
+      "npi": "1033543137",
+      "personal_info": {
+        "first_name": "MARTHA",
+        "last_name": "MOHR",
+        "middle_name": "W.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "31 HALL DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022751",
+        "telephone": "413-256-8561",
+        "fax": "866-644-0869"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4816"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701741"
+      }
+    },
+    {
+      "npi": "1952406712",
+      "personal_info": {
+        "first_name": "CHARLES",
+        "last_name": "RUSSETT",
+        "middle_name": "THOMAS",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "12 KINGMAN RD",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010021585",
+        "telephone": "413-549-5404",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701755"
+      }
+    },
+    {
+      "npi": "1568020626",
+      "personal_info": {
+        "first_name": "MARK",
+        "last_name": "RYAN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "6 HATFIELD ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010601556",
+        "telephone": "413-549-8400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701768"
+      }
+    },
+    {
+      "npi": "1477193167",
+      "personal_info": {
+        "first_name": "ALEXIS",
+        "last_name": "SEVERIN",
+        "middle_name": "MARIE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621466",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8031"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701781"
+      }
+    },
+    {
+      "npi": "1598498438",
+      "personal_info": {
+        "first_name": "SABRINA",
+        "last_name": "SUPERNEAU-GILMAN",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "VALLEY MEDICAL GROUP, P.C.- AMHERST MEDICAL CENTER",
+        "address_line_2": "31 HALL DRIVE",
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "01002",
+        "telephone": "413-256-8561",
+        "fax": "866-644-0869"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA9274"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701793"
+      }
+    },
+    {
+      "npi": "1164082640",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "VACCA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "124 COLLEGE ST APT 19",
+        "address_line_2": null,
+        "city": "SOUTH HADLEY",
+        "state": "MA",
+        "postal_code": "010757508",
+        "telephone": "775-287-0205",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701805"
+      }
+    },
+    {
+      "npi": "1912924705",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": "GREENFIELD HEALTH CENTER",
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011526",
+        "telephone": "413-774-6301",
+        "fax": "413-772-3313"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "103T00000X",
+          "taxonomy_desc": "Psychologist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "1041C0700X",
+          "taxonomy_desc": "Social Worker, Clinical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "106H00000X",
+          "taxonomy_desc": "Marriage & Family Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "152W00000X",
+          "taxonomy_desc": "Optometrist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RE0101X",
+          "taxonomy_desc": "Internal Medicine, Endocrinology, Diabetes & Metabolism",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RR0500X",
+          "taxonomy_desc": "Internal Medicine, Rheumatology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208000000X",
+          "taxonomy_desc": "Pediatrics",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2084P0800X",
+          "taxonomy_desc": "Psychiatry & Neurology, Psychiatry",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2085R0202X",
+          "taxonomy_desc": "Radiology, Diagnostic Radiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "225X00000X",
+          "taxonomy_desc": "Occupational Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "261QR0200X",
+          "taxonomy_desc": "Clinic/Center, Radiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363LF0000X",
+          "taxonomy_desc": "Nurse Practitioner, Family",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701832"
+      }
+    },
+    {
+      "npi": "1962816736",
+      "personal_info": {
+        "first_name": "JANET",
+        "last_name": "WHOLEY",
+        "middle_name": "BURRIDGE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "170 UNIVERSITY DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022247",
+        "telephone": "413-461-3530",
+        "fax": "413-461-3532"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5032"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01002",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701844"
+      }
+    },
+    {
+      "npi": "1437589504",
+      "personal_info": {
+        "first_name": "JAIMIE",
+        "last_name": "COLICA-EKNESS",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "150 INFIRMARY WAY",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010039288",
+        "telephone": "413-577-5000",
+        "fax": "413-577-5440"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "1041C0700X",
+          "taxonomy_desc": "Social Worker, Clinical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NC",
+          "license": "0010-10729"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7886"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01003",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701863"
+      }
+    },
+    {
+      "npi": "1902270515",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "CREASER",
+        "middle_name": null,
+        "credential": "MPA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "35 STATION RD",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010023421",
+        "telephone": "413-530-9453",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "003465"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6416"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01003",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701879"
+      }
+    },
+    {
+      "npi": "1104014679",
+      "personal_info": {
+        "first_name": "BRITTANY",
+        "last_name": "CZARICK",
+        "middle_name": "J",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "150 INFIRMARY WAY",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010039288",
+        "telephone": "413-577-5211",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA2404"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01003",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701893"
+      }
+    },
+    {
+      "npi": "1962887877",
+      "personal_info": {
+        "first_name": "KATHRYN",
+        "last_name": "DEMPSEY",
+        "middle_name": "ERIN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "150 INFIRMARY WAY",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010039288",
+        "telephone": "413-577-5000",
+        "fax": "413-577-5106"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6760"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01003",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701909"
+      }
+    },
+    {
+      "npi": "1629156591",
+      "personal_info": {
+        "first_name": "EDWARD",
+        "last_name": "MCGLYNN",
+        "middle_name": "RALPH",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "150 INFIRMARY WAY",
+        "address_line_2": "UNIVERSITY HEALTH SERVICES",
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010039288",
+        "telephone": "413-577-5000",
+        "fax": "413-577-5117"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "771"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01003",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701925"
+      }
+    },
+    {
+      "npi": "1386204428",
+      "personal_info": {
+        "first_name": "DAVID",
+        "last_name": "OLCOTT",
+        "middle_name": "FINN",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "150 INFIRMARY WAY",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010039288",
+        "telephone": "413-577-5154",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7077"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01003",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701940"
+      }
+    },
+    {
+      "npi": "1124383112",
+      "personal_info": {
+        "first_name": "ANDREA",
+        "last_name": "LAGASSE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "71 HAYNES ST",
+        "address_line_2": null,
+        "city": "MANCHESTER",
+        "state": "CT",
+        "postal_code": "060404131",
+        "telephone": "401-837-1018",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "CT",
+          "license": "2766"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01033",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701957"
+      }
+    },
+    {
+      "npi": "1235459983",
+      "personal_info": {
+        "first_name": "HEATHER",
+        "last_name": "LALONDE",
+        "middle_name": "MARIE",
+        "credential": "PA-C, MPAS",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "155 HAZARD AVE",
+        "address_line_2": null,
+        "city": "ENFIELD",
+        "state": "CT",
+        "postal_code": "060824580",
+        "telephone": "860-698-6041",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA3963"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "PA3963"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01033",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701974"
+      }
+    },
+    {
+      "npi": "1558994772",
+      "personal_info": {
+        "first_name": "KAYLA",
+        "last_name": "MAILLOUX",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "65 SPRINGFIELD RD STE 2",
+        "address_line_2": null,
+        "city": "WESTFIELD",
+        "state": "MA",
+        "postal_code": "010851895",
+        "telephone": "413-562-8306",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7381"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01033",
+        "retrieved_timestamp": "2025-02-18T03:50:58.701990"
+      }
+    },
+    {
+      "npi": "1215119631",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "WATKINS",
+        "middle_name": "JOSEPH",
+        "credential": "M.S., P.A.-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "183 CHICOPEE ST",
+        "address_line_2": null,
+        "city": "GRANBY",
+        "state": "MA",
+        "postal_code": "010339586",
+        "telephone": "413-467-3104",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "ap1966"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01033",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702005"
+      }
+    },
+    {
+      "npi": "1396203477",
+      "personal_info": {
+        "first_name": "JOANNA",
+        "last_name": "WHITE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "143 W STATE ST",
+        "address_line_2": null,
+        "city": "GRANBY",
+        "state": "MA",
+        "postal_code": "010339701",
+        "telephone": "413-301-3055",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01033",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702019"
+      }
+    },
+    {
+      "npi": "1568175693",
+      "personal_info": {
+        "first_name": "CASEY",
+        "last_name": "BARTLETT",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "01062",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100471"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702033"
+      }
+    },
+    {
+      "npi": "1154192854",
+      "personal_info": {
+        "first_name": "ELISABETH",
+        "last_name": "BORKOWSKI",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010271046",
+        "telephone": "413-529-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100396"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702043"
+      }
+    },
+    {
+      "npi": "1962147538",
+      "personal_info": {
+        "first_name": "ALLYSON",
+        "last_name": "BOUCHER",
+        "middle_name": "LEE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": "EASTHAMPTON HEALTH CENTER",
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "01027",
+        "telephone": "413-529-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8730"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702056"
+      }
+    },
+    {
+      "npi": "1821304312",
+      "personal_info": {
+        "first_name": "PETER",
+        "last_name": "BUCHANAN",
+        "middle_name": "A",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": null,
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011521",
+        "telephone": "413-774-6301",
+        "fax": "866-644-0871"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "4009"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702069"
+      }
+    },
+    {
+      "npi": "1366074122",
+      "personal_info": {
+        "first_name": "HEATHER",
+        "last_name": "CLARKE",
+        "middle_name": "LYNNE KIRBY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": "VALLEY MEDICAL GROUP, PC-EASTHAMPTON HEATH CENTER",
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "01027",
+        "telephone": "413-529-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7409"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702080"
+      }
+    },
+    {
+      "npi": "1407685928",
+      "personal_info": {
+        "first_name": "JORDAN",
+        "last_name": "DERMODY",
+        "middle_name": "ELIZABETH",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 BAYBERRY DR",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010272735",
+        "telephone": "413-207-4043",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702091"
+      }
+    },
+    {
+      "npi": "1013462332",
+      "personal_info": {
+        "first_name": "DANIELLE",
+        "last_name": "DESERRES",
+        "middle_name": "ELISABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "280 CHESTNUT STREET",
+        "address_line_2": "2ND FL",
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011991001",
+        "telephone": "413-794-5700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5841"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702103"
+      }
+    },
+    {
+      "npi": "1174590103",
+      "personal_info": {
+        "first_name": "ANN",
+        "last_name": "ESRICK",
+        "middle_name": "S",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621487",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA309"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702114"
+      }
+    },
+    {
+      "npi": "1154975811",
+      "personal_info": {
+        "first_name": "PAUL",
+        "last_name": "FIONTE",
+        "middle_name": "ARTHUR",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": null,
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011521",
+        "telephone": "413-774-6301",
+        "fax": "866-644-0871"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7308"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702127"
+      }
+    },
+    {
+      "npi": "1497233977",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "GORSKI",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": "VALLEY MEDICAL GROUP, PC-EASTHAMPTON HEALTH CENTER",
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010271046",
+        "telephone": "413-527-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7256"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702142"
+      }
+    },
+    {
+      "npi": "1699309104",
+      "personal_info": {
+        "first_name": "ILANA",
+        "last_name": "KASAL",
+        "middle_name": "C",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "22 CEMETERY RD",
+        "address_line_2": null,
+        "city": "WESTHAMPTON",
+        "state": "MA",
+        "postal_code": "010279609",
+        "telephone": "413-427-6426",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "MA",
+          "license": "1171499"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702157"
+      }
+    },
+    {
+      "npi": "1649390865",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "LACASSE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "31 HALL DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022751",
+        "telephone": "413-256-8561",
+        "fax": "866-644-0869"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "2481"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702172"
+      }
+    },
+    {
+      "npi": "1336246586",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "RIDER",
+        "middle_name": "J",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 5700",
+        "address_line_2": null,
+        "city": "BELFAST",
+        "state": "ME",
+        "postal_code": "049155700",
+        "telephone": "866-431-4077",
+        "fax": "413-774-7448"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA1257"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702185"
+      }
+    },
+    {
+      "npi": "1164766226",
+      "personal_info": {
+        "first_name": "KATHERINE",
+        "last_name": "RIVEST",
+        "middle_name": "SIOBHAN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2 MECHANIC ST",
+        "address_line_2": "SUITE A",
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010271562",
+        "telephone": "413-529-9282",
+        "fax": "413-527-7526"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4575"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702204"
+      }
+    },
+    {
+      "npi": "1407198583",
+      "personal_info": {
+        "first_name": "TRISHA",
+        "last_name": "ROGERS",
+        "middle_name": "LYNN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": "EASTHAMPTON HEATLH CENTER",
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010271046",
+        "telephone": "413-529-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "PA5386"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5386"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702221"
+      }
+    },
+    {
+      "npi": "1295837540",
+      "personal_info": {
+        "first_name": "EMIL",
+        "last_name": "SCHANZER",
+        "middle_name": null,
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 ASHLEY CIR",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010279711",
+        "telephone": "413-584-4040",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": "1006473"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702235"
+      }
+    },
+    {
+      "npi": "1477193167",
+      "personal_info": {
+        "first_name": "ALEXIS",
+        "last_name": "SEVERIN",
+        "middle_name": "MARIE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621466",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8031"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702251"
+      }
+    },
+    {
+      "npi": "1144060674",
+      "personal_info": {
+        "first_name": "HALEY",
+        "last_name": "SULLIVAN",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "14 CONCORD DR",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010279721",
+        "telephone": "413-977-2855",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702266"
+      }
+    },
+    {
+      "npi": "1912924705",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": "GREENFIELD HEALTH CENTER",
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011526",
+        "telephone": "413-774-6301",
+        "fax": "413-772-3313"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "103T00000X",
+          "taxonomy_desc": "Psychologist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "1041C0700X",
+          "taxonomy_desc": "Social Worker, Clinical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "106H00000X",
+          "taxonomy_desc": "Marriage & Family Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "152W00000X",
+          "taxonomy_desc": "Optometrist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RE0101X",
+          "taxonomy_desc": "Internal Medicine, Endocrinology, Diabetes & Metabolism",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RR0500X",
+          "taxonomy_desc": "Internal Medicine, Rheumatology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208000000X",
+          "taxonomy_desc": "Pediatrics",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2084P0800X",
+          "taxonomy_desc": "Psychiatry & Neurology, Psychiatry",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2085R0202X",
+          "taxonomy_desc": "Radiology, Diagnostic Radiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "225X00000X",
+          "taxonomy_desc": "Occupational Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "261QR0200X",
+          "taxonomy_desc": "Clinic/Center, Radiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363LF0000X",
+          "taxonomy_desc": "Nurse Practitioner, Family",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702295"
+      }
+    },
+    {
+      "npi": "1366266785",
+      "personal_info": {
+        "first_name": "ALEXANDRA",
+        "last_name": "WEST",
+        "middle_name": "LYNN",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010271046",
+        "telephone": "413-529-9300",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "376K00000X",
+          "taxonomy_desc": "Nurse's Aide",
+          "primary": false,
+          "state": "MA",
+          "license": "CNA-122323"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA101370"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702310"
+      }
+    },
+    {
+      "npi": "1447356589",
+      "personal_info": {
+        "first_name": "OWEN",
+        "last_name": "ZARET",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "152 LINE ST",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010272620",
+        "telephone": "413-320-3684",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "AP1645"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01027",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702324"
+      }
+    },
+    {
+      "npi": "1346578234",
+      "personal_info": {
+        "first_name": "REBEKAH",
+        "last_name": "DIKY",
+        "middle_name": "B",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "424 RUSSELL ST",
+        "address_line_2": null,
+        "city": "HADLEY",
+        "state": "MA",
+        "postal_code": "010359579",
+        "telephone": "413-253-0483",
+        "fax": "413-253-0576"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4596"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01035",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702338"
+      }
+    },
+    {
+      "npi": "1710500848",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "GHOHESTANI-BOJD",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": "VALLEY MEDICAL GROUP, PC-NORTHAMPTON HEALTH CENTER",
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621466",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CA",
+          "license": "58136"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8793"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01035",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702351"
+      }
+    },
+    {
+      "npi": "1790304095",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "SULLIVAN",
+        "middle_name": "JACQUELINE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-582-4740",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01035",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702362"
+      }
+    },
+    {
+      "npi": "1700409893",
+      "personal_info": {
+        "first_name": "CASEY",
+        "last_name": "ERELLI",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "170 UNIVERSITY DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022247",
+        "telephone": "413-461-3530",
+        "fax": "413-461-3532"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01050",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702374"
+      }
+    },
+    {
+      "npi": "1346863065",
+      "personal_info": {
+        "first_name": "KRISTA",
+        "last_name": "GARRIEPY",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "108 GOSS HILL RD",
+        "address_line_2": null,
+        "city": "HUNTINGTON",
+        "state": "MA",
+        "postal_code": "010509631",
+        "telephone": "413-977-4388",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01050",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702385"
+      }
+    },
+    {
+      "npi": "1336179076",
+      "personal_info": {
+        "first_name": "MARY",
+        "last_name": "GORSKI",
+        "middle_name": null,
+        "credential": "PA-C, MA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "32B N FARMS RD",
+        "address_line_2": null,
+        "city": "HAYDENVILLE",
+        "state": "MA",
+        "postal_code": "010399724",
+        "telephone": "413-592-1980",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "842"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01039",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702401"
+      }
+    },
+    {
+      "npi": "1316960859",
+      "personal_info": {
+        "first_name": "BRUCE",
+        "last_name": "BENNETT",
+        "middle_name": "ALAN",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "421 N MAIN ST",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539764",
+        "telephone": "413-584-4040",
+        "fax": "413-582-3152"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702414"
+      }
+    },
+    {
+      "npi": "1598954208",
+      "personal_info": {
+        "first_name": "SHELLY",
+        "last_name": "FOWLER",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "38 MULBERRY ST STE 204",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010535339",
+        "telephone": "413-727-3882",
+        "fax": "413-727-8691"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CT",
+          "license": "002021"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA1051"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702427"
+      }
+    },
+    {
+      "npi": "1215925011",
+      "personal_info": {
+        "first_name": "JEFFREY",
+        "last_name": "KELLOGG",
+        "middle_name": "J",
+        "credential": "PA, MBA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "20 WILLIAMSTOWN RD",
+        "address_line_2": null,
+        "city": "LANESBOROUGH",
+        "state": "MA",
+        "postal_code": "012379548",
+        "telephone": "413-455-6800",
+        "fax": "833-948-3572"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "1520"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "1520"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702442"
+      }
+    },
+    {
+      "npi": "1558310979",
+      "personal_info": {
+        "first_name": "LYNN",
+        "last_name": "LAPOUR",
+        "middle_name": "E",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "13 HARLOW AVE",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010604211",
+        "telephone": "413-586-6045",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702456"
+      }
+    },
+    {
+      "npi": "1063904357",
+      "personal_info": {
+        "first_name": "JOHN",
+        "last_name": "LYONS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "271 CAREW ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011042377",
+        "telephone": "413-748-9000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2175"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702472"
+      }
+    },
+    {
+      "npi": "1194875633",
+      "personal_info": {
+        "first_name": "SHAWN",
+        "last_name": "MCEWAN",
+        "middle_name": "P",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "421 N MAIN ST",
+        "address_line_2": "PRIMARY CARE",
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539764",
+        "telephone": "413-584-4040",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1054"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702486"
+      }
+    },
+    {
+      "npi": "1124096953",
+      "personal_info": {
+        "first_name": "KEVYN",
+        "last_name": "MILLER",
+        "middle_name": "J",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "421 N MAIN ST",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539764",
+        "telephone": "413-584-4040",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NC",
+          "license": "0010-01620"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1680"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "1680"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702500"
+      }
+    },
+    {
+      "npi": "1952406712",
+      "personal_info": {
+        "first_name": "CHARLES",
+        "last_name": "RUSSETT",
+        "middle_name": "THOMAS",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "12 KINGMAN RD",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010021585",
+        "telephone": "413-549-5404",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702511"
+      }
+    },
+    {
+      "npi": "1780620195",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "SCHWARTZ",
+        "middle_name": "L",
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "421 N MAIN ST",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539764",
+        "telephone": "413-584-4040",
+        "fax": "413-582-3169"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "603"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702523"
+      }
+    },
+    {
+      "npi": "1952413551",
+      "personal_info": {
+        "first_name": "KATHLYN",
+        "last_name": "STEIN",
+        "middle_name": "M",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "421 N MAIN ST",
+        "address_line_2": "CREDENTIALLING OFFICE",
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539764",
+        "telephone": "413-584-4040",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "1359"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "1359"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702535"
+      }
+    },
+    {
+      "npi": "1972581189",
+      "personal_info": {
+        "first_name": "ANNE",
+        "last_name": "STETSON",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "441 KENNEDY RD",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539756",
+        "telephone": "413-584-4808",
+        "fax": "413-584-4808"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1489"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702546"
+      }
+    },
+    {
+      "npi": "1164456430",
+      "personal_info": {
+        "first_name": "WILLIAM",
+        "last_name": "VANWAGNER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "421 N MAIN ST",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539764",
+        "telephone": "413-582-3010",
+        "fax": "413-582-3185"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1350"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702560"
+      }
+    },
+    {
+      "npi": "1871596247",
+      "personal_info": {
+        "first_name": "KATHERINE",
+        "last_name": "WALTON-VECCHIO",
+        "middle_name": "E",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "421 N MAIN ST",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539700",
+        "telephone": "413-586-8400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5933"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01053",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702573"
+      }
+    },
+    {
+      "npi": "1013962059",
+      "personal_info": {
+        "first_name": "KIRSTEN",
+        "last_name": "BRINGARDNER",
+        "middle_name": "CHEREE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": "COOLEY DICKINSON HOSPITALIST PROGRAM",
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-582-2563",
+        "fax": "413-582-2566"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "2078"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702588"
+      }
+    },
+    {
+      "npi": "1376733956",
+      "personal_info": {
+        "first_name": "TROY",
+        "last_name": "CHILSON",
+        "middle_name": "E",
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "6 HATFIELD ST",
+        "address_line_2": "HAMPSHIRE ORTHOPEDICS & SPORTS MEDICINE, INC.",
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "01060",
+        "telephone": "413-586-8200",
+        "fax": "413-582-1460"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "2357"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702599"
+      }
+    },
+    {
+      "npi": "1295441954",
+      "personal_info": {
+        "first_name": "ADAM",
+        "last_name": "CORRIVEAU",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 WALNUT ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010603218",
+        "telephone": "413-588-8694",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702611"
+      }
+    },
+    {
+      "npi": "1245249671",
+      "personal_info": {
+        "first_name": "CYNTHIA",
+        "last_name": "CUTTER",
+        "middle_name": null,
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "271 CAREW ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "01102",
+        "telephone": "413-748-9137",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "00625"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702623"
+      }
+    },
+    {
+      "npi": "1376096685",
+      "personal_info": {
+        "first_name": "SHAYAN",
+        "last_name": "HASHMI",
+        "middle_name": null,
+        "credential": "MPAS",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "20 WINN TER",
+        "address_line_2": null,
+        "city": "MALDEN",
+        "state": "MA",
+        "postal_code": "021481110",
+        "telephone": "413-454-2877",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5887"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702635"
+      }
+    },
+    {
+      "npi": "1831722677",
+      "personal_info": {
+        "first_name": "KRISTEN",
+        "last_name": "HINCHEY",
+        "middle_name": "L",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-582-2108",
+        "fax": "414-582-2914"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7442"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702646"
+      }
+    },
+    {
+      "npi": "1548381544",
+      "personal_info": {
+        "first_name": "LYNNE",
+        "last_name": "HINKLE",
+        "middle_name": "CATHERINE DAVID",
+        "credential": "PA-C, ND, MSOM, MS",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "395 PLEASANT ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010603914",
+        "telephone": "413-584-7787",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7490"
+        },
+        {
+          "taxonomy_code": "175F00000X",
+          "taxonomy_desc": "Naturopath",
+          "primary": false,
+          "state": "CA",
+          "license": "PA790"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702659"
+      }
+    },
+    {
+      "npi": "1801279427",
+      "personal_info": {
+        "first_name": "KARL",
+        "last_name": "HIRSCHEGGER",
+        "middle_name": "MARTIN",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602093",
+        "telephone": "413-582-2000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5408"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702672"
+      }
+    },
+    {
+      "npi": "1346254059",
+      "personal_info": {
+        "first_name": "AMY",
+        "last_name": "JACOBSON",
+        "middle_name": "P.",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "69 STATE ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010603049",
+        "telephone": "413-586-8156",
+        "fax": "413-789-8048"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "317"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702684"
+      }
+    },
+    {
+      "npi": "1629742267",
+      "personal_info": {
+        "first_name": "TIMOTHY",
+        "last_name": "KANG",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "164 HIGH ST",
+        "address_line_2": null,
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013012613",
+        "telephone": "413-794-2273",
+        "fax": "413-773-2841"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8334"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702695"
+      }
+    },
+    {
+      "npi": "1124889142",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "KOLINSKI",
+        "middle_name": "MILENA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-582-2000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100420"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702707"
+      }
+    },
+    {
+      "npi": "1023550878",
+      "personal_info": {
+        "first_name": "CHRISTINE",
+        "last_name": "KRINITSYN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-582-2363",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5932"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702718"
+      }
+    },
+    {
+      "npi": "1558310979",
+      "personal_info": {
+        "first_name": "LYNN",
+        "last_name": "LAPOUR",
+        "middle_name": "E",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "13 HARLOW AVE",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010604211",
+        "telephone": "413-586-6045",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702729"
+      }
+    },
+    {
+      "npi": "1063828515",
+      "personal_info": {
+        "first_name": "ANITA",
+        "last_name": "LEKARCZYK",
+        "middle_name": "GABRIELA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST STREET",
+        "address_line_2": "COOLEY DICKINSON HOSPITAL",
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "01060",
+        "telephone": "413-582-2363",
+        "fax": "413-582-2914"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702745"
+      }
+    },
+    {
+      "npi": "1114125812",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "LEVINE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-582-2000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "2346"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702761"
+      }
+    },
+    {
+      "npi": "1043300890",
+      "personal_info": {
+        "first_name": "NANCY",
+        "last_name": "LOGAN",
+        "middle_name": null,
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "280 CHESTNUT ST FL 2",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011991001",
+        "telephone": "413-794-5700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "1756"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702783"
+      }
+    },
+    {
+      "npi": "1609242726",
+      "personal_info": {
+        "first_name": "JOSEPH",
+        "last_name": "MECHEM",
+        "middle_name": null,
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "24 HAYES AVE",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602213",
+        "telephone": "413-341-3863",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5485"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702802"
+      }
+    },
+    {
+      "npi": "1679746937",
+      "personal_info": {
+        "first_name": "FAYE",
+        "last_name": "MINSKY",
+        "middle_name": null,
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "50 FORT HILL TER",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010604008",
+        "telephone": "413-586-9560",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "0550030904"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702816"
+      }
+    },
+    {
+      "npi": "1528319613",
+      "personal_info": {
+        "first_name": "LAURA",
+        "last_name": "MITROWSKI",
+        "middle_name": "M",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "271 CAREW ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011042377",
+        "telephone": "413-748-9137",
+        "fax": "413-452-6049"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4506"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702835"
+      }
+    },
+    {
+      "npi": "1821458944",
+      "personal_info": {
+        "first_name": "AARON",
+        "last_name": "MORSE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "151 STATE ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602253",
+        "telephone": "413-262-5474",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5638"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702854"
+      }
+    },
+    {
+      "npi": "1003207929",
+      "personal_info": {
+        "first_name": "REID",
+        "last_name": "MOTHA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 633",
+        "address_line_2": null,
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postal_code": "012020633",
+        "telephone": "413-582-2363",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "146N00000X",
+          "taxonomy_desc": "Emergency Medical Technician, Basic",
+          "primary": false,
+          "state": "MA",
+          "license": "E881169"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5226"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702877"
+      }
+    },
+    {
+      "npi": "1083769111",
+      "personal_info": {
+        "first_name": "ANTHONY",
+        "last_name": "PELLEGRINO",
+        "middle_name": "MICHAEL",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "271 CAREW ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011042377",
+        "telephone": "413-748-9000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NH",
+          "license": "0661"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "AP2303"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702900"
+      }
+    },
+    {
+      "npi": "1699753327",
+      "personal_info": {
+        "first_name": "LORELEI",
+        "last_name": "RAYMUNDO",
+        "middle_name": "L",
+        "credential": "M.S.P.T., PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "73 BARRETT ST APT 2095",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010601734",
+        "telephone": "480-639-9305",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "225100000X",
+          "taxonomy_desc": "Physical Therapist",
+          "primary": false,
+          "state": "AZ",
+          "license": "3677"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4915"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702921"
+      }
+    },
+    {
+      "npi": "1225712458",
+      "personal_info": {
+        "first_name": "ASHLEY",
+        "last_name": "ROULEAU",
+        "middle_name": "BRIDGET",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602093",
+        "telephone": "413-582-2000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702938"
+      }
+    },
+    {
+      "npi": "1568020626",
+      "personal_info": {
+        "first_name": "MARK",
+        "last_name": "RYAN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "6 HATFIELD ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010601556",
+        "telephone": "413-549-8400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702952"
+      }
+    },
+    {
+      "npi": "1669603049",
+      "personal_info": {
+        "first_name": "KARYN",
+        "last_name": "SCHALET",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "280 CHESTNUT ST FL 2",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011991619",
+        "telephone": "413-794-5700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4658"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702969"
+      }
+    },
+    {
+      "npi": "1295837540",
+      "personal_info": {
+        "first_name": "EMIL",
+        "last_name": "SCHANZER",
+        "middle_name": null,
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 ASHLEY CIR",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010279711",
+        "telephone": "413-584-4040",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": "1006473"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702984"
+      }
+    },
+    {
+      "npi": "1780620195",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "SCHWARTZ",
+        "middle_name": "L",
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "421 N MAIN ST",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "MA",
+        "postal_code": "010539764",
+        "telephone": "413-584-4040",
+        "fax": "413-582-3169"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "603"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.702998"
+      }
+    },
+    {
+      "npi": "1013622018",
+      "personal_info": {
+        "first_name": "ALANNA",
+        "last_name": "SERVANT",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "280 CHESTNUT STREET",
+        "address_line_2": "2ND FLOOR",
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011991001",
+        "telephone": "413-794-3909",
+        "fax": "413-794-1629"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA9191"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703018"
+      }
+    },
+    {
+      "npi": "1144932641",
+      "personal_info": {
+        "first_name": "KATHRYN",
+        "last_name": "STEVENSON",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-313-4572",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703035"
+      }
+    },
+    {
+      "npi": "1790304095",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "SULLIVAN",
+        "middle_name": "JACQUELINE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-582-4740",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703052"
+      }
+    },
+    {
+      "npi": "1447829585",
+      "personal_info": {
+        "first_name": "GUINEVERE ARTHUR",
+        "last_name": "VANHORNE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "100 WHITE LOAF RD",
+        "address_line_2": null,
+        "city": "SOUTHAMPTON",
+        "state": "MA",
+        "postal_code": "010739550",
+        "telephone": "413-333-7295",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207RC0000X",
+          "taxonomy_desc": "Internal Medicine, Cardiovascular Disease",
+          "primary": false,
+          "state": "MA",
+          "license": "PA8192"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8192"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703067"
+      }
+    },
+    {
+      "npi": "1962816736",
+      "personal_info": {
+        "first_name": "JANET",
+        "last_name": "WHOLEY",
+        "middle_name": "BURRIDGE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "170 UNIVERSITY DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022247",
+        "telephone": "413-461-3530",
+        "fax": "413-461-3532"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5032"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703085"
+      }
+    },
+    {
+      "npi": "1942482914",
+      "personal_info": {
+        "first_name": "SHANNON",
+        "last_name": "WIDDERICK",
+        "middle_name": "M.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "395 PLEASANT ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010603914",
+        "telephone": "413-584-7787",
+        "fax": "413-584-7778"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CT",
+          "license": "001992"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "2360"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA2360"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01060",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703105"
+      }
+    },
+    {
+      "npi": "1568175693",
+      "personal_info": {
+        "first_name": "CASEY",
+        "last_name": "BARTLETT",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "01062",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100471"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703124"
+      }
+    },
+    {
+      "npi": "1154192854",
+      "personal_info": {
+        "first_name": "ELISABETH",
+        "last_name": "BORKOWSKI",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": null,
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010271046",
+        "telephone": "413-529-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100396"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703139"
+      }
+    },
+    {
+      "npi": "1063552487",
+      "personal_info": {
+        "first_name": "DIANE",
+        "last_name": "BRUESSOW",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "10 MAIN ST STE 3",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010623158",
+        "telephone": "718-894-0301",
+        "fax": "718-894-0301"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "004819-1"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00141700"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "WY",
+          "license": "PA1010"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8022"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703158"
+      }
+    },
+    {
+      "npi": "1821304312",
+      "personal_info": {
+        "first_name": "PETER",
+        "last_name": "BUCHANAN",
+        "middle_name": "A",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": null,
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011521",
+        "telephone": "413-774-6301",
+        "fax": "866-644-0871"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "4009"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703169"
+      }
+    },
+    {
+      "npi": "1891547154",
+      "personal_info": {
+        "first_name": "BENJAMIN",
+        "last_name": "CHRISTOPHER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "55 FRUIT ST",
+        "address_line_2": null,
+        "city": "BOSTON",
+        "state": "MA",
+        "postal_code": "021142696",
+        "telephone": "617-726-2000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703182"
+      }
+    },
+    {
+      "npi": "1366074122",
+      "personal_info": {
+        "first_name": "HEATHER",
+        "last_name": "CLARKE",
+        "middle_name": "LYNNE KIRBY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "238 NORTHAMPTON ST",
+        "address_line_2": "VALLEY MEDICAL GROUP, PC-EASTHAMPTON HEATH CENTER",
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "01027",
+        "telephone": "413-529-9300",
+        "fax": "866-644-0870"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7409"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703194"
+      }
+    },
+    {
+      "npi": "1881119378",
+      "personal_info": {
+        "first_name": "TAYLOR",
+        "last_name": "COHEN",
+        "middle_name": "JAN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 MAIN ST STE 202",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010623100",
+        "telephone": "413-584-0044",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "208200000X",
+          "taxonomy_desc": "Plastic Surgery",
+          "primary": false,
+          "state": "MA",
+          "license": "PA6177"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6177"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703210"
+      }
+    },
+    {
+      "npi": "1699190827",
+      "personal_info": {
+        "first_name": "DEVIN",
+        "last_name": "DONOHOE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "29 NORTH MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "01062",
+        "telephone": "413-582-5555",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7921"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "PA7921"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703225"
+      }
+    },
+    {
+      "npi": "1689642274",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "ERICKSON",
+        "middle_name": "J",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": "NORTHAMPTON HEALTH CENTER",
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621466",
+        "telephone": "413-586-8400",
+        "fax": "413-585-5435"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "406"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703317"
+      }
+    },
+    {
+      "npi": "1174590103",
+      "personal_info": {
+        "first_name": "ANN",
+        "last_name": "ESRICK",
+        "middle_name": "S",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621487",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA309"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703329"
+      }
+    },
+    {
+      "npi": "1619617537",
+      "personal_info": {
+        "first_name": "COURTNEY",
+        "last_name": "FINNIGAN",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "267 LOCUST ST STE 101",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010622770",
+        "telephone": "413-253-2767",
+        "fax": "413-253-9767"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703340"
+      }
+    },
+    {
+      "npi": "1154975811",
+      "personal_info": {
+        "first_name": "PAUL",
+        "last_name": "FIONTE",
+        "middle_name": "ARTHUR",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": null,
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011521",
+        "telephone": "413-774-6301",
+        "fax": "866-644-0871"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7308"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703351"
+      }
+    },
+    {
+      "npi": "1710500848",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "GHOHESTANI-BOJD",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": "VALLEY MEDICAL GROUP, PC-NORTHAMPTON HEALTH CENTER",
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621466",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CA",
+          "license": "58136"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8793"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703364"
+      }
+    },
+    {
+      "npi": "1609099936",
+      "personal_info": {
+        "first_name": "MARGARET",
+        "last_name": "GLADSKI",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "21 BRAMBLEBUSH PARK",
+        "address_line_2": null,
+        "city": "FALMOUTH",
+        "state": "MA",
+        "postal_code": "02540",
+        "telephone": "508-495-5160",
+        "fax": "508-495-5170"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CT",
+          "license": "001867"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "3884"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703378"
+      }
+    },
+    {
+      "npi": "1285913228",
+      "personal_info": {
+        "first_name": "JULIA",
+        "last_name": "GODFREY",
+        "middle_name": "L",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "280 CHESTNUT ST",
+        "address_line_2": "2ND FL",
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011991619",
+        "telephone": "413-794-5700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "MA",
+          "license": "4198"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703389"
+      }
+    },
+    {
+      "npi": "1083194658",
+      "personal_info": {
+        "first_name": "LAURA",
+        "last_name": "GOLDSTEIN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621487",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6714"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703401"
+      }
+    },
+    {
+      "npi": "1457762106",
+      "personal_info": {
+        "first_name": "AARON",
+        "last_name": "GRINSTEIN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": "NORTHAMPTON HEALTH CENTER",
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "01062",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "HI",
+          "license": "AMD-875"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "PA4966"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4966"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703414"
+      }
+    },
+    {
+      "npi": "1649390865",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "LACASSE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "31 HALL DR",
+        "address_line_2": null,
+        "city": "AMHERST",
+        "state": "MA",
+        "postal_code": "010022751",
+        "telephone": "413-256-8561",
+        "fax": "866-644-0869"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "2481"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703427"
+      }
+    },
+    {
+      "npi": "1003857806",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "10 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010623158",
+        "telephone": "413-584-1588",
+        "fax": "413-585-0821"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207RC0000X",
+          "taxonomy_desc": "Internal Medicine, Cardiovascular Disease",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703439"
+      }
+    },
+    {
+      "npi": "1922625185",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "O'BRIEN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "70 ACREBROOK DR",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010623421",
+        "telephone": "413-210-8823",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CA",
+          "license": "PA58546"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "DC",
+          "license": "PA200001682"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MD",
+          "license": "C08887"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MO",
+          "license": "2023043567"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "IA",
+          "license": "123128"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MI",
+          "license": "5601012132"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "031368"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "IL",
+          "license": "085010117"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703460"
+      }
+    },
+    {
+      "npi": "1548890270",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "REALE",
+        "middle_name": "KATE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "361 PROSPECT AVE",
+        "address_line_2": null,
+        "city": "WEST SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "010894558",
+        "telephone": "413-426-4332",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7427"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703471"
+      }
+    },
+    {
+      "npi": "1982753190",
+      "personal_info": {
+        "first_name": "KELLEY",
+        "last_name": "SASUR",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 STRAW AVE",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621464",
+        "telephone": "413-586-7100",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703483"
+      }
+    },
+    {
+      "npi": "1477193167",
+      "personal_info": {
+        "first_name": "ALEXIS",
+        "last_name": "SEVERIN",
+        "middle_name": "MARIE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": null,
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621466",
+        "telephone": "413-586-8400",
+        "fax": "866-644-0872"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8031"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703495"
+      }
+    },
+    {
+      "npi": "1083793384",
+      "personal_info": {
+        "first_name": "EMILY",
+        "last_name": "TALLEY",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 MAIN ST",
+        "address_line_2": "NORTHAMPTON HEALTH CENTER",
+        "city": "FLORENCE",
+        "state": "MA",
+        "postal_code": "010621466",
+        "telephone": "413-586-8400",
+        "fax": "413-585-5435"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NM",
+          "license": "2001-PA33"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703507"
+      }
+    },
+    {
+      "npi": "1912924705",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "329 CONWAY ST",
+        "address_line_2": "GREENFIELD HEALTH CENTER",
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013011526",
+        "telephone": "413-774-6301",
+        "fax": "413-772-3313"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "103T00000X",
+          "taxonomy_desc": "Psychologist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "1041C0700X",
+          "taxonomy_desc": "Social Worker, Clinical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "106H00000X",
+          "taxonomy_desc": "Marriage & Family Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "152W00000X",
+          "taxonomy_desc": "Optometrist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RE0101X",
+          "taxonomy_desc": "Internal Medicine, Endocrinology, Diabetes & Metabolism",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RR0500X",
+          "taxonomy_desc": "Internal Medicine, Rheumatology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208000000X",
+          "taxonomy_desc": "Pediatrics",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2084P0800X",
+          "taxonomy_desc": "Psychiatry & Neurology, Psychiatry",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2085R0202X",
+          "taxonomy_desc": "Radiology, Diagnostic Radiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "225X00000X",
+          "taxonomy_desc": "Occupational Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "261QR0200X",
+          "taxonomy_desc": "Clinic/Center, Radiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363LF0000X",
+          "taxonomy_desc": "Nurse Practitioner, Family",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01062",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703537"
+      }
+    },
+    {
+      "npi": "1841232303",
+      "personal_info": {
+        "first_name": "MORIAH",
+        "last_name": "RITSON",
+        "middle_name": "B",
+        "credential": "Physician Assistant",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "244 MAIN STREET ANNEX",
+        "address_line_2": "P.O. BOX 32",
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010610032",
+        "telephone": "413-727-3534",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CT",
+          "license": "000061"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01061",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703558"
+      }
+    },
+    {
+      "npi": "1225447626",
+      "personal_info": {
+        "first_name": "THOMAS",
+        "last_name": "O'BRIEN",
+        "middle_name": "PATRICK",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 GROSSMAN DR",
+        "address_line_2": null,
+        "city": "BRAINTREE",
+        "state": "MA",
+        "postal_code": "021844997",
+        "telephone": "781-849-1000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "2255A2300X",
+          "taxonomy_desc": "Specialist/Technologist, Athletic Trainer",
+          "primary": false,
+          "state": "MA",
+          "license": "2416"
+        },
+        {
+          "taxonomy_code": "2255A2300X",
+          "taxonomy_desc": "Specialist/Technologist, Athletic Trainer",
+          "primary": false,
+          "state": "RI",
+          "license": "AT00339"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NV",
+          "license": "PA1851"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7872"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01066",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703573"
+      }
+    },
+    {
+      "npi": "1447507843",
+      "personal_info": {
+        "first_name": "JENNA",
+        "last_name": "BOOKER",
+        "middle_name": "BRIANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT ST",
+        "address_line_2": null,
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-284-5308",
+        "fax": "413-284-5413"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5029"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703586"
+      }
+    },
+    {
+      "npi": "1730606740",
+      "personal_info": {
+        "first_name": "JORDAN",
+        "last_name": "BRUNELLE",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "280 CHESTNUT ST FL 2",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011991001",
+        "telephone": "413-794-5700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6202"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703597"
+      }
+    },
+    {
+      "npi": "1821618489",
+      "personal_info": {
+        "first_name": "JACOB",
+        "last_name": "COBLYN",
+        "middle_name": "BAMFORD",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT ST",
+        "address_line_2": null,
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-370-5400",
+        "fax": "413-370-5654"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8016"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703609"
+      }
+    },
+    {
+      "npi": "1467590539",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "HIXON",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT ST",
+        "address_line_2": null,
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-370-7000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA535"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703620"
+      }
+    },
+    {
+      "npi": "1578310751",
+      "personal_info": {
+        "first_name": "JACKY",
+        "last_name": "HUANG",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT ST",
+        "address_line_2": null,
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-370-7880",
+        "fax": "413-370-8168"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100732"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703632"
+      }
+    },
+    {
+      "npi": "1770067605",
+      "personal_info": {
+        "first_name": "JORDAN",
+        "last_name": "KIGHT",
+        "middle_name": "R",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT ST",
+        "address_line_2": null,
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-370-7000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "022567"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8261"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703645"
+      }
+    },
+    {
+      "npi": "1619217072",
+      "personal_info": {
+        "first_name": "LINDSEY",
+        "last_name": "MORIN",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "280 CHESTNUT STREET",
+        "address_line_2": "2ND FLOOR",
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011991001",
+        "telephone": "413-794-5700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4593"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703657"
+      }
+    },
+    {
+      "npi": "1427795533",
+      "personal_info": {
+        "first_name": "CAREEN",
+        "last_name": "PETTINGER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT STREET",
+        "address_line_2": "1ST FLOOR",
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-370-5400",
+        "fax": "413-370-5654"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703670"
+      }
+    },
+    {
+      "npi": "1023461605",
+      "personal_info": {
+        "first_name": "ASHLEY",
+        "last_name": "PROULX",
+        "middle_name": "ANNE",
+        "credential": "Physician Assistant",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "22 PINE ST STE 104",
+        "address_line_2": null,
+        "city": "BRISTOL",
+        "state": "CT",
+        "postal_code": "060106949",
+        "telephone": "860-584-8291",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CT",
+          "license": "3627"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "3627"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6156"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703683"
+      }
+    },
+    {
+      "npi": "1184000978",
+      "personal_info": {
+        "first_name": "ANNA",
+        "last_name": "RUSSO",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "56 FRANKLIN ST",
+        "address_line_2": null,
+        "city": "WATERBURY",
+        "state": "CT",
+        "postal_code": "067061253",
+        "telephone": "203-709-6000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "PA5541"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703696"
+      }
+    },
+    {
+      "npi": "1770900086",
+      "personal_info": {
+        "first_name": "KAILA",
+        "last_name": "SOJA",
+        "middle_name": "LOUISE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT ST",
+        "address_line_2": null,
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-284-5308",
+        "fax": "413-284-5413"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "4374"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5976"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703709"
+      }
+    },
+    {
+      "npi": "1932497328",
+      "personal_info": {
+        "first_name": "LEANNE",
+        "last_name": "VALLEE",
+        "middle_name": "T.G.",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT ST",
+        "address_line_2": null,
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-967-2040",
+        "fax": "413-967-2044"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4214"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703721"
+      }
+    },
+    {
+      "npi": "1730104050",
+      "personal_info": {
+        "first_name": "WILLIAM",
+        "last_name": "WILLIAMS",
+        "middle_name": "L",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 363",
+        "address_line_2": "WING EMERGENCY SERVICES PC",
+        "city": "JEFFERSON",
+        "state": "MA",
+        "postal_code": "01522",
+        "telephone": "413-289-5000",
+        "fax": "978-466-2993"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA2599"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01069",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703733"
+      }
+    },
+    {
+      "npi": "1356737274",
+      "personal_info": {
+        "first_name": "APRIL",
+        "last_name": "BELANGER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "6 PARC PL",
+        "address_line_2": "SUITE A",
+        "city": "SOUTHAMPTON",
+        "state": "MA",
+        "postal_code": "010739277",
+        "telephone": "141-352-9928",
+        "fax": "141-352-7752"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5337"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01073",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703746"
+      }
+    },
+    {
+      "npi": "1295080315",
+      "personal_info": {
+        "first_name": "RACHEL",
+        "last_name": "LACOURSE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "16 LEAD MINE RD",
+        "address_line_2": null,
+        "city": "SOUTHAMPTON",
+        "state": "MA",
+        "postal_code": "010739463",
+        "telephone": "413-209-2342",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": "PA00650"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01073",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703757"
+      }
+    },
+    {
+      "npi": "1487786794",
+      "personal_info": {
+        "first_name": "CARY",
+        "last_name": "LAYMAN",
+        "middle_name": "I",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "100 OLD COUNTY RD",
+        "address_line_2": null,
+        "city": "SOUTHAMPTON",
+        "state": "MA",
+        "postal_code": "010739602",
+        "telephone": "413-529-8083",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "839 MA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01073",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703769"
+      }
+    },
+    {
+      "npi": "1164766226",
+      "personal_info": {
+        "first_name": "KATHERINE",
+        "last_name": "RIVEST",
+        "middle_name": "SIOBHAN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2 MECHANIC ST",
+        "address_line_2": "SUITE A",
+        "city": "EASTHAMPTON",
+        "state": "MA",
+        "postal_code": "010271562",
+        "telephone": "413-529-9282",
+        "fax": "413-527-7526"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA4575"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01073",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703780"
+      }
+    },
+    {
+      "npi": "1003592205",
+      "personal_info": {
+        "first_name": "RYAN",
+        "last_name": "ROGERS",
+        "middle_name": "CHRISTIAN",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4 COURTNEY LN",
+        "address_line_2": null,
+        "city": "SOUTHAMPTON",
+        "state": "MA",
+        "postal_code": "010739647",
+        "telephone": "413-695-5087",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": "1192561"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": "1192561"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01073",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703793"
+      }
+    },
+    {
+      "npi": "1447829585",
+      "personal_info": {
+        "first_name": "GUINEVERE ARTHUR",
+        "last_name": "VANHORNE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "100 WHITE LOAF RD",
+        "address_line_2": null,
+        "city": "SOUTHAMPTON",
+        "state": "MA",
+        "postal_code": "010739550",
+        "telephone": "413-333-7295",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207RC0000X",
+          "taxonomy_desc": "Internal Medicine, Cardiovascular Disease",
+          "primary": false,
+          "state": "MA",
+          "license": "PA8192"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8192"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01073",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703806"
+      }
+    },
+    {
+      "npi": "1457413783",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "BREEN",
+        "middle_name": "PATRICK",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "407 BELCHERTOWN RD",
+        "address_line_2": null,
+        "city": "WARE",
+        "state": "MA",
+        "postal_code": "010829420",
+        "telephone": "413-552-8052",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "2140"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01082",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703818"
+      }
+    },
+    {
+      "npi": "1538576293",
+      "personal_info": {
+        "first_name": "MIAH",
+        "last_name": "DIGREGORIO",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "85 SOUTH ST",
+        "address_line_2": null,
+        "city": "WARE",
+        "state": "MA",
+        "postal_code": "010821625",
+        "telephone": "413-967-6211",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5092"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01082",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703829"
+      }
+    },
+    {
+      "npi": "1558306209",
+      "personal_info": {
+        "first_name": "MAUREEN",
+        "last_name": "FULLER",
+        "middle_name": "PENDERGAST",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "85 SOUTH ST",
+        "address_line_2": null,
+        "city": "WARE",
+        "state": "MA",
+        "postal_code": "010821625",
+        "telephone": "413-967-2268",
+        "fax": "413-967-2548"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1366"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01082",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703842"
+      }
+    },
+    {
+      "npi": "1962521104",
+      "personal_info": {
+        "first_name": "WILLIAM",
+        "last_name": "KING",
+        "middle_name": "SCOTT",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "5 NEPONSET ST",
+        "address_line_2": "WOT 2ND FL",
+        "city": "WORCESTER",
+        "state": "MA",
+        "postal_code": "016062714",
+        "telephone": "508-721-1195",
+        "fax": "508-832-9025"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "362122"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01082",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703853"
+      }
+    },
+    {
+      "npi": "1356566418",
+      "personal_info": {
+        "first_name": "THERESA",
+        "last_name": "RIETHLE",
+        "middle_name": "J",
+        "credential": "P.A.-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "143 GREENWICH PLNS RD",
+        "address_line_2": null,
+        "city": "WARE",
+        "state": "MA",
+        "postal_code": "010829798",
+        "telephone": "413-967-4567",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "983"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01082",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703865"
+      }
+    },
+    {
+      "npi": "1770900086",
+      "personal_info": {
+        "first_name": "KAILA",
+        "last_name": "SOJA",
+        "middle_name": "LOUISE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 WRIGHT ST",
+        "address_line_2": null,
+        "city": "PALMER",
+        "state": "MA",
+        "postal_code": "010691138",
+        "telephone": "413-284-5308",
+        "fax": "413-284-5413"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "4374"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5976"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01082",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703879"
+      }
+    },
+    {
+      "npi": "1265279988",
+      "personal_info": {
+        "first_name": "SAMANTHA",
+        "last_name": "CAREY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "40 TURKEY HILL RD",
+        "address_line_2": null,
+        "city": "BELCHERTOWN",
+        "state": "MA",
+        "postal_code": "010079408",
+        "telephone": "413-323-7700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100829"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01075",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703891"
+      }
+    },
+    {
+      "npi": "1194324665",
+      "personal_info": {
+        "first_name": "FRANCESCA",
+        "last_name": "CHIRICO",
+        "middle_name": null,
+        "credential": "ATC, LAT, PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 BERWYN ST FL 1",
+        "address_line_2": null,
+        "city": "SOUTH HADLEY",
+        "state": "MA",
+        "postal_code": "010751801",
+        "telephone": "845-800-8086",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "2255A2300X",
+          "taxonomy_desc": "Specialist/Technologist, Athletic Trainer",
+          "primary": false,
+          "state": "CT",
+          "license": "1517"
+        },
+        {
+          "taxonomy_code": "2255A2300X",
+          "taxonomy_desc": "Specialist/Technologist, Athletic Trainer",
+          "primary": false,
+          "state": "MA",
+          "license": "3423"
+        },
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CT",
+          "license": "6984"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01075",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703906"
+      }
+    },
+    {
+      "npi": "1104487875",
+      "personal_info": {
+        "first_name": "KELSEY",
+        "last_name": "GROSS",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2101 MAIN ST",
+        "address_line_2": null,
+        "city": "LONGMONT",
+        "state": "CO",
+        "postal_code": "805011406",
+        "telephone": "720-745-8030",
+        "fax": "720-745-8031"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CO",
+          "license": "PA.0006453"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01075",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703919"
+      }
+    },
+    {
+      "npi": "1720067879",
+      "personal_info": {
+        "first_name": "DARLENE",
+        "last_name": "HAVILAND",
+        "middle_name": "MARIE",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 PINE GROVE DR",
+        "address_line_2": null,
+        "city": "SOUTH HADLEY",
+        "state": "MA",
+        "postal_code": "010752196",
+        "telephone": "508-832-9572",
+        "fax": "508-832-4758"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CT",
+          "license": "001494"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01075",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703930"
+      }
+    },
+    {
+      "npi": "1841822830",
+      "personal_info": {
+        "first_name": "EMILY",
+        "last_name": "HAZEN",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 CEDAR RDG",
+        "address_line_2": null,
+        "city": "SOUTH HADLEY",
+        "state": "MA",
+        "postal_code": "010751795",
+        "telephone": "413-297-1788",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "CT",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01075",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703963"
+      }
+    },
+    {
+      "npi": "1831748243",
+      "personal_info": {
+        "first_name": "KAYLA",
+        "last_name": "LUSNIA",
+        "middle_name": "ROSE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "470 GRANBY RD STE 1",
+        "address_line_2": null,
+        "city": "SOUTH HADLEY",
+        "state": "MA",
+        "postal_code": "010753215",
+        "telephone": "413-794-8700",
+        "fax": "413-794-8732"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA7097"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7097"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01075",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703976"
+      }
+    },
+    {
+      "npi": "1164082640",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "VACCA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "124 COLLEGE ST APT 19",
+        "address_line_2": null,
+        "city": "SOUTH HADLEY",
+        "state": "MA",
+        "postal_code": "010757508",
+        "telephone": "775-287-0205",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01075",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703988"
+      }
+    },
+    {
+      "npi": "1447829585",
+      "personal_info": {
+        "first_name": "GUINEVERE ARTHUR",
+        "last_name": "VANHORNE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "100 WHITE LOAF RD",
+        "address_line_2": null,
+        "city": "SOUTHAMPTON",
+        "state": "MA",
+        "postal_code": "010739550",
+        "telephone": "413-333-7295",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207RC0000X",
+          "taxonomy_desc": "Internal Medicine, Cardiovascular Disease",
+          "primary": false,
+          "state": "MA",
+          "license": "PA8192"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8192"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01075",
+        "retrieved_timestamp": "2025-02-18T03:50:58.703999"
+      }
+    },
+    {
+      "npi": "1750862330",
+      "personal_info": {
+        "first_name": "MORGAN",
+        "last_name": "MATUSZKO",
+        "middle_name": "ELIZABETH",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "83 HILLSIDE RD",
+        "address_line_2": null,
+        "city": "SOUTH DEERFIELD",
+        "state": "MA",
+        "postal_code": "013739710",
+        "telephone": "413-230-1314",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01088",
+        "retrieved_timestamp": "2025-02-18T03:50:58.704015"
+      }
+    },
+    {
+      "npi": "1679542609",
+      "personal_info": {
+        "first_name": "PAUL",
+        "last_name": "NORTON",
+        "middle_name": "CHARLES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4 WEST ST",
+        "address_line_2": null,
+        "city": "WEST HATFIELD",
+        "state": "MA",
+        "postal_code": "010889515",
+        "telephone": "413-586-8200",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "MA",
+          "license": "1796"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01088",
+        "retrieved_timestamp": "2025-02-18T03:50:58.704026"
+      }
+    },
+    {
+      "npi": "1487396768",
+      "personal_info": {
+        "first_name": "ROBERTO",
+        "last_name": "ROSA",
+        "middle_name": "LUIS",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 756",
+        "address_line_2": null,
+        "city": "WILLIAMSBURG",
+        "state": "MA",
+        "postal_code": "010960756",
+        "telephone": "203-903-6519",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01096",
+        "retrieved_timestamp": "2025-02-18T03:50:58.704039"
+      }
+    },
+    {
+      "npi": "1144932641",
+      "personal_info": {
+        "first_name": "KATHRYN",
+        "last_name": "STEVENSON",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "30 LOCUST ST",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010602052",
+        "telephone": "413-313-4572",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01096",
+        "retrieved_timestamp": "2025-02-18T03:50:58.704051"
+      }
+    },
+    {
+      "npi": "1245841840",
+      "personal_info": {
+        "first_name": "KATLYN",
+        "last_name": "VACHULA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "725 NORTH ST",
+        "address_line_2": null,
+        "city": "PITTSFIELD",
+        "state": "MA",
+        "postal_code": "012014109",
+        "telephone": "413-447-2000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "01098",
+        "retrieved_timestamp": "2025-02-18T03:50:58.704065"
+      }
+    }
+  ]
+}

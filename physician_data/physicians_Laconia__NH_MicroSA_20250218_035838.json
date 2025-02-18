@@ -1,0 +1,1022 @@
+{
+  "metadata": {
+    "msa_name": "Laconia, NH MicroSA",
+    "query_timestamp": "2025-02-18T03:58:38.775478",
+    "total_physicians": 28,
+    "specialty_distribution": {
+      "Physician Assistant": 29,
+      "Physician Assistant, Medical": 9,
+      "Physician Assistant, Surgical": 2
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1215606090",
+      "personal_info": {
+        "first_name": "MADELINE",
+        "last_name": "BOLES",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 264",
+        "address_line_2": null,
+        "city": "BELMONT",
+        "state": "NH",
+        "postal_code": "032200264",
+        "telephone": "603-630-4824",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1818"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03220",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775507"
+      }
+    },
+    {
+      "npi": "1104040112",
+      "personal_info": {
+        "first_name": "PATRICIA",
+        "last_name": "GALLANT",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "77 DANIEL WEBSTER HWY",
+        "address_line_2": null,
+        "city": "BELMONT",
+        "state": "NH",
+        "postal_code": "032203028",
+        "telephone": "603-737-0550",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1366"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "1156"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03220",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775520"
+      }
+    },
+    {
+      "npi": "1336792142",
+      "personal_info": {
+        "first_name": "JILLIAN",
+        "last_name": "HICKEY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "360 US HIGHWAY 1 BYP UNIT 102",
+        "address_line_2": null,
+        "city": "PORTSMOUTH",
+        "state": "NH",
+        "postal_code": "038017105",
+        "telephone": "603-410-6700",
+        "fax": "603-319-8308"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1654"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03220",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775530"
+      }
+    },
+    {
+      "npi": "1326602723",
+      "personal_info": {
+        "first_name": "REBEKAH",
+        "last_name": "JOHNSTON",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "716 STEVENS AVE",
+        "address_line_2": null,
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041032656",
+        "telephone": "207-283-0171",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "6194"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03220",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775541"
+      }
+    },
+    {
+      "npi": "1154007193",
+      "personal_info": {
+        "first_name": "JACOB",
+        "last_name": "MOZIER",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 810",
+        "address_line_2": null,
+        "city": "HANOVER",
+        "state": "NH",
+        "postal_code": "037550810",
+        "telephone": "603-308-1472",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2840"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03220",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775552"
+      }
+    },
+    {
+      "npi": "1972198885",
+      "personal_info": {
+        "first_name": "REBECCA",
+        "last_name": "ADMIRE",
+        "middle_name": "MARIE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1660 FEEHANVILLE DR STE 200",
+        "address_line_2": null,
+        "city": "MOUNT PROSPECT",
+        "state": "IL",
+        "postal_code": "600566036",
+        "telephone": "847-823-3185",
+        "fax": "847-823-3318"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA9288"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775564"
+      }
+    },
+    {
+      "npi": "1174619332",
+      "personal_info": {
+        "first_name": "LISA",
+        "last_name": "BAKER",
+        "middle_name": "B",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "841 CENTRAL ST STE 101",
+        "address_line_2": null,
+        "city": "FRANKLIN",
+        "state": "NH",
+        "postal_code": "032352053",
+        "telephone": "603-934-1464",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "0319"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775574"
+      }
+    },
+    {
+      "npi": "1083158455",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "CHICOINE",
+        "middle_name": "R",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "80 HIGHLAND ST",
+        "address_line_2": null,
+        "city": "LACONIA",
+        "state": "NH",
+        "postal_code": "032463235",
+        "telephone": "603-527-2819",
+        "fax": "603-527-2984"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA5940"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1361"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775584"
+      }
+    },
+    {
+      "npi": "1558898759",
+      "personal_info": {
+        "first_name": "ALEXANDRIA",
+        "last_name": "COLBY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "80 HIGHLAND ST",
+        "address_line_2": null,
+        "city": "LACONIA",
+        "state": "NH",
+        "postal_code": "032463235",
+        "telephone": "603-527-3211",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "OR",
+          "license": "PA181738"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1563"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775594"
+      }
+    },
+    {
+      "npi": "1710990841",
+      "personal_info": {
+        "first_name": "CHARLENE",
+        "last_name": "KREIENSIECK",
+        "middle_name": null,
+        "credential": "P.A",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "724 N MAIN ST",
+        "address_line_2": null,
+        "city": "LACONIA",
+        "state": "NH",
+        "postal_code": "032462742",
+        "telephone": "603-524-5151",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0377"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775603"
+      }
+    },
+    {
+      "npi": "1063195493",
+      "personal_info": {
+        "first_name": "TAYLOR",
+        "last_name": "LACEY",
+        "middle_name": "J",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "80 HIGHLAND ST FL 3",
+        "address_line_2": null,
+        "city": "LACONIA",
+        "state": "NH",
+        "postal_code": "032463235",
+        "telephone": "603-527-4500",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775612"
+      }
+    },
+    {
+      "npi": "1568762672",
+      "personal_info": {
+        "first_name": "AMY",
+        "last_name": "LEBLANC",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "250 PLEASANT ST",
+        "address_line_2": null,
+        "city": "CONCORD",
+        "state": "NH",
+        "postal_code": "033012598",
+        "telephone": "603-227-7000",
+        "fax": "603-216-3800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0798"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775622"
+      }
+    },
+    {
+      "npi": "1457421539",
+      "personal_info": {
+        "first_name": "JOHN",
+        "last_name": "LOGSDON",
+        "middle_name": "WILLIAM",
+        "credential": "MPAS, PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "91 LYNNEWOOD RD",
+        "address_line_2": null,
+        "city": "LACONIA",
+        "state": "NH",
+        "postal_code": "032462911",
+        "telephone": "603-528-1732",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0590"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775631"
+      }
+    },
+    {
+      "npi": "1821061292",
+      "personal_info": {
+        "first_name": "MIRNO",
+        "last_name": "PASQUALI",
+        "middle_name": "C",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1327",
+        "address_line_2": null,
+        "city": "LACONIA",
+        "state": "NH",
+        "postal_code": "032471327",
+        "telephone": "603-524-3211",
+        "fax": "603-527-7038"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0249 P"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775640"
+      }
+    },
+    {
+      "npi": "1386825800",
+      "personal_info": {
+        "first_name": "LEIGH",
+        "last_name": "SCARMARDO",
+        "middle_name": "ANNE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "85 SPRING ST",
+        "address_line_2": null,
+        "city": "LACONIA",
+        "state": "NH",
+        "postal_code": "032463113",
+        "telephone": "603-527-2960",
+        "fax": "603-527-2873"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "TX",
+          "license": "PA05502"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MD",
+          "license": "C03702"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1446"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NH",
+          "license": "1446"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03246",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775652"
+      }
+    },
+    {
+      "npi": "1669198560",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "LACHAPELLE",
+        "middle_name": "ADRIENNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "181 FRANKLIN HEALTH CMNS",
+        "address_line_2": null,
+        "city": "FARMINGTON",
+        "state": "ME",
+        "postal_code": "049386144",
+        "telephone": "207-778-4922",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2427"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03249",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775661"
+      }
+    },
+    {
+      "npi": "1285354100",
+      "personal_info": {
+        "first_name": "CONNOR",
+        "last_name": "LANE",
+        "middle_name": "JOHN",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "14 MAPLE ST STE 210",
+        "address_line_2": null,
+        "city": "GILFORD",
+        "state": "NH",
+        "postal_code": "032496580",
+        "telephone": "603-527-7114",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03249",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775670"
+      }
+    },
+    {
+      "npi": "1124557913",
+      "personal_info": {
+        "first_name": "CODY",
+        "last_name": "RIDEOUT",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "14 MAPLE ST",
+        "address_line_2": null,
+        "city": "GILFORD",
+        "state": "NH",
+        "postal_code": "032496580",
+        "telephone": "603-528-9100",
+        "fax": "603-524-5743"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NH",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NH",
+          "license": "1217"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1217"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03249",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775680"
+      }
+    },
+    {
+      "npi": "1942323209",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "STANKES",
+        "middle_name": "MCKINNEY",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "287 WINONA RD",
+        "address_line_2": null,
+        "city": "NEW HAMPTON",
+        "state": "NH",
+        "postal_code": "032564753",
+        "telephone": "603-279-8045",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0434"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03253",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775690"
+      }
+    },
+    {
+      "npi": "1942323209",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "STANKES",
+        "middle_name": "MCKINNEY",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "287 WINONA RD",
+        "address_line_2": null,
+        "city": "NEW HAMPTON",
+        "state": "NH",
+        "postal_code": "032564753",
+        "telephone": "603-279-8045",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0434"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03256",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775700"
+      }
+    },
+    {
+      "npi": "1033316658",
+      "personal_info": {
+        "first_name": "GAYLE",
+        "last_name": "SPELMAN",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "39 ANDREWS RD",
+        "address_line_2": null,
+        "city": "TILTON",
+        "state": "NH",
+        "postal_code": "032765212",
+        "telephone": "603-455-6948",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0214"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03276",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775709"
+      }
+    },
+    {
+      "npi": "1578276366",
+      "personal_info": {
+        "first_name": "BRIANNA",
+        "last_name": "TURNER",
+        "middle_name": "SHELLEEN",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "3 GERALD DR",
+        "address_line_2": null,
+        "city": "TILTON",
+        "state": "NH",
+        "postal_code": "032765633",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03276",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775719"
+      }
+    },
+    {
+      "npi": "1366412009",
+      "personal_info": {
+        "first_name": "KRISTEN",
+        "last_name": "DUNN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "984 WHITTIER HIGHWAY",
+        "address_line_2": null,
+        "city": "MOULTONBOROUGH",
+        "state": "NH",
+        "postal_code": "03254",
+        "telephone": "603-476-2216",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "009980"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03254",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775729"
+      }
+    },
+    {
+      "npi": "1124027396",
+      "personal_info": {
+        "first_name": "BETH",
+        "last_name": "LORENZ",
+        "middle_name": "WINIFRED",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 655",
+        "address_line_2": null,
+        "city": "MOULTONBORO",
+        "state": "NH",
+        "postal_code": "032540655",
+        "telephone": "603-253-3178",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0210P"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03254",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775738"
+      }
+    },
+    {
+      "npi": "1508596198",
+      "personal_info": {
+        "first_name": "MORGAN",
+        "last_name": "MACAIONE",
+        "middle_name": "LEE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "984 WHITTIER HWY",
+        "address_line_2": null,
+        "city": "MOULTONBOROUGH",
+        "state": "NH",
+        "postal_code": "032543305",
+        "telephone": "603-476-2216",
+        "fax": "603-476-5396"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2010"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03254",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775748"
+      }
+    },
+    {
+      "npi": "1083804991",
+      "personal_info": {
+        "first_name": "ELLEN",
+        "last_name": "DENNEHY",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "27 NEW DURHAM RD",
+        "address_line_2": null,
+        "city": "ALTON",
+        "state": "NH",
+        "postal_code": "038094917",
+        "telephone": "603-875-6151",
+        "fax": "603-875-2944"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "2312"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "1250"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03809",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775760"
+      }
+    },
+    {
+      "npi": "1225294531",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "TEDCASTLE",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "27 NEW DURHAM RD",
+        "address_line_2": null,
+        "city": "ALTON",
+        "state": "NH",
+        "postal_code": "038094917",
+        "telephone": "603-875-6151",
+        "fax": "603-875-6152"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "0527"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03809",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775769"
+      }
+    },
+    {
+      "npi": "1770392086",
+      "personal_info": {
+        "first_name": "MACKENZIE",
+        "last_name": "GEPPERT",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "462 1ST AVE",
+        "address_line_2": null,
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "100169196",
+        "telephone": "212-562-5555",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03810",
+        "retrieved_timestamp": "2025-02-18T03:58:38.775781"
+      }
+    }
+  ]
+}

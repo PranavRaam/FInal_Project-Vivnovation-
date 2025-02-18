@@ -1,0 +1,707 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Physician Map</title>
+            <style>
+                body {
+                    margin: 0;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+                    background-color: #1a1a1a;
+                    color: white;
+                }
+                #container {
+                    position: relative;
+                    height: 100vh;
+                }
+                .panel {
+                    background: rgba(0, 0, 0, 0.8);
+                    padding: 15px;
+                    border-radius: 8px;
+                    z-index: 1000;
+                    color: white;
+                }
+                #controls {
+                    position: absolute;
+                    top: 20px;
+                    left: 20px;
+                    width: 250px;
+                }
+                #legend {
+                    position: absolute;
+                    bottom: 20px;
+                    right: 20px;
+                    max-height: 300px;
+                    overflow-y: auto;
+                }
+                .control-item {
+                    margin: 10px 0;
+                }
+                .legend-item {
+                    display: flex;
+                    align-items: center;
+                    margin: 5px 0;
+                }
+                .color-box {
+                    width: 20px;
+                    height: 20px;
+                    margin-right: 10px;
+                    border-radius: 3px;
+                }
+            </style>
+        </head>
+        <body>
+            <div id="container">
+                <div id="legend" class="panel">
+                    <h3>Specialties</h3>
+                    
+                    <div class="legend-item">
+                        <div class="color-box" style="background-color: rgba(86, 180, 233, 0.8);"></div>
+                        <span>Physician Assistant, Medical</span>
+                    </div>
+                    
+                    <div class="legend-item">
+                        <div class="color-box" style="background-color: rgba(230, 159, 0, 0.8);"></div>
+                        <span>Physician Assistant, Physician Assistant</span>
+                    </div>
+                    
+                    <div class="legend-item">
+                        <div class="color-box" style="background-color: rgba(0, 158, 115, 0.8);"></div>
+                        <span>General Practice, Physician Assistant, Physician Assistant, Physician Assistant, General Practice</span>
+                    </div>
+                    
+                    <div class="legend-item">
+                        <div class="color-box" style="background-color: rgba(240, 228, 66, 0.8);"></div>
+                        <span>Physician Assistant</span>
+                    </div>
+                    
+                    <div class="legend-item">
+                        <div class="color-box" style="background-color: rgba(0, 114, 178, 0.8);"></div>
+                        <span>Physician Assistant, Medical, Ophthalmology, Ophthalmology</span>
+                    </div>
+                    
+                    <div class="legend-item">
+                        <div class="color-box" style="background-color: rgba(213, 94, 0, 0.8);"></div>
+                        <span>Physician Assistant, Medical, General Practice</span>
+                    </div>
+                    
+                    <div class="legend-item">
+                        <div class="color-box" style="background-color: rgba(204, 121, 167, 0.8);"></div>
+                        <span>Physician Assistant, Physician Assistant, Medical</span>
+                    </div>
+                    
+                </div>
+                <!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>pydeck</title>
+        <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.13.0/mapbox-gl.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <script src='https://cdn.jsdelivr.net/npm/@deck.gl/jupyter-widget@~9.0.*/dist/index.js'></script>
+    <style>
+    body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#deck-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+#deck-container canvas {
+  z-index: 1;
+  background: none;
+}
+    </style>
+  </head>
+  <body>
+    <div id="deck-container">
+    </div>
+  </body>
+  <script>
+    const container = document.getElementById('deck-container');
+    const jsonInput = {
+  "initialViewState": {
+    "bearing": 0,
+    "latitude": 20.269642179999998,
+    "longitude": -71.32594385,
+    "pitch": 35,
+    "zoom": 11
+  },
+  "layers": [
+    {
+      "@@type": "ScatterplotLayer",
+      "data": [
+        {
+          "address": "URBANIZACION CIUDAD ATLANTIS SANTORINI E6, ARECIBO, PR, 00612, USA",
+          "cluster": 0,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 26.6495,
+          "longitude": -98.34557,
+          "name": "4 physicians",
+          "phone": "787-406-5448",
+          "specialty": "Physician Assistant, Medical; Physician Assistant, Medical, General Practice"
+        },
+        {
+          "address": "BO. HATO ARRIBA, CARR 129 KM 3.3, ARECIBO P.R. 00612, ARECIBO, PR, 00612, USA",
+          "cluster": 1,
+          "color": [
+            230,
+            159,
+            0,
+            200
+          ],
+          "latitude": 18.461687,
+          "longitude": -66.7273,
+          "name": "BARBARA CAMACHO",
+          "phone": "787-329-0250",
+          "specialty": "Physician Assistant, Physician Assistant"
+        },
+        {
+          "address": "4601 N HIGHWAY 19A, MOUNT DORA, FL, 32757, USA",
+          "cluster": 2,
+          "color": [
+            0,
+            158,
+            115,
+            200
+          ],
+          "latitude": 28.8183701,
+          "longitude": -81.6858696,
+          "name": "WIDDLER DESHOMMES",
+          "phone": "352-290-8718",
+          "specialty": "General Practice, Physician Assistant, Physician Assistant, Physician Assistant, General Practice"
+        },
+        {
+          "address": "PO BOX 144055, ARECIBO, PR, 00614, USA",
+          "cluster": 3,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.4047499,
+          "longitude": -66.6810353,
+          "name": "6 physicians",
+          "phone": "787-878-5757",
+          "specialty": "Physician Assistant; Physician Assistant, Medical; Physician Assistant, Medical, Ophthalmology, Ophthalmology"
+        },
+        {
+          "address": "RODRIGUEZ OLMO, CALLE ARMANDO VEGA COLON, ARECIBO, PR, 00612, USA",
+          "cluster": 4,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.458092,
+          "longitude": -66.722147,
+          "name": "GRACE GONZALEZ",
+          "phone": "939-491-0265",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "HC 6 BOX 25603, ARECIBO, PR, 00612, USA",
+          "cluster": 5,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.402239,
+          "longitude": -66.7114,
+          "name": "EDUARDO KEY FERNANDEZ",
+          "phone": "787-644-2449",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "PO BOX 1075, LARES, PR, 00669, USA",
+          "cluster": 6,
+          "color": [
+            240,
+            228,
+            66,
+            200
+          ],
+          "latitude": 18.2692469,
+          "longitude": -66.8685349,
+          "name": "YESICA MARTINEZ",
+          "phone": "None",
+          "specialty": "Physician Assistant"
+        },
+        {
+          "address": "CALLE SANTA TERESA,, TOA BAJA, PR, 00949, USA",
+          "cluster": 7,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.4044443,
+          "longitude": -66.2303762,
+          "name": "CELIMAR RODRIGUEZ RODRIGUEZ",
+          "phone": "787-688-1837",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "A53 CALLE 4, ARECIBO, PR, 00612, USA",
+          "cluster": 8,
+          "color": [
+            204,
+            121,
+            167,
+            200
+          ],
+          "latitude": 18.4462622,
+          "longitude": -66.6816926,
+          "name": "GRACIELA TANNER",
+          "phone": "727-225-4605",
+          "specialty": "Physician Assistant, Physician Assistant, Medical"
+        },
+        {
+          "address": "SABANA HOYOS, ARECIBO, PR, 00688, USA",
+          "cluster": 9,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.3818304,
+          "longitude": -66.6055129,
+          "name": "JOAN VICENTE-SANTOS",
+          "phone": "787-356-8413",
+          "specialty": "Physician Assistant, Medical"
+        }
+      ],
+      "filled": true,
+      "getColor": "@@=color",
+      "getPosition": "@@=[longitude, latitude]",
+      "getRadius": 150,
+      "id": "0488856d-5446-4ed5-95c7-f6c9b0039f04",
+      "lineWidthMinPixels": 1,
+      "opacity": 0.8,
+      "pickable": true,
+      "radiusMaxPixels": 20,
+      "radiusMinPixels": 3,
+      "radiusScale": 6,
+      "stroked": true
+    },
+    {
+      "@@type": "ColumnLayer",
+      "data": [
+        {
+          "address": "URBANIZACION CIUDAD ATLANTIS SANTORINI E6, ARECIBO, PR, 00612, USA",
+          "cluster": 0,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 26.6495,
+          "longitude": -98.34557,
+          "name": "4 physicians",
+          "phone": "787-406-5448",
+          "specialty": "Physician Assistant, Medical; Physician Assistant, Medical, General Practice"
+        },
+        {
+          "address": "BO. HATO ARRIBA, CARR 129 KM 3.3, ARECIBO P.R. 00612, ARECIBO, PR, 00612, USA",
+          "cluster": 1,
+          "color": [
+            230,
+            159,
+            0,
+            200
+          ],
+          "latitude": 18.461687,
+          "longitude": -66.7273,
+          "name": "BARBARA CAMACHO",
+          "phone": "787-329-0250",
+          "specialty": "Physician Assistant, Physician Assistant"
+        },
+        {
+          "address": "4601 N HIGHWAY 19A, MOUNT DORA, FL, 32757, USA",
+          "cluster": 2,
+          "color": [
+            0,
+            158,
+            115,
+            200
+          ],
+          "latitude": 28.8183701,
+          "longitude": -81.6858696,
+          "name": "WIDDLER DESHOMMES",
+          "phone": "352-290-8718",
+          "specialty": "General Practice, Physician Assistant, Physician Assistant, Physician Assistant, General Practice"
+        },
+        {
+          "address": "PO BOX 144055, ARECIBO, PR, 00614, USA",
+          "cluster": 3,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.4047499,
+          "longitude": -66.6810353,
+          "name": "6 physicians",
+          "phone": "787-878-5757",
+          "specialty": "Physician Assistant; Physician Assistant, Medical; Physician Assistant, Medical, Ophthalmology, Ophthalmology"
+        },
+        {
+          "address": "RODRIGUEZ OLMO, CALLE ARMANDO VEGA COLON, ARECIBO, PR, 00612, USA",
+          "cluster": 4,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.458092,
+          "longitude": -66.722147,
+          "name": "GRACE GONZALEZ",
+          "phone": "939-491-0265",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "HC 6 BOX 25603, ARECIBO, PR, 00612, USA",
+          "cluster": 5,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.402239,
+          "longitude": -66.7114,
+          "name": "EDUARDO KEY FERNANDEZ",
+          "phone": "787-644-2449",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "PO BOX 1075, LARES, PR, 00669, USA",
+          "cluster": 6,
+          "color": [
+            240,
+            228,
+            66,
+            200
+          ],
+          "latitude": 18.2692469,
+          "longitude": -66.8685349,
+          "name": "YESICA MARTINEZ",
+          "phone": "None",
+          "specialty": "Physician Assistant"
+        },
+        {
+          "address": "CALLE SANTA TERESA,, TOA BAJA, PR, 00949, USA",
+          "cluster": 7,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.4044443,
+          "longitude": -66.2303762,
+          "name": "CELIMAR RODRIGUEZ RODRIGUEZ",
+          "phone": "787-688-1837",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "A53 CALLE 4, ARECIBO, PR, 00612, USA",
+          "cluster": 8,
+          "color": [
+            204,
+            121,
+            167,
+            200
+          ],
+          "latitude": 18.4462622,
+          "longitude": -66.6816926,
+          "name": "GRACIELA TANNER",
+          "phone": "727-225-4605",
+          "specialty": "Physician Assistant, Physician Assistant, Medical"
+        },
+        {
+          "address": "SABANA HOYOS, ARECIBO, PR, 00688, USA",
+          "cluster": 9,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.3818304,
+          "longitude": -66.6055129,
+          "name": "JOAN VICENTE-SANTOS",
+          "phone": "787-356-8413",
+          "specialty": "Physician Assistant, Medical"
+        }
+      ],
+      "elevationScale": 80,
+      "getElevation": 80,
+      "getFillColor": "@@=color",
+      "getPosition": "@@=[longitude, latitude]",
+      "id": "ecf3dc84-2474-4b83-a8e1-92ab67ad8556",
+      "opacity": 0.6,
+      "pickable": true,
+      "radius": 30
+    },
+    {
+      "@@type": "TextLayer",
+      "backgroundPadding": [
+        4,
+        2,
+        4,
+        2
+      ],
+      "data": [
+        {
+          "address": "URBANIZACION CIUDAD ATLANTIS SANTORINI E6, ARECIBO, PR, 00612, USA",
+          "cluster": 0,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 26.6495,
+          "longitude": -98.34557,
+          "name": "4 physicians",
+          "phone": "787-406-5448",
+          "specialty": "Physician Assistant, Medical; Physician Assistant, Medical, General Practice"
+        },
+        {
+          "address": "BO. HATO ARRIBA, CARR 129 KM 3.3, ARECIBO P.R. 00612, ARECIBO, PR, 00612, USA",
+          "cluster": 1,
+          "color": [
+            230,
+            159,
+            0,
+            200
+          ],
+          "latitude": 18.461687,
+          "longitude": -66.7273,
+          "name": "BARBARA CAMACHO",
+          "phone": "787-329-0250",
+          "specialty": "Physician Assistant, Physician Assistant"
+        },
+        {
+          "address": "4601 N HIGHWAY 19A, MOUNT DORA, FL, 32757, USA",
+          "cluster": 2,
+          "color": [
+            0,
+            158,
+            115,
+            200
+          ],
+          "latitude": 28.8183701,
+          "longitude": -81.6858696,
+          "name": "WIDDLER DESHOMMES",
+          "phone": "352-290-8718",
+          "specialty": "General Practice, Physician Assistant, Physician Assistant, Physician Assistant, General Practice"
+        },
+        {
+          "address": "PO BOX 144055, ARECIBO, PR, 00614, USA",
+          "cluster": 3,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.4047499,
+          "longitude": -66.6810353,
+          "name": "6 physicians",
+          "phone": "787-878-5757",
+          "specialty": "Physician Assistant; Physician Assistant, Medical; Physician Assistant, Medical, Ophthalmology, Ophthalmology"
+        },
+        {
+          "address": "RODRIGUEZ OLMO, CALLE ARMANDO VEGA COLON, ARECIBO, PR, 00612, USA",
+          "cluster": 4,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.458092,
+          "longitude": -66.722147,
+          "name": "GRACE GONZALEZ",
+          "phone": "939-491-0265",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "HC 6 BOX 25603, ARECIBO, PR, 00612, USA",
+          "cluster": 5,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.402239,
+          "longitude": -66.7114,
+          "name": "EDUARDO KEY FERNANDEZ",
+          "phone": "787-644-2449",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "PO BOX 1075, LARES, PR, 00669, USA",
+          "cluster": 6,
+          "color": [
+            240,
+            228,
+            66,
+            200
+          ],
+          "latitude": 18.2692469,
+          "longitude": -66.8685349,
+          "name": "YESICA MARTINEZ",
+          "phone": "None",
+          "specialty": "Physician Assistant"
+        },
+        {
+          "address": "CALLE SANTA TERESA,, TOA BAJA, PR, 00949, USA",
+          "cluster": 7,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.4044443,
+          "longitude": -66.2303762,
+          "name": "CELIMAR RODRIGUEZ RODRIGUEZ",
+          "phone": "787-688-1837",
+          "specialty": "Physician Assistant, Medical"
+        },
+        {
+          "address": "A53 CALLE 4, ARECIBO, PR, 00612, USA",
+          "cluster": 8,
+          "color": [
+            204,
+            121,
+            167,
+            200
+          ],
+          "latitude": 18.4462622,
+          "longitude": -66.6816926,
+          "name": "GRACIELA TANNER",
+          "phone": "727-225-4605",
+          "specialty": "Physician Assistant, Physician Assistant, Medical"
+        },
+        {
+          "address": "SABANA HOYOS, ARECIBO, PR, 00688, USA",
+          "cluster": 9,
+          "color": [
+            86,
+            180,
+            233,
+            200
+          ],
+          "latitude": 18.3818304,
+          "longitude": -66.6055129,
+          "name": "JOAN VICENTE-SANTOS",
+          "phone": "787-356-8413",
+          "specialty": "Physician Assistant, Medical"
+        }
+      ],
+      "getAngle": 0,
+      "getBackgroundColor": [
+        0,
+        0,
+        0,
+        180
+      ],
+      "getColor": [
+        255,
+        255,
+        255
+      ],
+      "getPosition": "@@=[longitude, latitude]",
+      "getSize": 14,
+      "getText": "@@=name",
+      "id": "4c9d25d5-b974-424a-8ba7-18f128eab8d6",
+      "offset": [
+        0,
+        -20
+      ],
+      "pickable": true,
+      "textAnchor": "@@=middle",
+      "textBaseline": "@@=bottom"
+    }
+  ],
+  "mapProvider": "carto",
+  "mapStyle": "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
+  "views": [
+    {
+      "@@type": "MapView",
+      "controller": true
+    }
+  ]
+};
+    const tooltip = {'html': '\n                    <div style="background: rgba(0, 0, 0, 0.8); padding: 10px; border-radius: 5px; color: white;">\n                        <div style="font-weight: bold; margin-bottom: 5px;">{name}</div>\n                        <div>Specialty: {specialty}</div>\n                        <div>Address: {address}</div>\n                        <div>Phone: {phone}</div>\n                    </div>\n                '};
+    const customLibraries = null;
+    const configuration = null;
+
+    const deckInstance = createDeck({
+                  container,
+      jsonInput,
+      tooltip,
+      customLibraries,
+      configuration
+    });
+
+  </script>
+</html>
+            </div>
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    setTimeout(() => {
+                        const deck = document.querySelector('iframe').contentWindow.deck;
+                        
+                        ['scatter', 'column', 'text'].forEach(control => {
+                            document.getElementById(control).addEventListener('change', function(e) {
+                                const layers = deck.props.layers.map(layer => 
+                                    layer.id === control ? { ...layer, visible: e.target.checked } : layer
+                                );
+                                deck.setProps({ layers });
+                            });
+                        });
+                        
+                        const pitchSlider = document.getElementById('pitch');
+                        const pitchValue = document.getElementById('pitch-value');
+                        
+                        pitchSlider.addEventListener('input', function(e) {
+                            const value = e.target.value;
+                            pitchValue.textContent = value + '°';
+                            deck.setProps({
+                                viewState: {
+                                    ...deck.viewState,
+                                    pitch: parseInt(value)
+                                }
+                            });
+                        });
+                    }, 1000);
+                });
+            </script>
+        </body>
+        </html>
+        

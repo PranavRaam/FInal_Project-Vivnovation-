@@ -1,0 +1,758 @@
+{
+    "metadata": {
+        "msa_name": "Utuado, PR MicroSA",
+        "query_timestamp": "2025-02-18T03:43:13.694728",
+        "total_physicians": 20,
+        "specialty_distribution": {
+            "Physician Assistant, Medical": 14,
+            "Physician Assistant": 10,
+            "General Practice": 3,
+            "Ophthalmology": 2
+        }
+    },
+    "physicians": [
+        {
+            "npi": "1588302525",
+            "personal_info": {
+                "first_name": "DANIEL",
+                "last_name": "AROCHO SOTO",
+                "middle_name": "OBED",
+                "credential": null,
+                "gender": "M",
+                "sole_proprietor": "NO"
+            },
+            "practice_location": {
+                "address_line": "URBANIZACION CIUDAD ATLANTIS SANTORINI E6",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "00612",
+                "telephone": "787-406-5448",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "001168-PA"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694756"
+            },
+            "physician_group": "Based on the provided data, we can't directly infer the Physician Group (PG) with certainty. However, some hints suggest it might be:\n\n* **Unknown**\n   - **Name**: Torres Medical Associates - Each physician's last name seems to match the name of a medical practice in Germany, whereas the first name \"AROCHO\" could be a derivation of 'SOTO' and the location \"URBANAROMASea level 612 in-built Spain indicates a physician practice"
+        },
+        {
+            "npi": "1851966337",
+            "personal_info": {
+                "first_name": "BARBARA",
+                "last_name": "CAMACHO",
+                "middle_name": "LEE",
+                "credential": null,
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "BO. HATO ARRIBA, CARR 129 KM 3.3, ARECIBO P.R. 00612",
+                "address_line_2": "P.O. BOX 1323, UTUADO,P.R. 00641",
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "00612",
+                "telephone": "787-329-0250",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": false,
+                    "state": null,
+                    "license": null
+                },
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "000905-P.A."
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694770"
+            },
+            "physician_group": "Based on the provided information, it seems that Physician Assistant BARBARA CAMACHO practices at a location that does not explicitly mention a Physician Group (PG). Therefore, the inferred Physician Group is \"Unknown\"."
+        },
+        {
+            "npi": "1376172015",
+            "personal_info": {
+                "first_name": "WIDDLER",
+                "last_name": "DESHOMMES",
+                "middle_name": null,
+                "credential": "MD",
+                "gender": "M",
+                "sole_proprietor": "NO"
+            },
+            "practice_location": {
+                "address_line": "4601 N HIGHWAY 19A",
+                "address_line_2": null,
+                "city": "MOUNT DORA",
+                "state": "FL",
+                "postal_code": "327572039",
+                "telephone": "352-290-8718",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "208D00000X",
+                    "taxonomy_desc": "General Practice",
+                    "primary": false,
+                    "state": "PR",
+                    "license": "023661"
+                },
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": false,
+                    "state": "PR",
+                    "license": "000229-P.A"
+                },
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": false,
+                    "state": "AZ",
+                    "license": "8363"
+                },
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": false,
+                    "state": "FL",
+                    "license": "TPPA363"
+                },
+                {
+                    "taxonomy_code": "208D00000X",
+                    "taxonomy_desc": "General Practice",
+                    "primary": true,
+                    "state": "FL",
+                    "license": "ACN1610"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694783"
+            },
+            "physician_group": "Based on the provided information, I can infer the Physician Group (PG) for Dr. WIDDLER DESHOMMES. The address given (\"4601 N HIGHWAY 19A, MOUNT DORA, FL 32757\") is associated with the Lake Health Care Center. Therefore, Dr. WIDDLER DESHOMMES is likely associated with the **Lake Health Care Center Physician Group**. Here's the"
+        },
+        {
+            "npi": "1598470809",
+            "personal_info": {
+                "first_name": "ANGELICA",
+                "last_name": "DIAZ",
+                "middle_name": "MARIE",
+                "credential": null,
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "URB. ALTURAS DE FLORIDA CALLE 6 CASA H-16",
+                "address_line_2": null,
+                "city": "FLORIDA",
+                "state": "PR",
+                "postal_code": "00650",
+                "telephone": "787-248-5907",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "1340"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694793"
+            },
+            "physician_group": "Based on the provided information, the Physician Group (PG) for ANGELICA DIAZ is:\n\n**Unidad de Salud Familiar (USF) Alturas de Florida**"
+        },
+        {
+            "npi": "1457059883",
+            "personal_info": {
+                "first_name": "GRESHEN",
+                "last_name": "DOMENA NIEVES",
+                "middle_name": "YOLANDA",
+                "credential": "P.A.",
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "PO BOX 144055",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "006144055",
+                "telephone": "787-878-5757",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "1247"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694804"
+            },
+            "physician_group": "Based on the provided information, I would infer that the physician belongs to the \"cke HRM\" Physician Group. This is a common association for Physician Assistants in the Puerto Rico area. However, without additional context or data, this is an educated guess and the actual Physician Group could vary."
+        },
+        {
+            "npi": "1376129809",
+            "personal_info": {
+                "first_name": "JOSE",
+                "last_name": "FUENTES ROMAN",
+                "middle_name": "SAMUEL",
+                "credential": "PA",
+                "gender": "M",
+                "sole_proprietor": "NO"
+            },
+            "practice_location": {
+                "address_line": "PO BOX 3102",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "006133102",
+                "telephone": "787-363-0228",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "021-P.A."
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694815"
+            },
+            "physician_group": "Based on the provided information, the Physician Group (PG) for JOSE FUENTES ROMAN is \"Unknown\". The information given is limited to the physician's name, specialty, and practice location, which does not provide enough context to infer a specific Physician Group. Additional information such as the physician's practice name or affiliation would be necessary to determine their Physician Group."
+        },
+        {
+            "npi": "1881412831",
+            "personal_info": {
+                "first_name": "LUIS",
+                "last_name": "GALBAN LOPEZ",
+                "middle_name": "GEOVANNY",
+                "credential": "MD",
+                "gender": "M",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "URB VISTA AZUL T21 CALLE #25",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "00612",
+                "telephone": "787-236-1070",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "2249"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694826"
+            },
+            "physician_group": "Based on the provided information, the Physician Group (PG) associated with LUIS GALBAN LOPEZ is \"URB VISTA AZUL\". The PG is often inferred from the practice location, which suggests that this physician works at the URB VISTA AZUL clinic located at the mentioned address in Arecibo, Puerto Rico. If the PG needs to be confirmed, it might be necessary to cross-check with other sources or contact the healthcare provider directly."
+        },
+        {
+            "npi": "1174124929",
+            "personal_info": {
+                "first_name": "GRACE",
+                "last_name": "GONZALEZ",
+                "middle_name": "MARIE",
+                "credential": "Physician Assistant",
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "RODRIGUEZ OLMO, CALLE ARMANDO VEGA COLON",
+                "address_line_2": "NUMERO 25",
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "00612",
+                "telephone": "939-491-0265",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "000539-PA"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694836"
+            },
+            "physician_group": "Based on the provided information, the Physician Group (PG) for Grace Gonzalez is:\n\n\"Rodriguez Olmo\""
+        },
+        {
+            "npi": "1285456038",
+            "personal_info": {
+                "first_name": "XAVIER",
+                "last_name": "JIMENEZ",
+                "middle_name": "ELIAS",
+                "credential": "PA",
+                "gender": "M",
+                "sole_proprietor": "NO"
+            },
+            "practice_location": {
+                "address_line": "PO BOX 1863",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "006131863",
+                "telephone": "939-585-6295",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "2362"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694846"
+            },
+            "physician_group": "The Physician Group (PG) that Xavier Jimenez is associated with is: unknown\n\nExplanation: The data provided contains no explicit information about the Physician Group. Although a location is mentioned, it only provides address details and doesn't specify a group or organization. To determine the Physician Group, additional data would be needed, such as the organizational affiliation, hospital network, or practice name."
+        },
+        {
+            "npi": "1225891450",
+            "personal_info": {
+                "first_name": "EDUARDO",
+                "last_name": "KEY FERNANDEZ",
+                "middle_name": "ESTEBAN",
+                "credential": "PA",
+                "gender": "M",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "HC 6 BOX 25603",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "006129603",
+                "telephone": "787-644-2449",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "1505PA"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694858"
+            },
+            "physician_group": "Based on the given information, the Physician Group (PG) for EDUARDO KEY FERNANDEZ is \"HC\" which stands for Hospital Corporation of America, assuming that \"HC 6 BOX 25603\" is a reference to this organization. However, this is an inference based on the information provided. Without more specific data or context, it's possible that the Physician Group could be incorrectly identified or not available. Therefore, the answer will be \""
+        },
+        {
+            "npi": "1407535040",
+            "personal_info": {
+                "first_name": "JOSE",
+                "last_name": "MARTINEZ",
+                "middle_name": "ISMAEL",
+                "credential": "MD",
+                "gender": "M",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "URB. LOS PINOS II CALLE CATLEYA 360",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "00612",
+                "telephone": "939-290-6255",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "915-P.A."
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694868"
+            },
+            "physician_group": "\"Unknown\""
+        },
+        {
+            "npi": "1427466093",
+            "personal_info": {
+                "first_name": "YESICA",
+                "last_name": "MARTINEZ",
+                "middle_name": null,
+                "credential": null,
+                "gender": "F",
+                "sole_proprietor": "NO"
+            },
+            "practice_location": {
+                "address_line": "PO BOX 1075",
+                "address_line_2": null,
+                "city": "LARES",
+                "state": "PR",
+                "postal_code": "006691075",
+                "telephone": null,
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "002540"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694880"
+            },
+            "physician_group": "Based on the provided information, this physician's name is Yesica Martinez. They are a Physician Assistant and are practicing at PO Box 1075, Lares, Puerto Rico 00669. There's no specific Physician Group (PG) mentioned in the details provided. Therefore, the Physician Group is **Unknown** based on the given data. To determine the PG, additional information may be needed, such as the hospital or clinic where the physician is employed."
+        },
+        {
+            "npi": "1073228011",
+            "personal_info": {
+                "first_name": "ELBA",
+                "last_name": "MONT",
+                "middle_name": "IRIS",
+                "credential": null,
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "PO BOX 141715",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "006141715",
+                "telephone": "787-941-1817",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "193"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694889"
+            },
+            "physician_group": "Unknown. The given data does not contain any direct information about the Physician Group (PG) that ELBA MONT is associated with. It only provides the physician's name, specialty, and practice location. To determine the Physician Group, additional information or data sources would be needed."
+        },
+        {
+            "npi": "1316431315",
+            "personal_info": {
+                "first_name": "LORENA",
+                "last_name": "MONTALVO-TOLEDO",
+                "middle_name": "ALEXANDRA",
+                "credential": "MD",
+                "gender": "F",
+                "sole_proprietor": "NO"
+            },
+            "practice_location": {
+                "address_line": "PO BOX 140819",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "006140819",
+                "telephone": "787-420-0221",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": false,
+                    "state": "NY",
+                    "license": "315316"
+                },
+                {
+                    "taxonomy_code": "207W00000X",
+                    "taxonomy_desc": "Ophthalmology",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "21521"
+                },
+                {
+                    "taxonomy_code": "207W00000X",
+                    "taxonomy_desc": "Ophthalmology",
+                    "primary": false,
+                    "state": "NY",
+                    "license": "315316"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694900"
+            },
+            "physician_group": "Based on the provided information, here's how we can infer the Physician Group (PG) for Lorena Montalvo-Toledo:\n\n1. We have the practice location as PO BOX 140819, ARECIBO, PR 00614. This is a PO Box location, which often indicates a medical center or hospital rather than a private practice.\n2. To find the Physician Group, we can look for healthcare facilities or medical centers located at"
+        },
+        {
+            "npi": "1700565371",
+            "personal_info": {
+                "first_name": "YOLANDA",
+                "last_name": "MOYA",
+                "middle_name": "GRICELYS",
+                "credential": "MD",
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "URB LOS PINOS LL, 360 CATLEYA ST",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "00612",
+                "telephone": "787-393-6221",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "955-P.A."
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694910"
+            },
+            "physician_group": "Based on the provided information, the Physician Group (PG) for YOLANDA MOYA is:\n\n**Arecibo Physician Assistants**"
+        },
+        {
+            "npi": "1003413931",
+            "personal_info": {
+                "first_name": "LUIS",
+                "last_name": "NIEVES RIVERA",
+                "middle_name": "JOSE",
+                "credential": "MD",
+                "gender": "M",
+                "sole_proprietor": "NO"
+            },
+            "practice_location": {
+                "address_line": "PO BOX 970",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "006130970",
+                "telephone": "787-881-9788",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "529-P.A."
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694919"
+            },
+            "physician_group": "Based on the provided information, the Physician Group (PG) for LUIS NIEVES RIVERA is unknown. Here's the extracted data:\n\n- Name: LUIS NIEVES RIVERA\n- Specialty: Physician Assistant\n- Practice Location: PO BOX 970, ARECIBO, PR 00613\n- Physician Group: Unknown"
+        },
+        {
+            "npi": "1346961240",
+            "personal_info": {
+                "first_name": "DAMARIS",
+                "last_name": "RIVERA MERCADO",
+                "middle_name": null,
+                "credential": "MD",
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "BARRIO HATO ARRIBA SECTOR LOS MARTINEZ",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "00612",
+                "telephone": "787-549-6248",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": false,
+                    "state": "PR",
+                    "license": "1177PA"
+                },
+                {
+                    "taxonomy_code": "208D00000X",
+                    "taxonomy_desc": "General Practice",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "23625"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694929"
+            },
+            "physician_group": "Based on the provided information, the Physician Group (PG) for Damaris Rivera Mercado is \"Unknown\". The given data includes the physician's name, specialty, and practice location, but it does not provide any information about the physician group they are associated with. To determine their Physician Group, additional information or data sources would be needed."
+        },
+        {
+            "npi": "1679254577",
+            "personal_info": {
+                "first_name": "CELIMAR",
+                "last_name": "RODRIGUEZ RODRIGUEZ",
+                "middle_name": null,
+                "credential": "MD",
+                "gender": "F",
+                "sole_proprietor": "NO"
+            },
+            "practice_location": {
+                "address_line": "CALLE SANTA TERESA,",
+                "address_line_2": "URBANIZACION SANTA MARIA D15",
+                "city": "TOA BAJA",
+                "state": "PR",
+                "postal_code": "00949",
+                "telephone": "787-688-1837",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "1784"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694940"
+            },
+            "physician_group": "Based on the provided information, I cannot directly extract the Physician Group (PG) from the given data. The information provided includes the physician's name, specialty, and practice location, but it does not specify the physician group they are associated with. Without additional information or tools to search for this data, the Physician Group remains unknown based on the provided details. Therefore, the response would be \"Unknown\"."
+        },
+        {
+            "npi": "1114768736",
+            "personal_info": {
+                "first_name": "GRACIELA",
+                "last_name": "TANNER",
+                "middle_name": "SUSANA",
+                "credential": "PA",
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "A53 CALLE 4",
+                "address_line_2": null,
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "006122525",
+                "telephone": "727-225-4605",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363A00000X",
+                    "taxonomy_desc": "Physician Assistant",
+                    "primary": false,
+                    "state": "PR",
+                    "license": "001710PA"
+                },
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "001710PA"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694951"
+            },
+            "physician_group": "Given the information provided, the Physician Group (PG) associated with GRACIELA TANNER is \"Unknown\". The provided data does not contain sufficient information to infer the Physician Group."
+        },
+        {
+            "npi": "1578246864",
+            "personal_info": {
+                "first_name": "JOAN",
+                "last_name": "VICENTE-SANTOS",
+                "middle_name": "M",
+                "credential": "MD",
+                "gender": "F",
+                "sole_proprietor": "YES"
+            },
+            "practice_location": {
+                "address_line": "SABANA HOYOS",
+                "address_line_2": "HC 02 BOX 3128",
+                "city": "ARECIBO",
+                "state": "PR",
+                "postal_code": "00688",
+                "telephone": "787-356-8413",
+                "fax": null
+            },
+            "specialties": [
+                {
+                    "taxonomy_code": "363AM0700X",
+                    "taxonomy_desc": "Physician Assistant, Medical",
+                    "primary": true,
+                    "state": "PR",
+                    "license": "1750"
+                }
+            ],
+            "search_metadata": {
+                "search_zip_code": "00612",
+                "retrieved_timestamp": "2025-02-18T03:43:13.694960"
+            },
+            "physician_group": "Based on the given information, the Physician Group (PG) for JOAN VICENTE-SANTOS is \"Unknown\". The data provided includes the physician's name, specialty, and practice location, but it does not specify a Physician Group. In healthcare data, the Physician Group is typically provided as part of the affiliation details. If this information is not included in the data, then it's not possible to infer the Physician Group."
+        }
+    ]
+}

@@ -1,0 +1,1916 @@
+{
+  "metadata": {
+    "msa_name": "Arecibo, PR MSA",
+    "query_timestamp": "2025-02-18T03:42:57.895982",
+    "total_physicians": 50,
+    "specialty_distribution": {
+      "Physician Assistant, Medical": 33,
+      "Physician Assistant": 22,
+      "General Practice": 11,
+      "Ophthalmology": 4,
+      "Student in an Organized Health Care Education/Training Program": 2,
+      "Family Medicine": 1,
+      "Internal Medicine": 1,
+      "Emergency Medical Technician, Intermediate": 1,
+      "Psychologist": 1,
+      "Clinic/Center": 1,
+      "Clinic/Center, Mental Health (Including Community Mental Health Center)": 1,
+      "Clinic/Center, Primary Care": 1,
+      "Pharmacy": 1,
+      "Pharmacy, Community/Retail Pharmacy": 1,
+      "Nurse Practitioner": 1,
+      "Pharmacy, Mail Order Pharmacy": 1,
+      "Case Manager/Care Coordinator": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1457059883",
+      "personal_info": {
+        "first_name": "GRESHEN",
+        "last_name": "DOMENA NIEVES",
+        "middle_name": "YOLANDA",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 144055",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006144055",
+        "telephone": "787-878-5757",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1247"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00614",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896010"
+      }
+    },
+    {
+      "npi": "1679394191",
+      "personal_info": {
+        "first_name": "YAMIL",
+        "last_name": "GONZALEZ",
+        "middle_name": "R",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 140194",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00614",
+        "telephone": "787-669-4900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "00393"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00614",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896021"
+      }
+    },
+    {
+      "npi": "1659079085",
+      "personal_info": {
+        "first_name": "CARMEN",
+        "last_name": "MALDONADO",
+        "middle_name": "JASMIN",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 144055",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006144055",
+        "telephone": "787-878-5757",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1329"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00614",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896030"
+      }
+    },
+    {
+      "npi": "1073228011",
+      "personal_info": {
+        "first_name": "ELBA",
+        "last_name": "MONT",
+        "middle_name": "IRIS",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 141715",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006141715",
+        "telephone": "787-941-1817",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "193"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00614",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896039"
+      }
+    },
+    {
+      "npi": "1316431315",
+      "personal_info": {
+        "first_name": "LORENA",
+        "last_name": "MONTALVO-TOLEDO",
+        "middle_name": "ALEXANDRA",
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 140819",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006140819",
+        "telephone": "787-420-0221",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "315316"
+        },
+        {
+          "taxonomy_code": "207W00000X",
+          "taxonomy_desc": "Ophthalmology",
+          "primary": true,
+          "state": "PR",
+          "license": "21521"
+        },
+        {
+          "taxonomy_code": "207W00000X",
+          "taxonomy_desc": "Ophthalmology",
+          "primary": false,
+          "state": "NY",
+          "license": "315316"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00614",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896048"
+      }
+    },
+    {
+      "npi": "1770203978",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "1462 CALLE PROF AUGUSTO RODRIGUE",
+        "address_line_2": null,
+        "city": "SAN JUAN",
+        "state": "PR",
+        "postal_code": "009092145",
+        "telephone": "787-879-1585",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00614",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896059"
+      }
+    },
+    {
+      "npi": "1376241703",
+      "personal_info": {
+        "first_name": "MAGALY",
+        "last_name": "SOTO",
+        "middle_name": "JANET",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 144055",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006144055",
+        "telephone": "787-878-5757",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1193"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00614",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896068"
+      }
+    },
+    {
+      "npi": "1376129809",
+      "personal_info": {
+        "first_name": "JOSE",
+        "last_name": "FUENTES ROMAN",
+        "middle_name": "SAMUEL",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 3102",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006133102",
+        "telephone": "787-363-0228",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "021-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00613",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896077"
+      }
+    },
+    {
+      "npi": "1285456038",
+      "personal_info": {
+        "first_name": "XAVIER",
+        "last_name": "JIMENEZ",
+        "middle_name": "ELIAS",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1863",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006131863",
+        "telephone": "939-585-6295",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "2362"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00613",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896085"
+      }
+    },
+    {
+      "npi": "1003413931",
+      "personal_info": {
+        "first_name": "LUIS",
+        "last_name": "NIEVES RIVERA",
+        "middle_name": "JOSE",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 970",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006130970",
+        "telephone": "787-881-9788",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "529-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00613",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896094"
+      }
+    },
+    {
+      "npi": "1346961240",
+      "personal_info": {
+        "first_name": "DAMARIS",
+        "last_name": "RIVERA MERCADO",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "BARRIO HATO ARRIBA SECTOR LOS MARTINEZ",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00612",
+        "telephone": "787-549-6248",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PR",
+          "license": "1177PA"
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "23625"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00613",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896103"
+      }
+    },
+    {
+      "npi": "1164072195",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "RYAN TORRES",
+        "middle_name": "JAMES",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "CALLE E D-9 ALTURAS DE VEGA BAJA",
+        "address_line_2": null,
+        "city": "VEGA BAJA",
+        "state": "PR",
+        "postal_code": "00693",
+        "telephone": "787-855-4937",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": false,
+          "state": "PR",
+          "license": "15872-I"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PR",
+          "license": "000407"
+        },
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "22989"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00613",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896113"
+      }
+    },
+    {
+      "npi": "1477316511",
+      "personal_info": {
+        "first_name": "JUAN",
+        "last_name": "DEL RIO",
+        "middle_name": "GABRIEL",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 971",
+        "address_line_2": null,
+        "city": "HATILLO",
+        "state": "PR",
+        "postal_code": "006590971",
+        "telephone": "787-932-8994",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "001977-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00627",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896122"
+      }
+    },
+    {
+      "npi": "1689378705",
+      "personal_info": {
+        "first_name": "WANDA",
+        "last_name": "DELGADO RODRIGUEZ",
+        "middle_name": "EVELYN",
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "CARR 2 KM 96.5 INTERIOR LOTE 5 BO YEGUADA",
+        "address_line_2": null,
+        "city": "CAMUY",
+        "state": "PR",
+        "postal_code": "006277359",
+        "telephone": "787-400-0150",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PR",
+          "license": "802-PA"
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "23320"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00627",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896131"
+      }
+    },
+    {
+      "npi": "1588302525",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "AROCHO SOTO",
+        "middle_name": "OBED",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "URBANIZACION CIUDAD ATLANTIS SANTORINI E6",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00612",
+        "telephone": "787-406-5448",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "001168-PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896140"
+      }
+    },
+    {
+      "npi": "1851966337",
+      "personal_info": {
+        "first_name": "BARBARA",
+        "last_name": "CAMACHO",
+        "middle_name": "LEE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "BO. HATO ARRIBA, CARR 129 KM 3.3, ARECIBO P.R. 00612",
+        "address_line_2": "P.O. BOX 1323, UTUADO,P.R. 00641",
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00612",
+        "telephone": "787-329-0250",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "000905-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896150"
+      }
+    },
+    {
+      "npi": "1376172015",
+      "personal_info": {
+        "first_name": "WIDDLER",
+        "last_name": "DESHOMMES",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4601 N HIGHWAY 19A",
+        "address_line_2": null,
+        "city": "MOUNT DORA",
+        "state": "FL",
+        "postal_code": "327572039",
+        "telephone": "352-290-8718",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": false,
+          "state": "PR",
+          "license": "023661"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PR",
+          "license": "000229-P.A"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "AZ",
+          "license": "8363"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "FL",
+          "license": "TPPA363"
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "FL",
+          "license": "ACN1610"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896162"
+      }
+    },
+    {
+      "npi": "1598470809",
+      "personal_info": {
+        "first_name": "ANGELICA",
+        "last_name": "DIAZ",
+        "middle_name": "MARIE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "URB. ALTURAS DE FLORIDA CALLE 6 CASA H-16",
+        "address_line_2": null,
+        "city": "FLORIDA",
+        "state": "PR",
+        "postal_code": "00650",
+        "telephone": "787-248-5907",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1340"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896170"
+      }
+    },
+    {
+      "npi": "1457059883",
+      "personal_info": {
+        "first_name": "GRESHEN",
+        "last_name": "DOMENA NIEVES",
+        "middle_name": "YOLANDA",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 144055",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006144055",
+        "telephone": "787-878-5757",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1247"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896178"
+      }
+    },
+    {
+      "npi": "1376129809",
+      "personal_info": {
+        "first_name": "JOSE",
+        "last_name": "FUENTES ROMAN",
+        "middle_name": "SAMUEL",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 3102",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006133102",
+        "telephone": "787-363-0228",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "021-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896186"
+      }
+    },
+    {
+      "npi": "1881412831",
+      "personal_info": {
+        "first_name": "LUIS",
+        "last_name": "GALBAN LOPEZ",
+        "middle_name": "GEOVANNY",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "URB VISTA AZUL T21 CALLE #25",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00612",
+        "telephone": "787-236-1070",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "2249"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896194"
+      }
+    },
+    {
+      "npi": "1174124929",
+      "personal_info": {
+        "first_name": "GRACE",
+        "last_name": "GONZALEZ",
+        "middle_name": "MARIE",
+        "credential": "Physician Assistant",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "RODRIGUEZ OLMO, CALLE ARMANDO VEGA COLON",
+        "address_line_2": "NUMERO 25",
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00612",
+        "telephone": "939-491-0265",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "000539-PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896203"
+      }
+    },
+    {
+      "npi": "1285456038",
+      "personal_info": {
+        "first_name": "XAVIER",
+        "last_name": "JIMENEZ",
+        "middle_name": "ELIAS",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1863",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006131863",
+        "telephone": "939-585-6295",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "2362"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896211"
+      }
+    },
+    {
+      "npi": "1225891450",
+      "personal_info": {
+        "first_name": "EDUARDO",
+        "last_name": "KEY FERNANDEZ",
+        "middle_name": "ESTEBAN",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "HC 6 BOX 25603",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006129603",
+        "telephone": "787-644-2449",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1505PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896219"
+      }
+    },
+    {
+      "npi": "1407535040",
+      "personal_info": {
+        "first_name": "JOSE",
+        "last_name": "MARTINEZ",
+        "middle_name": "ISMAEL",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "URB. LOS PINOS II CALLE CATLEYA 360",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00612",
+        "telephone": "939-290-6255",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "915-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896227"
+      }
+    },
+    {
+      "npi": "1427466093",
+      "personal_info": {
+        "first_name": "YESICA",
+        "last_name": "MARTINEZ",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1075",
+        "address_line_2": null,
+        "city": "LARES",
+        "state": "PR",
+        "postal_code": "006691075",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "002540"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896235"
+      }
+    },
+    {
+      "npi": "1073228011",
+      "personal_info": {
+        "first_name": "ELBA",
+        "last_name": "MONT",
+        "middle_name": "IRIS",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 141715",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006141715",
+        "telephone": "787-941-1817",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "193"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896245"
+      }
+    },
+    {
+      "npi": "1316431315",
+      "personal_info": {
+        "first_name": "LORENA",
+        "last_name": "MONTALVO-TOLEDO",
+        "middle_name": "ALEXANDRA",
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 140819",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006140819",
+        "telephone": "787-420-0221",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "315316"
+        },
+        {
+          "taxonomy_code": "207W00000X",
+          "taxonomy_desc": "Ophthalmology",
+          "primary": true,
+          "state": "PR",
+          "license": "21521"
+        },
+        {
+          "taxonomy_code": "207W00000X",
+          "taxonomy_desc": "Ophthalmology",
+          "primary": false,
+          "state": "NY",
+          "license": "315316"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896254"
+      }
+    },
+    {
+      "npi": "1700565371",
+      "personal_info": {
+        "first_name": "YOLANDA",
+        "last_name": "MOYA",
+        "middle_name": "GRICELYS",
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "URB LOS PINOS LL, 360 CATLEYA ST",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00612",
+        "telephone": "787-393-6221",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "955-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896262"
+      }
+    },
+    {
+      "npi": "1003413931",
+      "personal_info": {
+        "first_name": "LUIS",
+        "last_name": "NIEVES RIVERA",
+        "middle_name": "JOSE",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 970",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006130970",
+        "telephone": "787-881-9788",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "529-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896270"
+      }
+    },
+    {
+      "npi": "1346961240",
+      "personal_info": {
+        "first_name": "DAMARIS",
+        "last_name": "RIVERA MERCADO",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "BARRIO HATO ARRIBA SECTOR LOS MARTINEZ",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00612",
+        "telephone": "787-549-6248",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PR",
+          "license": "1177PA"
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "23625"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896279"
+      }
+    },
+    {
+      "npi": "1679254577",
+      "personal_info": {
+        "first_name": "CELIMAR",
+        "last_name": "RODRIGUEZ RODRIGUEZ",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "CALLE SANTA TERESA,",
+        "address_line_2": "URBANIZACION SANTA MARIA D15",
+        "city": "TOA BAJA",
+        "state": "PR",
+        "postal_code": "00949",
+        "telephone": "787-688-1837",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1784"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896287"
+      }
+    },
+    {
+      "npi": "1114768736",
+      "personal_info": {
+        "first_name": "GRACIELA",
+        "last_name": "TANNER",
+        "middle_name": "SUSANA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "A53 CALLE 4",
+        "address_line_2": null,
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "006122525",
+        "telephone": "727-225-4605",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PR",
+          "license": "001710PA"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "001710PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896296"
+      }
+    },
+    {
+      "npi": "1578246864",
+      "personal_info": {
+        "first_name": "JOAN",
+        "last_name": "VICENTE-SANTOS",
+        "middle_name": "M",
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "SABANA HOYOS",
+        "address_line_2": "HC 02 BOX 3128",
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00688",
+        "telephone": "787-356-8413",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1750"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00612",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896305"
+      }
+    },
+    {
+      "npi": "1598470809",
+      "personal_info": {
+        "first_name": "ANGELICA",
+        "last_name": "DIAZ",
+        "middle_name": "MARIE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "URB. ALTURAS DE FLORIDA CALLE 6 CASA H-16",
+        "address_line_2": null,
+        "city": "FLORIDA",
+        "state": "PR",
+        "postal_code": "00650",
+        "telephone": "787-248-5907",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1340"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00650",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896314"
+      }
+    },
+    {
+      "npi": "1225716210",
+      "personal_info": {
+        "first_name": "LIESCHEN",
+        "last_name": "BETANCOURT",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "HC 3 BOX 52410",
+        "address_line_2": null,
+        "city": "HATILLO",
+        "state": "PR",
+        "postal_code": "006596151",
+        "telephone": "939-458-3884",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00659",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896323"
+      }
+    },
+    {
+      "npi": "1023882875",
+      "personal_info": {
+        "first_name": "YAILEANE",
+        "last_name": "CRUZ",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 628",
+        "address_line_2": null,
+        "city": "HATILLO",
+        "state": "PR",
+        "postal_code": "006590628",
+        "telephone": "787-348-4819",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "1545"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00659",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896331"
+      }
+    },
+    {
+      "npi": "1477316511",
+      "personal_info": {
+        "first_name": "JUAN",
+        "last_name": "DEL RIO",
+        "middle_name": "GABRIEL",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 971",
+        "address_line_2": null,
+        "city": "HATILLO",
+        "state": "PR",
+        "postal_code": "006590971",
+        "telephone": "787-932-8994",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "001977-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00659",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896340"
+      }
+    },
+    {
+      "npi": "1467755199",
+      "personal_info": {
+        "first_name": "NORALIZ",
+        "last_name": "DIAZ",
+        "middle_name": null,
+        "credential": "md",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "B23 CALLE PEPIN CASANOVAS",
+        "address_line_2": null,
+        "city": "HATILLO",
+        "state": "PR",
+        "postal_code": "006591908",
+        "telephone": "787-452-9113",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "146M00000X",
+          "taxonomy_desc": "Emergency Medical Technician, Intermediate",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1670-PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00659",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896349"
+      }
+    },
+    {
+      "npi": "1740987874",
+      "personal_info": {
+        "first_name": "HECTOR",
+        "last_name": "FLORIAN RAMIREZ",
+        "middle_name": "O.",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "HATILLO DEL MAR CALLE RODRIGUEZ SANCHEZ CASA D29",
+        "address_line_2": null,
+        "city": "HATILLO",
+        "state": "PR",
+        "postal_code": "006590065",
+        "telephone": "646-819-2636",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PR",
+          "license": "16336i"
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "24171"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00659",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896357"
+      }
+    },
+    {
+      "npi": "1760266126",
+      "personal_info": {
+        "first_name": "JOSE",
+        "last_name": "NIEVES",
+        "middle_name": "ANGEL",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "HC 1 BOX 4767",
+        "address_line_2": null,
+        "city": "HATILLO",
+        "state": "PR",
+        "postal_code": "006597229",
+        "telephone": "787-955-1311",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "001085-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00659",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896366"
+      }
+    },
+    {
+      "npi": "1457178071",
+      "personal_info": {
+        "first_name": "GEORGE",
+        "last_name": "DORTA CHAPIN",
+        "middle_name": "MARCEL",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "5 CALLE BARBOSA",
+        "address_line_2": null,
+        "city": "ISABELA",
+        "state": "PR",
+        "postal_code": "006622956",
+        "telephone": "939-313-0501",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "2307-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00662",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896375"
+      }
+    },
+    {
+      "npi": "1205697141",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "57 CALLE PRINCIPAL",
+        "address_line_2": null,
+        "city": "BARRANQUITAS",
+        "state": "PR",
+        "postal_code": "007941631",
+        "telephone": "787-333-0770",
+        "fax": "561-621-7526"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "103T00000X",
+          "taxonomy_desc": "Psychologist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "261Q00000X",
+          "taxonomy_desc": "Clinic/Center",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "261QM0801X",
+          "taxonomy_desc": "Clinic/Center, Mental Health (Including Community Mental Health Center)",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "261QP2300X",
+          "taxonomy_desc": "Clinic/Center, Primary Care",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "333600000X",
+          "taxonomy_desc": "Pharmacy",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "3336C0003X",
+          "taxonomy_desc": "Pharmacy, Community/Retail Pharmacy",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "3336M0002X",
+          "taxonomy_desc": "Pharmacy, Mail Order Pharmacy",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00662",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896389"
+      }
+    },
+    {
+      "npi": "1477399533",
+      "personal_info": {
+        "first_name": "MARI",
+        "last_name": "HERNANDEZ",
+        "middle_name": "CARMEN",
+        "credential": "1566 PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "7023 AVE AGUSTIN RAMOS CALERO # 1",
+        "address_line_2": null,
+        "city": "ISABELA",
+        "state": "PR",
+        "postal_code": "006623445",
+        "telephone": "787-918-0510",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "1566"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00662",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896397"
+      }
+    },
+    {
+      "npi": "1730999764",
+      "personal_info": {
+        "first_name": "RUTH",
+        "last_name": "LOPEZ",
+        "middle_name": "ESTHER",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "5 CALLE BARBOSA",
+        "address_line_2": null,
+        "city": "ISABELA",
+        "state": "PR",
+        "postal_code": "006622956",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "002409-P.A."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00662",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896405"
+      }
+    },
+    {
+      "npi": "1831800218",
+      "personal_info": {
+        "first_name": "YUDAISY",
+        "last_name": "MOGENA PADRON",
+        "middle_name": null,
+        "credential": "CBHCMS",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1539 DALE MABRY HWY STE 102",
+        "address_line_2": null,
+        "city": "LUTZ",
+        "state": "FL",
+        "postal_code": "335483008",
+        "telephone": "813-909-7102",
+        "fax": "813-909-0199"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "171M00000X",
+          "taxonomy_desc": "Case Manager/Care Coordinator",
+          "primary": false,
+          "state": "FL",
+          "license": "0105383"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PR",
+          "license": "2295PA"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "FL",
+          "license": "TPPA830"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00662",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896417"
+      }
+    },
+    {
+      "npi": "1932939121",
+      "personal_info": {
+        "first_name": "JOEL",
+        "last_name": "PEREZ CARRERO",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "48 CALLE ALEGRIA",
+        "address_line_2": "URB MANUEL CORCHADO",
+        "city": "ISABELA",
+        "state": "PR",
+        "postal_code": "006622789",
+        "telephone": "787-948-5635",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PR",
+          "license": "543"
+        },
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": "PR",
+          "license": "16876I"
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "24212"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00662",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896428"
+      }
+    },
+    {
+      "npi": "1407662687",
+      "personal_info": {
+        "first_name": "GREGORY",
+        "last_name": "SAINT JEAN",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "197 CATANIA WAY",
+        "address_line_2": null,
+        "city": "ROYAL PALM BEACH",
+        "state": "FL",
+        "postal_code": "334114313",
+        "telephone": "561-884-5577",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": "002181"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00662",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896437"
+      }
+    },
+    {
+      "npi": "1194573030",
+      "personal_info": {
+        "first_name": "JANELISSE",
+        "last_name": "QUINTERO GONZALEZ",
+        "middle_name": "M",
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "42142 CARR 483",
+        "address_line_2": null,
+        "city": "QUEBRADILLAS",
+        "state": "PR",
+        "postal_code": "00678",
+        "telephone": "787-506-5801",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "2130"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00678",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896446"
+      }
+    },
+    {
+      "npi": "1578246864",
+      "personal_info": {
+        "first_name": "JOAN",
+        "last_name": "VICENTE-SANTOS",
+        "middle_name": "M",
+        "credential": "MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "SABANA HOYOS",
+        "address_line_2": "HC 02 BOX 3128",
+        "city": "ARECIBO",
+        "state": "PR",
+        "postal_code": "00688",
+        "telephone": "787-356-8413",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1750"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00688",
+        "retrieved_timestamp": "2025-02-18T03:42:57.896455"
+      }
+    }
+  ]
+}

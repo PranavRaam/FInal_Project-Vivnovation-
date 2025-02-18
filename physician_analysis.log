@@ -1,0 +1,64 @@
+2025-02-18 08:50:00,281 - INFO - Starting physician analysis process...
+2025-02-18 08:50:00,281 - INFO - Processing data...
+2025-02-18 08:50:22,193 - INFO - Generating visualization...
+2025-02-18 08:50:22,193 - ERROR - Error in analysis: No data available
+2025-02-18 08:52:32,777 - INFO - Starting physician analysis process...
+2025-02-18 08:52:32,777 - INFO - Processing data...
+2025-02-18 08:52:54,649 - INFO - Generating visualization...
+2025-02-18 08:52:54,649 - ERROR - Error in analysis: 'PhysicianAnalyzer' object has no attribute 'generate_visualization'
+2025-02-18 09:01:55,040 - INFO - Starting physician analysis process...
+2025-02-18 09:01:55,041 - INFO - Loading and processing data...
+2025-02-18 09:01:57,071 - INFO - Fetching PG for DANIEL AROCHO SOTO - Physician Assistant, Medical
+2025-02-18 09:01:57,084 - INFO - Fetching PG for WIDDLER DESHOMMES - General Practice, Physician Assistant, Physician Assistant, Physician Assistant, General Practice
+2025-02-18 09:01:57,141 - INFO - Fetching PG for BARBARA CAMACHO - Physician Assistant, Physician Assistant
+2025-02-18 09:01:57,327 - INFO - Fetching PG for ANGELICA DIAZ - Physician Assistant, Medical
+2025-02-18 09:01:59,987 - INFO - Fetching PG for GRESHEN DOMENA NIEVES - Physician Assistant, Medical
+2025-02-18 09:02:00,423 - INFO - Fetching PG for JOSE FUENTES ROMAN - Physician Assistant
+2025-02-18 09:02:02,429 - INFO - Fetching PG for GRACE GONZALEZ - Physician Assistant, Medical
+2025-02-18 09:02:03,518 - INFO - Fetching PG for XAVIER JIMENEZ - Physician Assistant, Medical
+2025-02-18 09:02:04,447 - INFO - Fetching PG for EDUARDO KEY FERNANDEZ - Physician Assistant, Medical
+2025-02-18 09:02:07,447 - INFO - Fetching PG for YESICA MARTINEZ - Physician Assistant
+2025-02-18 09:02:09,906 - INFO - Fetching PG for ELBA MONT - Physician Assistant, Medical
+2025-02-18 09:02:12,295 - INFO - Fetching PG for LORENA MONTALVO-TOLEDO - Physician Assistant, Medical, Ophthalmology, Ophthalmology
+2025-02-18 09:02:15,077 - INFO - Fetching PG for YOLANDA MOYA - Physician Assistant, Medical
+2025-02-18 09:02:17,310 - INFO - Fetching PG for LUIS NIEVES RIVERA - Physician Assistant
+2025-02-18 09:02:18,144 - INFO - Fetching PG for LUIS GALBAN LOPEZ - Physician Assistant
+2025-02-18 09:02:18,330 - INFO - Fetching PG for DAMARIS RIVERA MERCADO - Physician Assistant, Medical, General Practice
+2025-02-18 09:02:21,322 - INFO - Fetching PG for CELIMAR RODRIGUEZ RODRIGUEZ - Physician Assistant, Medical
+2025-02-18 09:02:21,348 - INFO - Fetching PG for GRACIELA TANNER - Physician Assistant, Physician Assistant, Medical
+2025-02-18 09:02:22,812 - INFO - Fetching PG for JOSE MARTINEZ - Physician Assistant, Medical
+2025-02-18 09:02:22,828 - INFO - Fetching PG for JOAN VICENTE-SANTOS - Physician Assistant, Medical
+2025-02-18 09:02:24,328 - INFO - Generating visualization...
+2025-02-18 09:02:24,584 - INFO - Saving visualization to physician_map.html...
+2025-02-18 09:02:24,589 - INFO - Saving processed data to physicians_with_groups.json...
+2025-02-18 09:02:24,590 - INFO - Saved processed physician data to physicians_with_groups.json
+2025-02-18 09:02:24,591 - INFO - Process completed successfully!
+2025-02-18 09:02:24,591 - INFO - Open physician_map.html in a web browser to view the visualization.
+2025-02-18 09:12:10,332 - INFO - Starting physician analysis process...
+2025-02-18 09:12:10,332 - INFO - Loading and processing data...
+2025-02-18 09:12:12,373 - INFO - Fetching PG for WIDDLER DESHOMMES - General Practice, Physician Assistant, Physician Assistant, Physician Assistant, General Practice
+2025-02-18 09:12:12,513 - INFO - Fetching PG for DANIEL AROCHO SOTO - Physician Assistant, Medical
+2025-02-18 09:12:12,524 - INFO - Fetching PG for ANGELICA DIAZ - Physician Assistant, Medical
+2025-02-18 09:12:12,901 - INFO - Fetching PG for BARBARA CAMACHO - Physician Assistant, Physician Assistant
+2025-02-18 09:12:15,864 - INFO - Fetching PG for GRACE GONZALEZ - Physician Assistant, Medical
+2025-02-18 09:12:16,574 - INFO - Fetching PG for JOSE FUENTES ROMAN - Physician Assistant
+2025-02-18 09:12:17,210 - INFO - Fetching PG for GRESHEN DOMENA NIEVES - Physician Assistant, Medical
+2025-02-18 09:12:18,003 - INFO - Fetching PG for XAVIER JIMENEZ - Physician Assistant, Medical
+2025-02-18 09:12:18,851 - INFO - Fetching PG for EDUARDO KEY FERNANDEZ - Physician Assistant, Medical
+2025-02-18 09:12:20,083 - INFO - Fetching PG for YESICA MARTINEZ - Physician Assistant
+2025-02-18 09:12:20,994 - INFO - Fetching PG for ELBA MONT - Physician Assistant, Medical
+2025-02-18 09:12:22,476 - INFO - Fetching PG for LORENA MONTALVO-TOLEDO - Physician Assistant, Medical, Ophthalmology, Ophthalmology
+2025-02-18 09:12:23,500 - INFO - Fetching PG for YOLANDA MOYA - Physician Assistant, Medical
+2025-02-18 09:12:24,546 - INFO - Fetching PG for LUIS NIEVES RIVERA - Physician Assistant
+2025-02-18 09:12:25,682 - INFO - Fetching PG for DAMARIS RIVERA MERCADO - Physician Assistant, Medical, General Practice
+2025-02-18 09:12:26,766 - INFO - Fetching PG for CELIMAR RODRIGUEZ RODRIGUEZ - Physician Assistant, Medical
+2025-02-18 09:12:28,054 - INFO - Fetching PG for GRACIELA TANNER - Physician Assistant, Physician Assistant, Medical
+2025-02-18 09:12:28,943 - INFO - Fetching PG for JOAN VICENTE-SANTOS - Physician Assistant, Medical
+2025-02-18 09:12:32,092 - INFO - Fetching PG for LUIS GALBAN LOPEZ - Physician Assistant
+2025-02-18 09:12:37,765 - INFO - Fetching PG for JOSE MARTINEZ - Physician Assistant, Medical
+2025-02-18 09:12:38,078 - INFO - Generating visualization...
+2025-02-18 09:12:38,335 - INFO - Saving visualization to physician_map.html...
+2025-02-18 09:12:38,340 - INFO - Saving processed data to physicians_with_groups.json...
+2025-02-18 09:12:38,341 - INFO - Saved processed physician data to physicians_with_groups.json
+2025-02-18 09:12:38,341 - INFO - Process completed successfully!
+2025-02-18 09:12:38,341 - INFO - Open physician_map.html in a web browser to view the visualization.

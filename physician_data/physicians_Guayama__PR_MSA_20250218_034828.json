@@ -1,0 +1,733 @@
+{
+  "metadata": {
+    "msa_name": "Guayama, PR MSA",
+    "query_timestamp": "2025-02-18T03:48:28.326452",
+    "total_physicians": 20,
+    "specialty_distribution": {
+      "Physician Assistant": 14,
+      "Physician Assistant, Medical": 8,
+      "General Practice": 2,
+      "Naturopath": 2,
+      "Technician, Other": 1,
+      "Acupuncturist": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1285075101",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "PO BOX 450",
+        "address_line_2": null,
+        "city": "ARROYO",
+        "state": "PR",
+        "postal_code": "00714",
+        "telephone": "787-839-4150",
+        "fax": "787-839-3989"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "99310"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00714",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326487"
+      }
+    },
+    {
+      "npi": "1487400396",
+      "personal_info": {
+        "first_name": "VICTOR",
+        "last_name": "RODRIGUEZ TORRES",
+        "middle_name": "MANUEL",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "EXT DE JARDINES DE CALLE D CASA D3",
+        "address_line_2": null,
+        "city": "ARROYO",
+        "state": "PR",
+        "postal_code": "00714",
+        "telephone": "787-371-6733",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "890PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00714",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326509"
+      }
+    },
+    {
+      "npi": "1275287351",
+      "personal_info": {
+        "first_name": "LORENA",
+        "last_name": "CHANES",
+        "middle_name": "E",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 3190",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007853190",
+        "telephone": "787-358-5233",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "001174-PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00785",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326527"
+      }
+    },
+    {
+      "npi": "1659995439",
+      "personal_info": {
+        "first_name": "ASIA",
+        "last_name": "DELGADO LORENZO",
+        "middle_name": "ELIZABETH",
+        "credential": "M.D.",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2411",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007852411",
+        "telephone": "787-241-9118",
+        "fax": "787-864-0400"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "070-PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00785",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326542"
+      }
+    },
+    {
+      "npi": "1619729274",
+      "personal_info": {
+        "first_name": "JOSE",
+        "last_name": "DELGADO LORENZO",
+        "middle_name": "ARTURO",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2411",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007852411",
+        "telephone": "787-472-2864",
+        "fax": "787-864-0400"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "924"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00785",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326556"
+      }
+    },
+    {
+      "npi": "1306565726",
+      "personal_info": {
+        "first_name": "ANTOINNETTE",
+        "last_name": "LANDRAU UBINAS",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "TURABO GARDENS CARR 172",
+        "address_line_2": null,
+        "city": "CAGUAS",
+        "state": "PR",
+        "postal_code": "00725",
+        "telephone": "787-744-6369",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "947-PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00785",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326571"
+      }
+    },
+    {
+      "npi": "1376265645",
+      "personal_info": {
+        "first_name": "HIRAM",
+        "last_name": "RIVERA DE LEON",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "222B CALLE 4",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007845939",
+        "telephone": "787-866-4005",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "1434"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00785",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326587"
+      }
+    },
+    {
+      "npi": "1225605843",
+      "personal_info": {
+        "first_name": "ELIOMAR",
+        "last_name": "SOTO MALAVE",
+        "middle_name": null,
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2635",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007852635",
+        "telephone": "939-213-5717",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "1023"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00785",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326601"
+      }
+    },
+    {
+      "npi": "1124767652",
+      "personal_info": {
+        "first_name": "ORIANA",
+        "last_name": "SOTO",
+        "middle_name": "PRISCILA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "CARRETERA #3 KM 148.6",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "00785",
+        "telephone": "787-864-4114",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "1210"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00785",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326614"
+      }
+    },
+    {
+      "npi": "1629502463",
+      "personal_info": {
+        "first_name": "PEDRO",
+        "last_name": "ORTIZ",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1205 S WOODLAND BLVD STE 3",
+        "address_line_2": null,
+        "city": "DELAND",
+        "state": "FL",
+        "postal_code": "327207464",
+        "telephone": "386-202-6025",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "247200000X",
+          "taxonomy_desc": "Technician, Other",
+          "primary": false,
+          "state": "PR",
+          "license": "008557"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "FL",
+          "license": "PA9119021"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00723",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326631"
+      }
+    },
+    {
+      "npi": "1275287351",
+      "personal_info": {
+        "first_name": "LORENA",
+        "last_name": "CHANES",
+        "middle_name": "E",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 3190",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007853190",
+        "telephone": "787-358-5233",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "001174-PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326646"
+      }
+    },
+    {
+      "npi": "1710597885",
+      "personal_info": {
+        "first_name": "EDGAR",
+        "last_name": "COLON DE-JESUS",
+        "middle_name": "NICOLAS",
+        "credential": "MD",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "BO OLIMPO C3 NUM 732",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "00784",
+        "telephone": "787-358-8800",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PR",
+          "license": "047"
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "022633"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326660"
+      }
+    },
+    {
+      "npi": "1659995439",
+      "personal_info": {
+        "first_name": "ASIA",
+        "last_name": "DELGADO LORENZO",
+        "middle_name": "ELIZABETH",
+        "credential": "M.D.",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2411",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007852411",
+        "telephone": "787-241-9118",
+        "fax": "787-864-0400"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "070-PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326674"
+      }
+    },
+    {
+      "npi": "1619729274",
+      "personal_info": {
+        "first_name": "JOSE",
+        "last_name": "DELGADO LORENZO",
+        "middle_name": "ARTURO",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2411",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007852411",
+        "telephone": "787-472-2864",
+        "fax": "787-864-0400"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "924"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326687"
+      }
+    },
+    {
+      "npi": "1891747580",
+      "personal_info": {
+        "first_name": "MIGDALIA",
+        "last_name": "POLANCO",
+        "middle_name": null,
+        "credential": "M.D",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "GENARO CAUTINO 86",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "00784",
+        "telephone": "787-866-4325",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": true,
+          "state": "PR",
+          "license": "006761"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326702"
+      }
+    },
+    {
+      "npi": "1205458312",
+      "personal_info": {
+        "first_name": "FEDERICO",
+        "last_name": "RAMOS ORTIZ",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 281",
+        "address_line_2": null,
+        "city": "COAMO",
+        "state": "PR",
+        "postal_code": "007690281",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "PA346"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326715"
+      }
+    },
+    {
+      "npi": "1376265645",
+      "personal_info": {
+        "first_name": "HIRAM",
+        "last_name": "RIVERA DE LEON",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "222B CALLE 4",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "007845939",
+        "telephone": "787-866-4005",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "1434"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326730"
+      }
+    },
+    {
+      "npi": "1124767652",
+      "personal_info": {
+        "first_name": "ORIANA",
+        "last_name": "SOTO",
+        "middle_name": "PRISCILA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "CARRETERA #3 KM 148.6",
+        "address_line_2": null,
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "00785",
+        "telephone": "787-864-4114",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PR",
+          "license": "1210"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326745"
+      }
+    },
+    {
+      "npi": "1588324941",
+      "personal_info": {
+        "first_name": "JESSICA",
+        "last_name": "VECHINI MIRANDA",
+        "middle_name": null,
+        "credential": "ND, MD",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "5563 36TH AVE S UNIT E",
+        "address_line_2": null,
+        "city": "FARGO",
+        "state": "ND",
+        "postal_code": "581045236",
+        "telephone": "939-255-2451",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "PR",
+          "license": "1165-PA"
+        },
+        {
+          "taxonomy_code": "175F00000X",
+          "taxonomy_desc": "Naturopath",
+          "primary": true,
+          "state": "MN",
+          "license": "1151"
+        },
+        {
+          "taxonomy_code": "171100000X",
+          "taxonomy_desc": "Acupuncturist",
+          "primary": false,
+          "state": "PR",
+          "license": "81"
+        },
+        {
+          "taxonomy_code": "175F00000X",
+          "taxonomy_desc": "Naturopath",
+          "primary": false,
+          "state": "PR",
+          "license": "81"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326760"
+      }
+    },
+    {
+      "npi": "1063284552",
+      "personal_info": {
+        "first_name": "CESAR",
+        "last_name": "ZENO HERNANDEZ",
+        "middle_name": "AUGUSTO",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "HOSPITAL MENONITA GUAYAMA",
+        "address_line_2": "SUITE 103",
+        "city": "GUAYAMA",
+        "state": "PR",
+        "postal_code": "00784",
+        "telephone": "787-864-4300",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PR",
+          "license": "000920"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00784",
+        "retrieved_timestamp": "2025-02-18T03:48:28.326774"
+      }
+    }
+  ]
+}

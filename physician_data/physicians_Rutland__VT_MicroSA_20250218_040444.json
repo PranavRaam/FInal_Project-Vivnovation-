@@ -1,0 +1,2762 @@
+{
+  "metadata": {
+    "msa_name": "Rutland, VT MicroSA",
+    "query_timestamp": "2025-02-18T04:04:44.057505",
+    "total_physicians": 76,
+    "specialty_distribution": {
+      "Physician Assistant": 62,
+      "Physician Assistant, Medical": 32,
+      "Physician Assistant, Surgical": 3,
+      "Internal Medicine": 2,
+      "Speech-Language Pathologist,  ": 2,
+      "Student in an Organized Health Care Education/Training Program": 2,
+      "Social Worker": 1,
+      "Family Medicine": 1,
+      "Nurse Practitioner, Psych/Mental Health": 1,
+      "Counselor, Mental Health": 1,
+      "Internal Medicine, Addiction Medicine": 1,
+      "Physical Therapist, Sports": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1184722811",
+      "personal_info": {
+        "first_name": "PAMELA",
+        "last_name": "SLOCUM",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 124",
+        "address_line_2": "135 GREENDALE RD",
+        "city": "BELMONT",
+        "state": "VT",
+        "postal_code": "057300124",
+        "telephone": "802-259-2640",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0354"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05730",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057539"
+      }
+    },
+    {
+      "npi": "1659713683",
+      "personal_info": {
+        "first_name": "KATELYN",
+        "last_name": "BELDEN",
+        "middle_name": "DORAN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "275 VT 30 N",
+        "address_line_2": null,
+        "city": "BOMOSEEN",
+        "state": "VT",
+        "postal_code": "057329647",
+        "telephone": "802-468-5641",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057553"
+      }
+    },
+    {
+      "npi": "1871140178",
+      "personal_info": {
+        "first_name": "SAMUEL",
+        "last_name": "CAHILL",
+        "middle_name": "JOSEPH",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "275 ROUTE 30 N",
+        "address_line_2": null,
+        "city": "BOMOSEEN",
+        "state": "VT",
+        "postal_code": "057329647",
+        "telephone": "802-468-5641",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057564"
+      }
+    },
+    {
+      "npi": "1336446756",
+      "personal_info": {
+        "first_name": "AMBER",
+        "last_name": "ELKIND",
+        "middle_name": "F",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "211 NW LARCH AVE",
+        "address_line_2": null,
+        "city": "REDMOND",
+        "state": "OR",
+        "postal_code": "977561357",
+        "telephone": "541-548-2164",
+        "fax": "541-548-0534"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "OR",
+          "license": "PA160589"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "055-0031091"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057577"
+      }
+    },
+    {
+      "npi": "1396748489",
+      "personal_info": {
+        "first_name": "PAULINE",
+        "last_name": "KAHNG",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "17 BEAR HOLLOW LN",
+        "address_line_2": null,
+        "city": "DELMAR",
+        "state": "NY",
+        "postal_code": "120545200",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "003147"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057589"
+      }
+    },
+    {
+      "npi": "1124042163",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "MITCHELL",
+        "middle_name": "G.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "160 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014560",
+        "telephone": "802-775-7111",
+        "fax": "802-747-6260"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0030659"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057601"
+      }
+    },
+    {
+      "npi": "1689949968",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "275 ROUTE 30 N",
+        "address_line_2": null,
+        "city": "BOMOSEEN",
+        "state": "VT",
+        "postal_code": "057329647",
+        "telephone": "802-468-5641",
+        "fax": "802-468-2923"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "104100000X",
+          "taxonomy_desc": "Social Worker",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057613"
+      }
+    },
+    {
+      "npi": "1598908683",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "TATKO",
+        "middle_name": "STORK",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "275 ROUTE 30 N",
+        "address_line_2": null,
+        "city": "BOMOSEEN",
+        "state": "VT",
+        "postal_code": "057329647",
+        "telephone": "802-468-5641",
+        "fax": "802-468-2923"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "235Z00000X",
+          "taxonomy_desc": "Speech-Language Pathologist,  ",
+          "primary": false,
+          "state": "VT",
+          "license": "8053008"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031204"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057627"
+      }
+    },
+    {
+      "npi": "1568599223",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "TINSMAN",
+        "middle_name": "CYR",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": "802-773-4578"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030720"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057639"
+      }
+    },
+    {
+      "npi": "1790797116",
+      "personal_info": {
+        "first_name": "PHILIP",
+        "last_name": "WAGENBACH",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "275 ROUTE 30 N",
+        "address_line_2": null,
+        "city": "BOMOSEEN",
+        "state": "VT",
+        "postal_code": "057329647",
+        "telephone": "802-468-5641",
+        "fax": "802-468-2923"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CT",
+          "license": "001695"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031268"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057652"
+      }
+    },
+    {
+      "npi": "1205465762",
+      "personal_info": {
+        "first_name": "RACHEL",
+        "last_name": "YRSHA",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "25 JOHNSON HILL RD",
+        "address_line_2": null,
+        "city": "LONDONDERRY",
+        "state": "VT",
+        "postal_code": "051489606",
+        "telephone": "802-342-2526",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031534"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05732",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057664"
+      }
+    },
+    {
+      "npi": "1427156041",
+      "personal_info": {
+        "first_name": "LINDA",
+        "last_name": "MCKENNA",
+        "middle_name": "MARIE",
+        "credential": "RPAC",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1966 POND HILL RD",
+        "address_line_2": null,
+        "city": "CASTLETON",
+        "state": "VT",
+        "postal_code": "057359019",
+        "telephone": "802-468-8871",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "55-0300489"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05735",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057676"
+      }
+    },
+    {
+      "npi": "1396748489",
+      "personal_info": {
+        "first_name": "PAULINE",
+        "last_name": "KAHNG",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "17 BEAR HOLLOW LN",
+        "address_line_2": null,
+        "city": "DELMAR",
+        "state": "NY",
+        "postal_code": "120545200",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "003147"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05733",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057690"
+      }
+    },
+    {
+      "npi": "1992094528",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "SHELDON-MORRIS",
+        "middle_name": "ANNE",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "420 GROVE ST",
+        "address_line_2": null,
+        "city": "BRANDON",
+        "state": "VT",
+        "postal_code": "057339062",
+        "telephone": "802-247-6305",
+        "fax": "802-247-6040"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "Pending"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031219"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05733",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057703"
+      }
+    },
+    {
+      "npi": "1568599223",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "TINSMAN",
+        "middle_name": "CYR",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": "802-773-4578"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030720"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05733",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057714"
+      }
+    },
+    {
+      "npi": "1861162299",
+      "personal_info": {
+        "first_name": "CARLTON",
+        "last_name": "KELLOGG",
+        "middle_name": "L.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2041 RUSSELLVILLE RD",
+        "address_line_2": null,
+        "city": "SHREWSBURY",
+        "state": "VT",
+        "postal_code": "057389444",
+        "telephone": "802-779-6744",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031529"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05738",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057727"
+      }
+    },
+    {
+      "npi": "1861566135",
+      "personal_info": {
+        "first_name": "THOMAS",
+        "last_name": "BEAUREGARD",
+        "middle_name": "E",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "82 CATAMOUNT PARK",
+        "address_line_2": null,
+        "city": "MIDDLEBURY",
+        "state": "VT",
+        "postal_code": "057531292",
+        "telephone": "802-388-7185",
+        "fax": "802-388-3445"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "0550030726"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05743",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057740"
+      }
+    },
+    {
+      "npi": "1639721186",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "92 ALLEN STREET",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "05701",
+        "telephone": "802-776-4045",
+        "fax": "802-773-7022"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057752"
+      }
+    },
+    {
+      "npi": "1174076152",
+      "personal_info": {
+        "first_name": "JESSICA",
+        "last_name": "BAUGHMAN",
+        "middle_name": "J",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 810",
+        "address_line_2": null,
+        "city": "HANOVER",
+        "state": "NH",
+        "postal_code": "037550810",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "VT",
+          "license": "055.0031396"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2703"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057765"
+      }
+    },
+    {
+      "npi": "1184747339",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "199 STRATTON RD STE 1",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014892",
+        "telephone": "802-775-7798",
+        "fax": "802-775-7762"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363LP0808X",
+          "taxonomy_desc": "Nurse Practitioner, Psych/Mental Health",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "101YM0800X",
+          "taxonomy_desc": "Counselor, Mental Health",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207RA0401X",
+          "taxonomy_desc": "Internal Medicine, Addiction Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057780"
+      }
+    },
+    {
+      "npi": "1013938992",
+      "personal_info": {
+        "first_name": "ABIGAIL",
+        "last_name": "BROWN",
+        "middle_name": "ROSE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "173 S MAIN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014713",
+        "telephone": "802-772-4165",
+        "fax": "802-855-8489"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "VT",
+          "license": "055-0031067"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CO",
+          "license": "2244"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031067"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057794"
+      }
+    },
+    {
+      "npi": "1669623195",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "COLE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "3 ALBERT CREE DR",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014601",
+        "telephone": "802-775-2937",
+        "fax": "802-773-0934"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "0550030934"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057805"
+      }
+    },
+    {
+      "npi": "1821640608",
+      "personal_info": {
+        "first_name": "PATRICK",
+        "last_name": "COOKE",
+        "middle_name": "THOMAS",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "55 FRUIT ST",
+        "address_line_2": null,
+        "city": "BOSTON",
+        "state": "MA",
+        "postal_code": "021142696",
+        "telephone": "617-726-2000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057817"
+      }
+    },
+    {
+      "npi": "1437159340",
+      "personal_info": {
+        "first_name": "SUSAN",
+        "last_name": "COOLEY",
+        "middle_name": "M",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "69 ALLEN ST",
+        "address_line_2": "SUITE 1",
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014564",
+        "telephone": "802-775-3314",
+        "fax": "802-775-9617"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030599"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057830"
+      }
+    },
+    {
+      "npi": "1043569007",
+      "personal_info": {
+        "first_name": "AMY",
+        "last_name": "COREY",
+        "middle_name": "P",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "71 ALLEN POND",
+        "address_line_2": "SUITE 403",
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014570",
+        "telephone": "800-468-9118",
+        "fax": "802-772-7973"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031141"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057843"
+      }
+    },
+    {
+      "npi": "1245252030",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "DASHNAW",
+        "middle_name": "J",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "278 VT ROUTE 149",
+        "address_line_2": null,
+        "city": "WEST PAWLET",
+        "state": "VT",
+        "postal_code": "057759798",
+        "telephone": "802-645-0580",
+        "fax": "802-645-0587"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "5530304"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "004999"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057856"
+      }
+    },
+    {
+      "npi": "1104851633",
+      "personal_info": {
+        "first_name": "LEONARD",
+        "last_name": "DELORENZO",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "160 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014560",
+        "telephone": "802-747-1831",
+        "fax": "802-747-1826"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "FL",
+          "license": "PA9101620"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031054"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057868"
+      }
+    },
+    {
+      "npi": "1215704416",
+      "personal_info": {
+        "first_name": "TOMAS",
+        "last_name": "ENSALATA",
+        "middle_name": "T.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1057 MAPLE ST",
+        "address_line_2": null,
+        "city": "VERGENNES",
+        "state": "VT",
+        "postal_code": "054918527",
+        "telephone": "802-233-1447",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031731"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057881"
+      }
+    },
+    {
+      "npi": "1518492560",
+      "personal_info": {
+        "first_name": "EMILY",
+        "last_name": "FEINBERG",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "160 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014560",
+        "telephone": "802-747-3639",
+        "fax": "802-747-6207"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031349"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057892"
+      }
+    },
+    {
+      "npi": "1669449278",
+      "personal_info": {
+        "first_name": "KERRY",
+        "last_name": "FINCH",
+        "middle_name": "BRENNAN",
+        "credential": "P.A.-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "69 ALLEN ST",
+        "address_line_2": "SUITE 1",
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014564",
+        "telephone": "802-775-3314",
+        "fax": "802-775-9617"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030761"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057904"
+      }
+    },
+    {
+      "npi": "1366083693",
+      "personal_info": {
+        "first_name": "SONALI",
+        "last_name": "HERATH",
+        "middle_name": "A",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "055-0031442"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00717000"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057916"
+      }
+    },
+    {
+      "npi": "1104811884",
+      "personal_info": {
+        "first_name": "JAMES",
+        "last_name": "HOLLINSHEAD",
+        "middle_name": "BENTLEY",
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "3 ALBERT CREE DR",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014601",
+        "telephone": "802-775-2937",
+        "fax": "802-773-0934"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "30363"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057927"
+      }
+    },
+    {
+      "npi": "1376081034",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "HOPKINS",
+        "middle_name": "KISH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "160 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014560",
+        "telephone": "802-747-3639",
+        "fax": "802-747-6207"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031334"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057939"
+      }
+    },
+    {
+      "npi": "1902387830",
+      "personal_info": {
+        "first_name": "OANA",
+        "last_name": "IVAN",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057952"
+      }
+    },
+    {
+      "npi": "1457482101",
+      "personal_info": {
+        "first_name": "SUZANNE",
+        "last_name": "JONES",
+        "middle_name": null,
+        "credential": "PA.C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "12 COMMONS STREET",
+        "address_line_2": "SUITE 1",
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014601",
+        "telephone": "802-770-1805",
+        "fax": "802-773-4876"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0030464"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057964"
+      }
+    },
+    {
+      "npi": "1396748489",
+      "personal_info": {
+        "first_name": "PAULINE",
+        "last_name": "KAHNG",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "17 BEAR HOLLOW LN",
+        "address_line_2": null,
+        "city": "DELMAR",
+        "state": "NY",
+        "postal_code": "120545200",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "003147"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057976"
+      }
+    },
+    {
+      "npi": "1861162299",
+      "personal_info": {
+        "first_name": "CARLTON",
+        "last_name": "KELLOGG",
+        "middle_name": "L.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2041 RUSSELLVILLE RD",
+        "address_line_2": null,
+        "city": "SHREWSBURY",
+        "state": "VT",
+        "postal_code": "057389444",
+        "telephone": "802-779-6744",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031529"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.057988"
+      }
+    },
+    {
+      "npi": "1821158346",
+      "personal_info": {
+        "first_name": "ANDREA",
+        "last_name": "LARSON",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1047 MAIN ST",
+        "address_line_2": null,
+        "city": "WEST RUTLAND",
+        "state": "VT",
+        "postal_code": "057779526",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030490"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058000"
+      }
+    },
+    {
+      "npi": "1306802194",
+      "personal_info": {
+        "first_name": "TIMOTHY",
+        "last_name": "LENSING",
+        "middle_name": "J",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-772-3386",
+        "fax": "802-773-4578"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030458"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058012"
+      }
+    },
+    {
+      "npi": "1255849840",
+      "personal_info": {
+        "first_name": "LISA",
+        "last_name": "MAJOR",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "6 COMMONS ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014651",
+        "telephone": "802-775-1903",
+        "fax": "802-775-5503"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031377"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058025"
+      }
+    },
+    {
+      "npi": "1083973853",
+      "personal_info": {
+        "first_name": "CLARA",
+        "last_name": "MARTELL",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "71 ALLEN ST",
+        "address_line_2": "SUITE 101",
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014570",
+        "telephone": "802-772-4414",
+        "fax": "802-772-7973"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058037"
+      }
+    },
+    {
+      "npi": "1063478865",
+      "personal_info": {
+        "first_name": "CHRIS",
+        "last_name": "MASILLO",
+        "middle_name": "S",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": "802-773-4578"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030658"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058050"
+      }
+    },
+    {
+      "npi": "1275995656",
+      "personal_info": {
+        "first_name": "ALISON",
+        "last_name": "MCDELAN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "145 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "05701",
+        "telephone": "802-775-6006",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "AZ",
+          "license": "6340"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031711"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058063"
+      }
+    },
+    {
+      "npi": "1427156041",
+      "personal_info": {
+        "first_name": "LINDA",
+        "last_name": "MCKENNA",
+        "middle_name": "MARIE",
+        "credential": "RPAC",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1966 POND HILL RD",
+        "address_line_2": null,
+        "city": "CASTLETON",
+        "state": "VT",
+        "postal_code": "057359019",
+        "telephone": "802-468-8871",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "55-0300489"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058074"
+      }
+    },
+    {
+      "npi": "1124042163",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "MITCHELL",
+        "middle_name": "G.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "160 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014560",
+        "telephone": "802-775-7111",
+        "fax": "802-747-6260"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0030659"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058087"
+      }
+    },
+    {
+      "npi": "1649974395",
+      "personal_info": {
+        "first_name": "JENNA",
+        "last_name": "MUNGER",
+        "middle_name": "GRACE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "53 HILLSIDE RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057012503",
+        "telephone": "802-558-0794",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031758"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058100"
+      }
+    },
+    {
+      "npi": "1104847185",
+      "personal_info": {
+        "first_name": "JEREMY",
+        "last_name": "ORR",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "160 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014560",
+        "telephone": "802-775-7111",
+        "fax": "802-747-6260"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "0550030644"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058112"
+      }
+    },
+    {
+      "npi": "1275294522",
+      "personal_info": {
+        "first_name": "DAVID",
+        "last_name": "PIERCE",
+        "middle_name": "WOLFE",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "6 COMMONS ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014651",
+        "telephone": "802-775-1903",
+        "fax": "802-775-5503"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "VT",
+          "license": "055."
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058124"
+      }
+    },
+    {
+      "npi": "1295160844",
+      "personal_info": {
+        "first_name": "TARRYN",
+        "last_name": "SCHNEIDER",
+        "middle_name": "N.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "2251S0007X",
+          "taxonomy_desc": "Physical Therapist, Sports",
+          "primary": false,
+          "state": "VT",
+          "license": "104.0098262"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NH",
+          "license": "1385"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058138"
+      }
+    },
+    {
+      "npi": "1992094528",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "SHELDON-MORRIS",
+        "middle_name": "ANNE",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "420 GROVE ST",
+        "address_line_2": null,
+        "city": "BRANDON",
+        "state": "VT",
+        "postal_code": "057339062",
+        "telephone": "802-247-6305",
+        "fax": "802-247-6040"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "Pending"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031219"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058151"
+      }
+    },
+    {
+      "npi": "1063415313",
+      "personal_info": {
+        "first_name": "KARIE",
+        "last_name": "SHELTON",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "10 COMMONS ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014651",
+        "telephone": "802-747-3359",
+        "fax": "802-786-5204"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "0555.0031656"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "AZ",
+          "license": "3136"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058163"
+      }
+    },
+    {
+      "npi": "1225395890",
+      "personal_info": {
+        "first_name": "LUCY",
+        "last_name": "SHORTSLEEVES",
+        "middle_name": "E R",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1668"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058175"
+      }
+    },
+    {
+      "npi": "1437414141",
+      "personal_info": {
+        "first_name": "LEAH",
+        "last_name": "SKYPECK",
+        "middle_name": "ANDERSON",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "160 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014560",
+        "telephone": "802-775-7111",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031235"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0984"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058188"
+      }
+    },
+    {
+      "npi": "1982961611",
+      "personal_info": {
+        "first_name": "KRISTIN",
+        "last_name": "SPERBER",
+        "middle_name": "ANGELINE CAMP",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-855-2027",
+        "fax": "802-855-2053"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031129"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058200"
+      }
+    },
+    {
+      "npi": "1366453573",
+      "personal_info": {
+        "first_name": "REGINA",
+        "last_name": "SPRINGER",
+        "middle_name": "CATHERINE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "71 ALLEN ST",
+        "address_line_2": "SUITE 203",
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014570",
+        "telephone": "802-775-7798",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NH",
+          "license": "560"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030924"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058214"
+      }
+    },
+    {
+      "npi": "1184619876",
+      "personal_info": {
+        "first_name": "BETHANY",
+        "last_name": "STACK",
+        "middle_name": "LYNN",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "3 ALBERT CREE DR",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014601",
+        "telephone": "802-775-2937",
+        "fax": "802-773-0934"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030670"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058225"
+      }
+    },
+    {
+      "npi": "1962578328",
+      "personal_info": {
+        "first_name": "MATTHEW",
+        "last_name": "STEVENS",
+        "middle_name": "E",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": "802-773-4578"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030797"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058237"
+      }
+    },
+    {
+      "npi": "1598908683",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "TATKO",
+        "middle_name": "STORK",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "275 ROUTE 30 N",
+        "address_line_2": null,
+        "city": "BOMOSEEN",
+        "state": "VT",
+        "postal_code": "057329647",
+        "telephone": "802-468-5641",
+        "fax": "802-468-2923"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "235Z00000X",
+          "taxonomy_desc": "Speech-Language Pathologist,  ",
+          "primary": false,
+          "state": "VT",
+          "license": "8053008"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031204"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058249"
+      }
+    },
+    {
+      "npi": "1558388512",
+      "personal_info": {
+        "first_name": "PATTY",
+        "last_name": "THORNTON",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "92 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014562",
+        "telephone": "802-776-4045",
+        "fax": "802-773-7922"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "0550030866"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058261"
+      }
+    },
+    {
+      "npi": "1568599223",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "TINSMAN",
+        "middle_name": "CYR",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": "802-773-4578"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030720"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058273"
+      }
+    },
+    {
+      "npi": "1770681587",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "VOORIS",
+        "middle_name": "P",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "160 ALLEN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014560",
+        "telephone": "802-747-3602",
+        "fax": "802-747-3847"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "0011155"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031007"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058286"
+      }
+    },
+    {
+      "npi": "1518130194",
+      "personal_info": {
+        "first_name": "HUGH",
+        "last_name": "WALLER",
+        "middle_name": "DURWOOD",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "173 S MAIN ST",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014713",
+        "telephone": "802-772-4165",
+        "fax": "802-855-8489"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058298"
+      }
+    },
+    {
+      "npi": "1427589670",
+      "personal_info": {
+        "first_name": "DAVID",
+        "last_name": "WALLSTROM",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "22 STATION AVE",
+        "address_line_2": null,
+        "city": "BRUNSWICK",
+        "state": "ME",
+        "postal_code": "040112092",
+        "telephone": "207-406-7500",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058309"
+      }
+    },
+    {
+      "npi": "1811446065",
+      "personal_info": {
+        "first_name": "NOAH",
+        "last_name": "WOLLENBURG",
+        "middle_name": "F.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "111 COLCHESTER AVE",
+        "address_line_2": null,
+        "city": "BURLINGTON",
+        "state": "VT",
+        "postal_code": "054011473",
+        "telephone": "802-847-0000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031381"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "WI",
+          "license": "3837-023"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058322"
+      }
+    },
+    {
+      "npi": "1174740518",
+      "personal_info": {
+        "first_name": "WILLIAM",
+        "last_name": "ZUBER",
+        "middle_name": "P",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "9 ANTHONY CT",
+        "address_line_2": null,
+        "city": "QUEENSBURY",
+        "state": "NY",
+        "postal_code": "128048841",
+        "telephone": "518-792-7092",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030833"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "011564-1"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "1265"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05701",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058336"
+      }
+    },
+    {
+      "npi": "1760038152",
+      "personal_info": {
+        "first_name": "CHRISTINA",
+        "last_name": "MACAULAY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "653 RUSTIC DR",
+        "address_line_2": null,
+        "city": "KILLINGTON",
+        "state": "VT",
+        "postal_code": "057519477",
+        "telephone": "802-236-4485",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1961"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05751",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058348"
+      }
+    },
+    {
+      "npi": "1114400611",
+      "personal_info": {
+        "first_name": "JORDAN",
+        "last_name": "CARR",
+        "middle_name": "DAVID",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "183 FITZGERALD RD",
+        "address_line_2": null,
+        "city": "MIDDLETOWN SPRINGS",
+        "state": "VT",
+        "postal_code": "057574119",
+        "telephone": "802-558-7466",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031401"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05757",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058361"
+      }
+    },
+    {
+      "npi": "1093460669",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "HADLEY",
+        "middle_name": "MICHEAL",
+        "credential": "Physician Assistant",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4301 WILSON ST",
+        "address_line_2": null,
+        "city": "FORT SILL",
+        "state": "OK",
+        "postal_code": "735034472",
+        "telephone": "833-286-3732",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05759",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058374"
+      }
+    },
+    {
+      "npi": "1891880944",
+      "personal_info": {
+        "first_name": "ANNE",
+        "last_name": "RIKER",
+        "middle_name": "E",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "564 FERNCLIFF ROAD",
+        "address_line_2": null,
+        "city": "POULTNEY",
+        "state": "VT",
+        "postal_code": "05764",
+        "telephone": "802-287-2073",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "0001611"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05764",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058387"
+      }
+    },
+    {
+      "npi": "1497345706",
+      "personal_info": {
+        "first_name": "CALVIN",
+        "last_name": "KNOWLES",
+        "middle_name": "MICHAEL",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "100 MCGREGOR ST",
+        "address_line_2": null,
+        "city": "MANCHESTER",
+        "state": "NH",
+        "postal_code": "031023770",
+        "telephone": "603-669-0413",
+        "fax": "603-663-6350"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2041"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05765",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058399"
+      }
+    },
+    {
+      "npi": "1861131120",
+      "personal_info": {
+        "first_name": "ALLISON",
+        "last_name": "BACHMANN",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2330 WEST RD",
+        "address_line_2": null,
+        "city": "WEST RUTLAND",
+        "state": "VT",
+        "postal_code": "057779240",
+        "telephone": "802-855-3796",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05777",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058411"
+      }
+    },
+    {
+      "npi": "1821158346",
+      "personal_info": {
+        "first_name": "ANDREA",
+        "last_name": "LARSON",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1047 MAIN ST",
+        "address_line_2": null,
+        "city": "WEST RUTLAND",
+        "state": "VT",
+        "postal_code": "057779526",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030490"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05777",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058422"
+      }
+    },
+    {
+      "npi": "1114400611",
+      "personal_info": {
+        "first_name": "JORDAN",
+        "last_name": "CARR",
+        "middle_name": "DAVID",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "183 FITZGERALD RD",
+        "address_line_2": null,
+        "city": "MIDDLETOWN SPRINGS",
+        "state": "VT",
+        "postal_code": "057574119",
+        "telephone": "802-558-7466",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031401"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05775",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058434"
+      }
+    },
+    {
+      "npi": "1245252030",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "DASHNAW",
+        "middle_name": "J",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "278 VT ROUTE 149",
+        "address_line_2": null,
+        "city": "WEST PAWLET",
+        "state": "VT",
+        "postal_code": "057759798",
+        "telephone": "802-645-0580",
+        "fax": "802-645-0587"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "5530304"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "004999"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05775",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058447"
+      }
+    },
+    {
+      "npi": "1083973853",
+      "personal_info": {
+        "first_name": "CLARA",
+        "last_name": "MARTELL",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "71 ALLEN ST",
+        "address_line_2": "SUITE 101",
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014570",
+        "telephone": "802-772-4414",
+        "fax": "802-772-7973"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05775",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058461"
+      }
+    },
+    {
+      "npi": "1568599223",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "TINSMAN",
+        "middle_name": "CYR",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 STRATTON RD",
+        "address_line_2": null,
+        "city": "RUTLAND",
+        "state": "VT",
+        "postal_code": "057014621",
+        "telephone": "802-773-3386",
+        "fax": "802-773-4578"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030720"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05775",
+        "retrieved_timestamp": "2025-02-18T04:04:44.058473"
+      }
+    }
+  ]
+}

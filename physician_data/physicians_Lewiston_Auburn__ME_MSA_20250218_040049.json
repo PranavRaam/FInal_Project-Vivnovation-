@@ -1,0 +1,6730 @@
+{
+  "metadata": {
+    "msa_name": "Lewiston-Auburn, ME MSA",
+    "query_timestamp": "2025-02-18T04:00:49.181828",
+    "total_physicians": 181,
+    "specialty_distribution": {
+      "Physician Assistant": 178,
+      "Physician Assistant, Medical": 57,
+      "Physician Assistant, Surgical": 41,
+      "Student in an Organized Health Care Education/Training Program": 2,
+      "Surgery": 2,
+      "Family Medicine, Sports Medicine": 1,
+      "Podiatrist, Foot & Ankle Surgery": 1,
+      "Orthopaedic Surgery": 1,
+      "Specialist/Technologist, Athletic Trainer": 1,
+      "Physical Therapist": 1,
+      "Social Worker, Clinical": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1194313080",
+      "personal_info": {
+        "first_name": "MICHELLE",
+        "last_name": "BOUTIN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD STE 101",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106347",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04220",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181865"
+      }
+    },
+    {
+      "npi": "1619909017",
+      "personal_info": {
+        "first_name": "SHIRLEY",
+        "last_name": "ALA",
+        "middle_name": "L.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "791 TURNER ST UNIT 2",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106314",
+        "telephone": "207-330-3900",
+        "fax": "207-330-3940"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "UT",
+          "license": "2166771206"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181883"
+      }
+    },
+    {
+      "npi": "1760121453",
+      "personal_info": {
+        "first_name": "NATALIE",
+        "last_name": "ANTAYA",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 95000 LBX 7650",
+        "address_line_2": null,
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postal_code": "191950001",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181895"
+      }
+    },
+    {
+      "npi": "1962912428",
+      "personal_info": {
+        "first_name": "SIOBHAN",
+        "last_name": "AREY",
+        "middle_name": "MAUREEN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "71 US ROUTE 1 STE J",
+        "address_line_2": null,
+        "city": "SCARBOROUGH",
+        "state": "ME",
+        "postal_code": "040747168",
+        "telephone": "207-770-5621",
+        "fax": "207-203-4875"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2023"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2023"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181909"
+      }
+    },
+    {
+      "npi": "1730285982",
+      "personal_info": {
+        "first_name": "LISA",
+        "last_name": "BOUCHER",
+        "middle_name": "JEAN",
+        "credential": "P.A.-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "2 GREAT FALLS PLZ STE 21",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042105966",
+        "telephone": "207-330-3950",
+        "fax": "207-330-3955"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "5606"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA646"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "CT",
+          "license": "001342"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181925"
+      }
+    },
+    {
+      "npi": "1194313080",
+      "personal_info": {
+        "first_name": "MICHELLE",
+        "last_name": "BOUTIN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD STE 101",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106347",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181939"
+      }
+    },
+    {
+      "npi": "1932300142",
+      "personal_info": {
+        "first_name": "IAN",
+        "last_name": "BUCHAN",
+        "middle_name": "FM",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "7 OLD STAGE RD",
+        "address_line_2": null,
+        "city": "WOOLWICH",
+        "state": "ME",
+        "postal_code": "045794424",
+        "telephone": "207-442-7675",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA054"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181951"
+      }
+    },
+    {
+      "npi": "1427288810",
+      "personal_info": {
+        "first_name": "TAYLOR",
+        "last_name": "BUTTERFIELD",
+        "middle_name": "C",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "190 STETSON RD",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042107813",
+        "telephone": "207-784-7388",
+        "fax": "207-795-2043"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1401"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181964"
+      }
+    },
+    {
+      "npi": "1225050818",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "690 MINOT AVE",
+        "address_line_2": "SUITE ONE",
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042103922",
+        "telephone": "207-783-1328",
+        "fax": "207-795-0260"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207QS0010X",
+          "taxonomy_desc": "Family Medicine, Sports Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "213ES0103X",
+          "taxonomy_desc": "Podiatrist, Foot & Ankle Surgery",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207X00000X",
+          "taxonomy_desc": "Orthopaedic Surgery",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181979"
+      }
+    },
+    {
+      "npi": "1528131026",
+      "personal_info": {
+        "first_name": "ANNA",
+        "last_name": "CHAVEZ",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8950",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2060"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.181991"
+      }
+    },
+    {
+      "npi": "1124440672",
+      "personal_info": {
+        "first_name": "JESSE",
+        "last_name": "CHENEY",
+        "middle_name": "MICHAEL",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "24 MILES CENTER WAY",
+        "address_line_2": null,
+        "city": "DAMARISCOTTA",
+        "state": "ME",
+        "postal_code": "045434067",
+        "telephone": "207-563-4252",
+        "fax": "207-810-4980"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1897"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1897"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182006"
+      }
+    },
+    {
+      "npi": "1316502610",
+      "personal_info": {
+        "first_name": "ALICIA",
+        "last_name": "CICIARELLI",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 US HIGHWAY 1 BYP UNIT 102",
+        "address_line_2": null,
+        "city": "PORTSMOUTH",
+        "state": "NH",
+        "postal_code": "038017105",
+        "telephone": "603-410-6700",
+        "fax": "603-319-8308"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2077"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182018"
+      }
+    },
+    {
+      "npi": "1962781062",
+      "personal_info": {
+        "first_name": "CYNTHIA",
+        "last_name": "DAVIES",
+        "middle_name": "J",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "22 BRAMHALL ST",
+        "address_line_2": null,
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041023175",
+        "telephone": "207-701-1186",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1295"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182030"
+      }
+    },
+    {
+      "npi": "1154028066",
+      "personal_info": {
+        "first_name": "MARGARITA",
+        "last_name": "EPLEY",
+        "middle_name": "SOFIA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "600 CENTER ST",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106311",
+        "telephone": "207-955-5565",
+        "fax": "207-955-5572"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2577"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MD",
+          "license": "C08808"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182043"
+      }
+    },
+    {
+      "npi": "1528580966",
+      "personal_info": {
+        "first_name": "ETHAN",
+        "last_name": "EVANKOW",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "791 TURNER ST UNIT 2",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106314",
+        "telephone": "207-330-3900",
+        "fax": "207-330-3940"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "055.0031348"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1241"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1241"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182060"
+      }
+    },
+    {
+      "npi": "1568550341",
+      "personal_info": {
+        "first_name": "LAURA",
+        "last_name": "GLASER",
+        "middle_name": "M.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD STE 101",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "04210",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA724"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA-724"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA724"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182074"
+      }
+    },
+    {
+      "npi": "1790187441",
+      "personal_info": {
+        "first_name": "MOLLIE",
+        "last_name": "GOLDENBERG",
+        "middle_name": "B",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "33 SEWALL ST",
+        "address_line_2": null,
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041022603",
+        "telephone": "207-828-2100",
+        "fax": "207-553-7166"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "DE",
+          "license": "C5-0000969"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1636"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182088"
+      }
+    },
+    {
+      "npi": "1992721062",
+      "personal_info": {
+        "first_name": "RICHARD",
+        "last_name": "GUYER",
+        "middle_name": "B.",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 US HIGHWAY 1 BYP UNIT 102",
+        "address_line_2": null,
+        "city": "PORTSMOUTH",
+        "state": "NH",
+        "postal_code": "038017105",
+        "telephone": "603-410-6700",
+        "fax": "603-319-8308"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA86"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182100"
+      }
+    },
+    {
+      "npi": "1245931815",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "HARLOW",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-320-1305",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2374"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182113"
+      }
+    },
+    {
+      "npi": "1992283626",
+      "personal_info": {
+        "first_name": "JOSEPH",
+        "last_name": "HIGGINS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "46 FAIRVIEW AVE",
+        "address_line_2": null,
+        "city": "SKOWHEGAN",
+        "state": "ME",
+        "postal_code": "049761481",
+        "telephone": "207-474-5121",
+        "fax": "207-474-3441"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2110"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2110"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182126"
+      }
+    },
+    {
+      "npi": "1598443939",
+      "personal_info": {
+        "first_name": "CAMILLA",
+        "last_name": "HORTON",
+        "middle_name": "ROE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 CENTER ST",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106305",
+        "telephone": "207-955-5565",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2634"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182137"
+      }
+    },
+    {
+      "npi": "1447770458",
+      "personal_info": {
+        "first_name": "PAIGE",
+        "last_name": "LAPOINTE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "593 CENTER ST",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "04210",
+        "telephone": "207-795-6543",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1712"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1712"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182149"
+      }
+    },
+    {
+      "npi": "1013296722",
+      "personal_info": {
+        "first_name": "DALLAS",
+        "last_name": "MARQUIS",
+        "middle_name": "R",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2 GREAT FALLS PLZ STE 21",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042105966",
+        "telephone": "207-330-3950",
+        "fax": "207-330-3955"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1298"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182161"
+      }
+    },
+    {
+      "npi": "1801922976",
+      "personal_info": {
+        "first_name": "SONIA",
+        "last_name": "MASSE",
+        "middle_name": "JEAN",
+        "credential": "MS, PA, ATC, PES",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "18 MILLBROOK LN",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042104091",
+        "telephone": "724-825-8074",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "2255A2300X",
+          "taxonomy_desc": "Specialist/Technologist, Athletic Trainer",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1363"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182175"
+      }
+    },
+    {
+      "npi": "1043996671",
+      "personal_info": {
+        "first_name": "BRITTNEY",
+        "last_name": "MASSEY-LABBE",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "690 MINOT AVE",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042103922",
+        "telephone": "207-783-1328",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182186"
+      }
+    },
+    {
+      "npi": "1669978151",
+      "personal_info": {
+        "first_name": "ZOE",
+        "last_name": "MCKENZIE",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "46 BARRA RD",
+        "address_line_2": null,
+        "city": "BIDDEFORD",
+        "state": "ME",
+        "postal_code": "040059459",
+        "telephone": "207-283-1126",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1797"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1797"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182200"
+      }
+    },
+    {
+      "npi": "1073096517",
+      "personal_info": {
+        "first_name": "ADAM",
+        "last_name": "MESSIER",
+        "middle_name": "R.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 7291",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8950",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1832"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1832"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182213"
+      }
+    },
+    {
+      "npi": "1295324226",
+      "personal_info": {
+        "first_name": "MATTHEW",
+        "last_name": "MITCHELL",
+        "middle_name": "PARENT",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD STE 101",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106347",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2190"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2190"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2190"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182228"
+      }
+    },
+    {
+      "npi": "1659456630",
+      "personal_info": {
+        "first_name": "LISA",
+        "last_name": "MOORE",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "324 GANNETT DR STE 200",
+        "address_line_2": null,
+        "city": "SOUTH PORTLAND",
+        "state": "ME",
+        "postal_code": "041063266",
+        "telephone": "207-482-7800",
+        "fax": "207-482-7898"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "FL",
+          "license": "9108417"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "MA",
+          "license": "800"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1497"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182243"
+      }
+    },
+    {
+      "npi": "1699765065",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "MORGAN",
+        "middle_name": "H",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "690 MINOT AVE",
+        "address_line_2": "SUITE ONE",
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042103922",
+        "telephone": "207-783-1328",
+        "fax": "207-795-0260"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA234"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182255"
+      }
+    },
+    {
+      "npi": "1609962430",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "PIERI",
+        "middle_name": "T",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "93 CAMPUS AVE STE G025",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-777-4320",
+        "fax": "207-777-4331"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PAN221"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA221"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-221"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182269"
+      }
+    },
+    {
+      "npi": "1386833317",
+      "personal_info": {
+        "first_name": "MINDY",
+        "last_name": "PURI",
+        "middle_name": "L",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "324 GANNETT DRIVE SUITE 200",
+        "address_line_2": null,
+        "city": "SOUTH PORTLAND",
+        "state": "ME",
+        "postal_code": "04106",
+        "telephone": "207-482-7800",
+        "fax": "207-956-6676"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "FL",
+          "license": "PA9104404"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001264"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182281"
+      }
+    },
+    {
+      "npi": "1588285977",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "ROUSSEAU",
+        "middle_name": null,
+        "credential": "Physician Assistant",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "46 FAIRVIEW AVE",
+        "address_line_2": null,
+        "city": "SKOWHEGAN",
+        "state": "ME",
+        "postal_code": "049761481",
+        "telephone": "207-474-5121",
+        "fax": "207-474-3441"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2151"
+        },
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2151"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182294"
+      }
+    },
+    {
+      "npi": "1548638232",
+      "personal_info": {
+        "first_name": "BRITTANY",
+        "last_name": "ROY",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106334",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1560"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1560"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1560"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182308"
+      }
+    },
+    {
+      "npi": "1598543621",
+      "personal_info": {
+        "first_name": "LILY",
+        "last_name": "RUSSELL",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 ENTERPRISE DR",
+        "address_line_2": null,
+        "city": "AUGUSTA",
+        "state": "ME",
+        "postal_code": "043307997",
+        "telephone": "207-621-8880",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2691"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182320"
+      }
+    },
+    {
+      "npi": "1831320159",
+      "personal_info": {
+        "first_name": "MEGAN",
+        "last_name": "SOUTHWICK",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "91 CAMPUS AVE",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-777-8120",
+        "fax": "207-777-8984"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0972"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PAN300"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA300"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04210",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182335"
+      }
+    },
+    {
+      "npi": "1649804162",
+      "personal_info": {
+        "first_name": "NICOLE",
+        "last_name": "SMITH",
+        "middle_name": "ASHLEY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "92 RACKLEY DR",
+        "address_line_2": null,
+        "city": "GREENE",
+        "state": "ME",
+        "postal_code": "042363954",
+        "telephone": "207-333-0213",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04236",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182348"
+      }
+    },
+    {
+      "npi": "1609817691",
+      "personal_info": {
+        "first_name": "VICTORIA",
+        "last_name": "DAVIS",
+        "middle_name": "E",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1849",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042411849",
+        "telephone": "207-784-2554",
+        "fax": "207-777-5363"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-784"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04241",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182362"
+      }
+    },
+    {
+      "npi": "1073964771",
+      "personal_info": {
+        "first_name": "JESSICA",
+        "last_name": "BATCHELDER",
+        "middle_name": "LOUISE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "41 MALL RD",
+        "address_line_2": null,
+        "city": "BURLINGTON",
+        "state": "MA",
+        "postal_code": "018053648",
+        "telephone": "781-744-8000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "1822"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "4243"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6424"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182378"
+      }
+    },
+    {
+      "npi": "1457560419",
+      "personal_info": {
+        "first_name": "TRACY",
+        "last_name": "BENNETT",
+        "middle_name": "M",
+        "credential": "P.A.-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044013900",
+        "telephone": "207-907-3650",
+        "fax": "207-907-3660"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1097"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182390"
+      }
+    },
+    {
+      "npi": "1992286546",
+      "personal_info": {
+        "first_name": "ROYCE",
+        "last_name": "BLACKWOOD",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044013979",
+        "telephone": "207-907-3650",
+        "fax": "207-907-3660"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "ME",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1855"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182403"
+      }
+    },
+    {
+      "npi": "1851300255",
+      "personal_info": {
+        "first_name": "KATHY",
+        "last_name": "BOUTON SEMMEL",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "21 WESTERN AVE",
+        "address_line_2": null,
+        "city": "HAMPDEN",
+        "state": "ME",
+        "postal_code": "044441422",
+        "telephone": "207-862-0300",
+        "fax": "207-907-1041"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1051"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182415"
+      }
+    },
+    {
+      "npi": "1497801351",
+      "personal_info": {
+        "first_name": "PAULINE",
+        "last_name": "BOYCE",
+        "middle_name": "F",
+        "credential": "PA-C, PT",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "172 KINSLEY ST",
+        "address_line_2": null,
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "03060",
+        "telephone": "603-883-3000",
+        "fax": "603-889-3774"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "225100000X",
+          "taxonomy_desc": "Physical Therapist",
+          "primary": false,
+          "state": "NH",
+          "license": "2670"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0736"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182428"
+      }
+    },
+    {
+      "npi": "1821487125",
+      "personal_info": {
+        "first_name": "LINDSEY",
+        "last_name": "BRITTEN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "166 KINSLEY ST STE 101",
+        "address_line_2": null,
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "030603676",
+        "telephone": "603-889-4131",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1368"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182440"
+      }
+    },
+    {
+      "npi": "1801803093",
+      "personal_info": {
+        "first_name": "AMANDA",
+        "last_name": "BROOKS",
+        "middle_name": "N",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8560",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA887"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182452"
+      }
+    },
+    {
+      "npi": "1528131026",
+      "personal_info": {
+        "first_name": "ANNA",
+        "last_name": "CHAVEZ",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8950",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2060"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182466"
+      }
+    },
+    {
+      "npi": "1467478958",
+      "personal_info": {
+        "first_name": "NANCY",
+        "last_name": "CONWAY-CLANCY",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "173 DANIEL WEBSTER HWY",
+        "address_line_2": null,
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "030605224",
+        "telephone": "603-891-4400",
+        "fax": "603-891-4414"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0537"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182477"
+      }
+    },
+    {
+      "npi": "1851862759",
+      "personal_info": {
+        "first_name": "DENIS",
+        "last_name": "DESSUREAULT",
+        "middle_name": "PAUL",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "172 KINSLEY ST",
+        "address_line_2": null,
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "030603648",
+        "telephone": "603-882-3000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1565"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182489"
+      }
+    },
+    {
+      "npi": "1528580966",
+      "personal_info": {
+        "first_name": "ETHAN",
+        "last_name": "EVANKOW",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "791 TURNER ST UNIT 2",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106314",
+        "telephone": "207-330-3900",
+        "fax": "207-330-3940"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "055.0031348"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1241"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1241"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182503"
+      }
+    },
+    {
+      "npi": "1982065801",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "FARRIS",
+        "middle_name": "M",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "460 AMHERST ST",
+        "address_line_2": null,
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "030631220",
+        "telephone": "603-883-7970",
+        "fax": "603-595-3652"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "1156"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182515"
+      }
+    },
+    {
+      "npi": "1326395971",
+      "personal_info": {
+        "first_name": "JESUS",
+        "last_name": "GANDARILLAS",
+        "middle_name": "M",
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8560",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1819"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182527"
+      }
+    },
+    {
+      "npi": "1568550341",
+      "personal_info": {
+        "first_name": "LAURA",
+        "last_name": "GLASER",
+        "middle_name": "M.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD STE 101",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "04210",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA724"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA-724"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA724"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182541"
+      }
+    },
+    {
+      "npi": "1104160498",
+      "personal_info": {
+        "first_name": "ZACHARY",
+        "last_name": "GREENIER",
+        "middle_name": "MITCHELL",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "900 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044011900",
+        "telephone": "207-907-3300",
+        "fax": "207-907-1923"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1375"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182553"
+      }
+    },
+    {
+      "npi": "1235535865",
+      "personal_info": {
+        "first_name": "ERICA",
+        "last_name": "HABER",
+        "middle_name": "JANEEN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8950",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2092"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "GA",
+          "license": "007410"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182569"
+      }
+    },
+    {
+      "npi": "1710086608",
+      "personal_info": {
+        "first_name": "NORMAN",
+        "last_name": "MALLORY",
+        "middle_name": "ROBERT",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 BROADWAY STE 100",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044013979",
+        "telephone": "207-907-3550",
+        "fax": "207-907-3562"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "pa-692"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182581"
+      }
+    },
+    {
+      "npi": "1013296722",
+      "personal_info": {
+        "first_name": "DALLAS",
+        "last_name": "MARQUIS",
+        "middle_name": "R",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2 GREAT FALLS PLZ STE 21",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042105966",
+        "telephone": "207-330-3950",
+        "fax": "207-330-3955"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1298"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182595"
+      }
+    },
+    {
+      "npi": "1528406741",
+      "personal_info": {
+        "first_name": "CAITLIN",
+        "last_name": "MCNALLY",
+        "middle_name": "A",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044013979",
+        "telephone": "207-907-1770",
+        "fax": "207-907-3675"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1403"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182608"
+      }
+    },
+    {
+      "npi": "1073096517",
+      "personal_info": {
+        "first_name": "ADAM",
+        "last_name": "MESSIER",
+        "middle_name": "R.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 7291",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8950",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1832"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1832"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182622"
+      }
+    },
+    {
+      "npi": "1295324226",
+      "personal_info": {
+        "first_name": "MATTHEW",
+        "last_name": "MITCHELL",
+        "middle_name": "PARENT",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD STE 101",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106347",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2190"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2190"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2190"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182636"
+      }
+    },
+    {
+      "npi": "1477596880",
+      "personal_info": {
+        "first_name": "CHRISTOPHER",
+        "last_name": "NELSON",
+        "middle_name": "L",
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044013979",
+        "telephone": "207-907-1770",
+        "fax": "207-907-3675"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA691"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182647"
+      }
+    },
+    {
+      "npi": "1134163579",
+      "personal_info": {
+        "first_name": "KAREN",
+        "last_name": "NICHOLS",
+        "middle_name": "E.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "900 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044011900",
+        "telephone": "207-907-3300",
+        "fax": "207-907-1923"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-604"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182660"
+      }
+    },
+    {
+      "npi": "1003893108",
+      "personal_info": {
+        "first_name": "LORI",
+        "last_name": "NILAND",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 16023",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042439503",
+        "telephone": "207-396-8600",
+        "fax": "603-692-6040"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA-620"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0859"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA620"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182674"
+      }
+    },
+    {
+      "npi": "1811931520",
+      "personal_info": {
+        "first_name": "PAUL",
+        "last_name": "OUELLETTE",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044013979",
+        "telephone": "207-907-3000",
+        "fax": "207-907-1921"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA387"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182686"
+      }
+    },
+    {
+      "npi": "1326700121",
+      "personal_info": {
+        "first_name": "HELENE",
+        "last_name": "PHAM",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "172 KINSLEY ST",
+        "address_line_2": null,
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "030603688",
+        "telephone": "603-882-3000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1808"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182698"
+      }
+    },
+    {
+      "npi": "1609962430",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "PIERI",
+        "middle_name": "T",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "93 CAMPUS AVE STE G025",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-777-4320",
+        "fax": "207-777-4331"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PAN221"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA221"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-221"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182713"
+      }
+    },
+    {
+      "npi": "1508011941",
+      "personal_info": {
+        "first_name": "ERIN",
+        "last_name": "RALLS",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "172 KINSLEY ST",
+        "address_line_2": null,
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "03060",
+        "telephone": "603-882-3000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182726"
+      }
+    },
+    {
+      "npi": "1336274570",
+      "personal_info": {
+        "first_name": "CHARLES",
+        "last_name": "REIMERS",
+        "middle_name": "E",
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "360 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044013979",
+        "telephone": "207-907-3000",
+        "fax": "207-907-1921"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1596"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182739"
+      }
+    },
+    {
+      "npi": "1548638232",
+      "personal_info": {
+        "first_name": "BRITTANY",
+        "last_name": "ROY",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106334",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1560"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1560"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1560"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182754"
+      }
+    },
+    {
+      "npi": "1720024805",
+      "personal_info": {
+        "first_name": "ERIC",
+        "last_name": "SEMMEL",
+        "middle_name": "W",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8560",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-482"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182765"
+      }
+    },
+    {
+      "npi": "1053347732",
+      "personal_info": {
+        "first_name": "DENNIS",
+        "last_name": "SIMPSON",
+        "middle_name": "SCOTT",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "329 WILSON ST",
+        "address_line_2": null,
+        "city": "BREWER",
+        "state": "ME",
+        "postal_code": "044121504",
+        "telephone": "207-307-3000",
+        "fax": "207-907-1043"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "1039"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1039"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182778"
+      }
+    },
+    {
+      "npi": "1003232612",
+      "personal_info": {
+        "first_name": "EMILY",
+        "last_name": "SMITH",
+        "middle_name": "KD",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "172 KINSLEY ST",
+        "address_line_2": null,
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "030603648",
+        "telephone": "603-578-9363",
+        "fax": "603-578-9539"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA4953"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1552"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182792"
+      }
+    },
+    {
+      "npi": "1831320159",
+      "personal_info": {
+        "first_name": "MEGAN",
+        "last_name": "SOUTHWICK",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "91 CAMPUS AVE",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-777-8120",
+        "fax": "207-777-8984"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0972"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PAN300"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA300"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182807"
+      }
+    },
+    {
+      "npi": "1689228124",
+      "personal_info": {
+        "first_name": "DANIELLE",
+        "last_name": "TOURIGNY",
+        "middle_name": "R",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "91 CAMPUS AVE",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-777-8150",
+        "fax": "207-777-8984"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA373"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA373"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182821"
+      }
+    },
+    {
+      "npi": "1205889573",
+      "personal_info": {
+        "first_name": "M",
+        "last_name": "TYLER",
+        "middle_name": "ALEGRA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8560",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-483"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182834"
+      }
+    },
+    {
+      "npi": "1265550990",
+      "personal_info": {
+        "first_name": "SAMUEL",
+        "last_name": "UMBRIACO",
+        "middle_name": "E",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "P.O. BOX 16022",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04243",
+        "telephone": "207-563-4250",
+        "fax": "207-563-4561"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA 0015058"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1058"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182847"
+      }
+    },
+    {
+      "npi": "1922021401",
+      "personal_info": {
+        "first_name": "KEIVER",
+        "last_name": "WELCH",
+        "middle_name": "T",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 BROADWAY",
+        "address_line_2": null,
+        "city": "BANGOR",
+        "state": "ME",
+        "postal_code": "044013900",
+        "telephone": "207-907-3650",
+        "fax": "207-907-3660"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-170"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04243",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182859"
+      }
+    },
+    {
+      "npi": "1619909017",
+      "personal_info": {
+        "first_name": "SHIRLEY",
+        "last_name": "ALA",
+        "middle_name": "L.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "791 TURNER ST UNIT 2",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042106314",
+        "telephone": "207-330-3900",
+        "fax": "207-330-3940"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "UT",
+          "license": "2166771206"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182872"
+      }
+    },
+    {
+      "npi": "1760121453",
+      "personal_info": {
+        "first_name": "NATALIE",
+        "last_name": "ANTAYA",
+        "middle_name": "MARIE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 95000 LBX 7650",
+        "address_line_2": null,
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postal_code": "191950001",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182888"
+      }
+    },
+    {
+      "npi": "1003974015",
+      "personal_info": {
+        "first_name": "DAVID",
+        "last_name": "ARGEREOW",
+        "middle_name": "W",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 US HIGHWAY 1 BYP UNIT 102",
+        "address_line_2": null,
+        "city": "PORTSMOUTH",
+        "state": "NH",
+        "postal_code": "038017105",
+        "telephone": "603-410-6700",
+        "fax": "603-319-8308"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-830"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182900"
+      }
+    },
+    {
+      "npi": "1073964581",
+      "personal_info": {
+        "first_name": "JASON",
+        "last_name": "BARSCHDORF",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": "207-795-2766"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1626"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182912"
+      }
+    },
+    {
+      "npi": "1114989852",
+      "personal_info": {
+        "first_name": "KRISTIE",
+        "last_name": "BERUBE",
+        "middle_name": "J",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "33 MOLLISON WAY",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405805",
+        "telephone": "207-784-5782",
+        "fax": "207-786-5756"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-831"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182924"
+      }
+    },
+    {
+      "npi": "1225335151",
+      "personal_info": {
+        "first_name": "SHARON",
+        "last_name": "BREZINSKI",
+        "middle_name": "J",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "287 MAIN ST",
+        "address_line_2": "STE.302",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407054",
+        "telephone": "207-795-6543",
+        "fax": "207-795-0488"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1258"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182936"
+      }
+    },
+    {
+      "npi": "1578119335",
+      "personal_info": {
+        "first_name": "CHELSEA",
+        "last_name": "BROWN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2025"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182948"
+      }
+    },
+    {
+      "npi": "1316506017",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "BROWNING",
+        "middle_name": "ROBERT",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-2200",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2054"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182960"
+      }
+    },
+    {
+      "npi": "1790734861",
+      "personal_info": {
+        "first_name": "STEPHEN",
+        "last_name": "BUERGIN",
+        "middle_name": "BENNETT",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-795-8260",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "2169-1"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1405"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182972"
+      }
+    },
+    {
+      "npi": "1225037211",
+      "personal_info": {
+        "first_name": "MATTHEW",
+        "last_name": "BUREAU",
+        "middle_name": "P",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 LINCOLN STREET, MILL 6",
+        "address_line_2": "BATES MILL DERMATOLOGY, PLLC",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-795-7540",
+        "fax": "207-795-7528"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NC",
+          "license": "103496"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182982"
+      }
+    },
+    {
+      "npi": "1427288810",
+      "personal_info": {
+        "first_name": "TAYLOR",
+        "last_name": "BUTTERFIELD",
+        "middle_name": "C",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "190 STETSON RD",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "042107813",
+        "telephone": "207-784-7388",
+        "fax": "207-795-2043"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1401"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.182994"
+      }
+    },
+    {
+      "npi": "1043345390",
+      "personal_info": {
+        "first_name": "KIMBERLY",
+        "last_name": "CALDWELL",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "360 US HIGHWAY 1 BYP UNIT 102",
+        "address_line_2": null,
+        "city": "PORTSMOUTH",
+        "state": "NH",
+        "postal_code": "038017105",
+        "telephone": "603-410-6700",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001082"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183005"
+      }
+    },
+    {
+      "npi": "1902379274",
+      "personal_info": {
+        "first_name": "NICOLETTE",
+        "last_name": "CARON",
+        "middle_name": "K",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "99 CAMPUS AVE",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042406045",
+        "telephone": "077-738-1612",
+        "fax": "207-773-1489"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183015"
+      }
+    },
+    {
+      "npi": "1942789557",
+      "personal_info": {
+        "first_name": "DARIN",
+        "last_name": "CARRAHER",
+        "middle_name": "LINN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "59 EAST AVE",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405667",
+        "telephone": "207-784-1680",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1845"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00488100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183028"
+      }
+    },
+    {
+      "npi": "1396998266",
+      "personal_info": {
+        "first_name": "AMY",
+        "last_name": "CASE",
+        "middle_name": "LOUISE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": "207-753-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "HI",
+          "license": "AMD1168"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183040"
+      }
+    },
+    {
+      "npi": "1740371160",
+      "personal_info": {
+        "first_name": "ANGELA",
+        "last_name": "CASTONGUAY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "33 MOLLISON WAY",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405805",
+        "telephone": "207-784-5782",
+        "fax": "207-786-5756"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-001060"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183051"
+      }
+    },
+    {
+      "npi": "1265422943",
+      "personal_info": {
+        "first_name": "KRISTINA",
+        "last_name": "CHADWICK",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": "207-795-7133"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA631"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183062"
+      }
+    },
+    {
+      "npi": "1528131026",
+      "personal_info": {
+        "first_name": "ANNA",
+        "last_name": "CHAVEZ",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8950",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2060"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183074"
+      }
+    },
+    {
+      "npi": "1356313084",
+      "personal_info": {
+        "first_name": "DAVID",
+        "last_name": "DAVIDSON",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407007",
+        "telephone": "207-795-5709",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-423"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183085"
+      }
+    },
+    {
+      "npi": "1962781062",
+      "personal_info": {
+        "first_name": "CYNTHIA",
+        "last_name": "DAVIES",
+        "middle_name": "J",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "22 BRAMHALL ST",
+        "address_line_2": null,
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041023175",
+        "telephone": "207-701-1186",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1295"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183097"
+      }
+    },
+    {
+      "npi": "1013114214",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "DORSKY",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "33 MOLLISON WAY",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405805",
+        "telephone": "207-784-5782",
+        "fax": "207-786-5756"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001098"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183108"
+      }
+    },
+    {
+      "npi": "1689874034",
+      "personal_info": {
+        "first_name": "DIANA",
+        "last_name": "DROWN",
+        "middle_name": "L",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1638",
+        "address_line_2": null,
+        "city": "ALBANY",
+        "state": "NY",
+        "postal_code": "122011638",
+        "telephone": "207-777-4111",
+        "fax": "207-783-6660"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1113"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183120"
+      }
+    },
+    {
+      "npi": "1023176245",
+      "personal_info": {
+        "first_name": "JAMIE",
+        "last_name": "DUFOUR",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-753-3900",
+        "fax": "207-753-3902"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA759"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183131"
+      }
+    },
+    {
+      "npi": "1982089629",
+      "personal_info": {
+        "first_name": "KENNETH",
+        "last_name": "DUGE",
+        "middle_name": "JAMES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2523"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183143"
+      }
+    },
+    {
+      "npi": "1235173535",
+      "personal_info": {
+        "first_name": "JOEL",
+        "last_name": "DUNN",
+        "middle_name": "S",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "93 CAMPUS AVE",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042406030",
+        "telephone": "207-777-8120",
+        "fax": "207-777-8984"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "823"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183156"
+      }
+    },
+    {
+      "npi": "1023366432",
+      "personal_info": {
+        "first_name": "MARIA",
+        "last_name": "EGGER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-7575",
+        "fax": "207-344-0350"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1348"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183167"
+      }
+    },
+    {
+      "npi": "1245938562",
+      "personal_info": {
+        "first_name": "EMMA",
+        "last_name": "ENGLAND",
+        "middle_name": "CURRIER",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-753-3900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2663"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183179"
+      }
+    },
+    {
+      "npi": "1275837270",
+      "personal_info": {
+        "first_name": "ALLISON",
+        "last_name": "GAGNON",
+        "middle_name": "MARIA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "77 BATES ST",
+        "address_line_2": "SUITE 103",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407637",
+        "telephone": "207-777-4460",
+        "fax": "207-777-4466"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001251"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183192"
+      }
+    },
+    {
+      "npi": "1104805316",
+      "personal_info": {
+        "first_name": "DANIELLE",
+        "last_name": "GEORGE",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-753-3900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-829"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183203"
+      }
+    },
+    {
+      "npi": "1356448443",
+      "personal_info": {
+        "first_name": "JAMES",
+        "last_name": "GILLEN",
+        "middle_name": "F",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-753-3900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-578"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183215"
+      }
+    },
+    {
+      "npi": "1568550341",
+      "personal_info": {
+        "first_name": "LAURA",
+        "last_name": "GLASER",
+        "middle_name": "M.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "15 GRACELAWN RD STE 101",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "04210",
+        "telephone": "207-333-4710",
+        "fax": "207-333-4715"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA724"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA-724"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA724"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183228"
+      }
+    },
+    {
+      "npi": "1215047584",
+      "personal_info": {
+        "first_name": "TIMOTHY",
+        "last_name": "GRACE",
+        "middle_name": "M",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA735"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183239"
+      }
+    },
+    {
+      "npi": "1417151663",
+      "personal_info": {
+        "first_name": "JULIA",
+        "last_name": "GREENWALD",
+        "middle_name": "M",
+        "credential": "PA-C, ATC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1473"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183250"
+      }
+    },
+    {
+      "npi": "1891975827",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "GREVEN-CHAOUSIS",
+        "middle_name": "P",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "244 WESTERN AVE",
+        "address_line_2": null,
+        "city": "SOUTH PORTLAND",
+        "state": "ME",
+        "postal_code": "041062430",
+        "telephone": "207-775-3446",
+        "fax": "207-879-1646"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "208600000X",
+          "taxonomy_desc": "Surgery",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1109"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA001109"
+        },
+        {
+          "taxonomy_code": "208600000X",
+          "taxonomy_desc": "Surgery",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001109"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183267"
+      }
+    },
+    {
+      "npi": "1134773294",
+      "personal_info": {
+        "first_name": "ALYSSA",
+        "last_name": "GUNVILLE",
+        "middle_name": "MAE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "12 HIGH ST STE 401",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407690",
+        "telephone": "207-795-5767",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1974"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183279"
+      }
+    },
+    {
+      "npi": "1508346768",
+      "personal_info": {
+        "first_name": "KIRSTEN",
+        "last_name": "HAAS",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-753-3900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1836"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183290"
+      }
+    },
+    {
+      "npi": "1235535865",
+      "personal_info": {
+        "first_name": "ERICA",
+        "last_name": "HABER",
+        "middle_name": "JANEEN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "C/O ST MARYS HEALTH SYSTEM - PROVIDER ENROLLMENT",
+        "address_line_2": "PO BOX 7291",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8950",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2092"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "GA",
+          "license": "007410"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183304"
+      }
+    },
+    {
+      "npi": "1578237970",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "HANLEY",
+        "middle_name": "VICTORIA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "22 BRAMHALL ST",
+        "address_line_2": null,
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041023134",
+        "telephone": "207-662-2381",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2235"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183316"
+      }
+    },
+    {
+      "npi": "1245931815",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "HARLOW",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-320-1305",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2374"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183327"
+      }
+    },
+    {
+      "npi": "1356721252",
+      "personal_info": {
+        "first_name": "NATHAN",
+        "last_name": "HINES",
+        "middle_name": "Z",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "33 MOLLISON WAY",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405805",
+        "telephone": "207-784-5782",
+        "fax": "207-376-3211"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1528"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183340"
+      }
+    },
+    {
+      "npi": "1093299463",
+      "personal_info": {
+        "first_name": "LINDSAY",
+        "last_name": "HOULIHAN",
+        "middle_name": "ROSE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "818 CONGRESS ST",
+        "address_line_2": null,
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041023112",
+        "telephone": "207-773-8161",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1842"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183351"
+      }
+    },
+    {
+      "npi": "1912965880",
+      "personal_info": {
+        "first_name": "LORI",
+        "last_name": "JACKSON",
+        "middle_name": "K",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": "207-795-2766"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA852"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183363"
+      }
+    },
+    {
+      "npi": "1770813875",
+      "personal_info": {
+        "first_name": "ALISON",
+        "last_name": "JANKOWSKI",
+        "middle_name": "L",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": "207-795-2766"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001187"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183374"
+      }
+    },
+    {
+      "npi": "1104838226",
+      "personal_info": {
+        "first_name": "KIMARA",
+        "last_name": "JEBB",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": "207-753-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA 001063"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183386"
+      }
+    },
+    {
+      "npi": "1750353710",
+      "personal_info": {
+        "first_name": "TIMOTHY",
+        "last_name": "KELLY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407007",
+        "telephone": "207-795-2641",
+        "fax": "207-753-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-815"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183397"
+      }
+    },
+    {
+      "npi": "1093181638",
+      "personal_info": {
+        "first_name": "REBECCA",
+        "last_name": "KOERTING",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "12 HIGH ST",
+        "address_line_2": "STE. 401",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407676",
+        "telephone": "207-795-5767",
+        "fax": "207-795-2732"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1544"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1544"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183410"
+      }
+    },
+    {
+      "npi": "1255614145",
+      "personal_info": {
+        "first_name": "ANGELA",
+        "last_name": "KOSTENBADER",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "35 MEDICAL CENTER PARKWAY",
+        "address_line_2": null,
+        "city": "AUGUSTA",
+        "state": "ME",
+        "postal_code": "04330",
+        "telephone": "207-626-1000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1269"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "1269PA"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183424"
+      }
+    },
+    {
+      "npi": "1881657096",
+      "personal_info": {
+        "first_name": "ANTONIO",
+        "last_name": "LANDRY",
+        "middle_name": "B.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "33 MOLLISON WAY",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405805",
+        "telephone": "207-784-5782",
+        "fax": "207-786-5756"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-809"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183436"
+      }
+    },
+    {
+      "npi": "1447770458",
+      "personal_info": {
+        "first_name": "PAIGE",
+        "last_name": "LAPOINTE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "593 CENTER ST",
+        "address_line_2": null,
+        "city": "AUBURN",
+        "state": "ME",
+        "postal_code": "04210",
+        "telephone": "207-795-6543",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1712"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1712"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183449"
+      }
+    },
+    {
+      "npi": "1457504532",
+      "personal_info": {
+        "first_name": "KELLY",
+        "last_name": "MCCOSH",
+        "middle_name": "ERIN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "76 HIGH ST",
+        "address_line_2": "SUITE 300",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407649",
+        "telephone": "207-795-5544",
+        "fax": "207-795-5645"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1361"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183460"
+      }
+    },
+    {
+      "npi": "1316590946",
+      "personal_info": {
+        "first_name": "JONATHAN",
+        "last_name": "MCDONOUGH",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "5 BUCKNAM RD",
+        "address_line_2": null,
+        "city": "FALMOUTH",
+        "state": "ME",
+        "postal_code": "041051392",
+        "telephone": "207-781-1551",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1968"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183471"
+      }
+    },
+    {
+      "npi": "1891964508",
+      "personal_info": {
+        "first_name": "CATHERINE",
+        "last_name": "MCINNIS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "22 BRAMHALL ST",
+        "address_line_2": null,
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041023134",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1358"
+        },
+        {
+          "taxonomy_code": "1041C0700X",
+          "taxonomy_desc": "Social Worker, Clinical",
+          "primary": false,
+          "state": "ME",
+          "license": "LC1630"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183484"
+      }
+    },
+    {
+      "npi": "1649654187",
+      "personal_info": {
+        "first_name": "DANIELLE",
+        "last_name": "MEADER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "12 HIGH ST STE 401",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407690",
+        "telephone": "207-795-5710",
+        "fax": "207-795-2559"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1547"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183496"
+      }
+    },
+    {
+      "npi": "1073096517",
+      "personal_info": {
+        "first_name": "ADAM",
+        "last_name": "MESSIER",
+        "middle_name": "R.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 7291",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042437291",
+        "telephone": "207-777-8950",
+        "fax": "207-777-8800"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1832"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1832"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183621"
+      }
+    },
+    {
+      "npi": "1619565025",
+      "personal_info": {
+        "first_name": "ANNA",
+        "last_name": "MOSER",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "10 FOX HILL RD",
+        "address_line_2": null,
+        "city": "FREEPORT",
+        "state": "ME",
+        "postal_code": "040326207",
+        "telephone": "603-493-4665",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2130"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183634"
+      }
+    },
+    {
+      "npi": "1285606251",
+      "personal_info": {
+        "first_name": "FRANK",
+        "last_name": "NOREIKA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407007",
+        "telephone": "207-795-0111",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-771"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183646"
+      }
+    },
+    {
+      "npi": "1891767778",
+      "personal_info": {
+        "first_name": "STACEY",
+        "last_name": "NOREIKA",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407007",
+        "telephone": "207-795-0111",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-772"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183657"
+      }
+    },
+    {
+      "npi": "1376987743",
+      "personal_info": {
+        "first_name": "KAREN",
+        "last_name": "PALMER",
+        "middle_name": "L",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "33 MOLLISON WAY",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405805",
+        "telephone": "207-784-5782",
+        "fax": "207-783-9268"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1379"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183669"
+      }
+    },
+    {
+      "npi": "1336491265",
+      "personal_info": {
+        "first_name": "MELISSA",
+        "last_name": "PEDERSON",
+        "middle_name": "LYNN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "8 RED OAK DR",
+        "address_line_2": null,
+        "city": "FALMOUTH",
+        "state": "ME",
+        "postal_code": "041052595",
+        "telephone": "509-571-5484",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183681"
+      }
+    },
+    {
+      "npi": "1609962430",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "PIERI",
+        "middle_name": "T",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "93 CAMPUS AVE STE G025",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-777-4320",
+        "fax": "207-777-4331"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PAN221"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA221"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-221"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183694"
+      }
+    },
+    {
+      "npi": "1245516723",
+      "personal_info": {
+        "first_name": "KEVIN",
+        "last_name": "QUIGLEY",
+        "middle_name": "TAYLOR",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-795-8260",
+        "fax": "207-795-8280"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001303"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183706"
+      }
+    },
+    {
+      "npi": "1669449286",
+      "personal_info": {
+        "first_name": "ALISON",
+        "last_name": "RAVIS",
+        "middle_name": "JUNE",
+        "credential": "physician asssistant",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 LINCOLN ST",
+        "address_line_2": "MILL NO. 6",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407792",
+        "telephone": "207-795-7540",
+        "fax": "207-795-7528"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "pa001088"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183717"
+      }
+    },
+    {
+      "npi": "1801122551",
+      "personal_info": {
+        "first_name": "HEATHER",
+        "last_name": "RENIHAN",
+        "middle_name": "DAWN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "287 MAIN ST",
+        "address_line_2": "STE 404",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407054",
+        "telephone": "207-795-2171",
+        "fax": "207-795-8330"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1313"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183729"
+      }
+    },
+    {
+      "npi": "1588092670",
+      "personal_info": {
+        "first_name": "ANNIE",
+        "last_name": "RICE",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "389 CONGRESS ST",
+        "address_line_2": "ROOM 307",
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041013566",
+        "telephone": "207-874-8784",
+        "fax": "207-874-8913"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA1428"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1428"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183743"
+      }
+    },
+    {
+      "npi": "1093916512",
+      "personal_info": {
+        "first_name": "JARED",
+        "last_name": "ROY",
+        "middle_name": "MATTHEW",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-795-3900",
+        "fax": "207-753-3902"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001130"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183754"
+      }
+    },
+    {
+      "npi": "1962892406",
+      "personal_info": {
+        "first_name": "KATELYN",
+        "last_name": "RYAN",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "33 MOLLISON WAY",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405805",
+        "telephone": "207-784-5782",
+        "fax": "207-783-9268"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1504"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183766"
+      }
+    },
+    {
+      "npi": "1801875372",
+      "personal_info": {
+        "first_name": "JOSEPH",
+        "last_name": "SALA",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-753-3900",
+        "fax": "207-753-3902"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-859"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183778"
+      }
+    },
+    {
+      "npi": "1447432018",
+      "personal_info": {
+        "first_name": "MELINDA",
+        "last_name": "SCHIMMACK",
+        "middle_name": "P",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "10 HIGH ST",
+        "address_line_2": "SUITE 105",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407653",
+        "telephone": "207-795-5710",
+        "fax": "207-795-2559"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "2607"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1188"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183791"
+      }
+    },
+    {
+      "npi": "1194894303",
+      "personal_info": {
+        "first_name": "JOSEPH",
+        "last_name": "SCHRADER",
+        "middle_name": "B.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-753-3900",
+        "fax": "207-753-2902"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-369"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183803"
+      }
+    },
+    {
+      "npi": "1760478382",
+      "personal_info": {
+        "first_name": "TERI",
+        "last_name": "SCHROCK",
+        "middle_name": "JEAN",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "12 HIGH ST",
+        "address_line_2": "STE. 301",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407676",
+        "telephone": "207-795-5730",
+        "fax": "207-795-5749"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA441"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183816"
+      }
+    },
+    {
+      "npi": "1578559100",
+      "personal_info": {
+        "first_name": "CHERYL",
+        "last_name": "SHERMAN",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-7575",
+        "fax": "207-795-7199"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA779"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA-779"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183829"
+      }
+    },
+    {
+      "npi": "1831320159",
+      "personal_info": {
+        "first_name": "MEGAN",
+        "last_name": "SOUTHWICK",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "91 CAMPUS AVE",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-777-8120",
+        "fax": "207-777-8984"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0972"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PAN300"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA300"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183843"
+      }
+    },
+    {
+      "npi": "1245886209",
+      "personal_info": {
+        "first_name": "MELISA",
+        "last_name": "SPRAGUE",
+        "middle_name": "SUZANNE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "330 SABATTUS ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405553",
+        "telephone": "207-333-4799",
+        "fax": "207-333-4767"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2037"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183855"
+      }
+    },
+    {
+      "npi": "1851812697",
+      "personal_info": {
+        "first_name": "KRISTIN",
+        "last_name": "STANHOPE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-330-7460",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183868"
+      }
+    },
+    {
+      "npi": "1427285485",
+      "personal_info": {
+        "first_name": "SHAWN",
+        "last_name": "STEPP",
+        "middle_name": "W",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-795-0111",
+        "fax": "207-753-7201"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001168"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183881"
+      }
+    },
+    {
+      "npi": "1003380957",
+      "personal_info": {
+        "first_name": "HANNAH",
+        "last_name": "STONEBREAKER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "12 HIGH ST STE 401",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407690",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1886"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183913"
+      }
+    },
+    {
+      "npi": "1457544256",
+      "personal_info": {
+        "first_name": "ANDREW",
+        "last_name": "SUSEN",
+        "middle_name": "PAUL",
+        "credential": "PA-C, MSc",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "331 MAINE ST",
+        "address_line_2": "SUITE 23",
+        "city": "BRUNSWICK",
+        "state": "ME",
+        "postal_code": "040113358",
+        "telephone": "207-729-0134",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA001095"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1095"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183926"
+      }
+    },
+    {
+      "npi": "1316281835",
+      "personal_info": {
+        "first_name": "HEATHER",
+        "last_name": "TENG",
+        "middle_name": "R",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "710 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042405801",
+        "telephone": "207-783-1449",
+        "fax": "207-777-3865"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA310"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183937"
+      }
+    },
+    {
+      "npi": "1689228124",
+      "personal_info": {
+        "first_name": "DANIELLE",
+        "last_name": "TOURIGNY",
+        "middle_name": "R",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "91 CAMPUS AVE",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "04240",
+        "telephone": "207-777-8150",
+        "fax": "207-777-8984"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA373"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA373"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183951"
+      }
+    },
+    {
+      "npi": "1215121587",
+      "personal_info": {
+        "first_name": "JANE",
+        "last_name": "VANNI",
+        "middle_name": "MYERS",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2 MEDICAL CENTER DR STE 512",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "MA",
+        "postal_code": "011071273",
+        "telephone": "413-794-5550",
+        "fax": "413-794-4212"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0961"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA001106"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA6132"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183965"
+      }
+    },
+    {
+      "npi": "1770770349",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "VERVILLE",
+        "middle_name": "CHRISTOPHER",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "10 HIGH ST",
+        "address_line_2": "STE. 105",
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407653",
+        "telephone": "207-795-5710",
+        "fax": "207-795-2559"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA001196"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183977"
+      }
+    },
+    {
+      "npi": "1215305222",
+      "personal_info": {
+        "first_name": "JOHN",
+        "last_name": "WESTFALL",
+        "middle_name": "CONNOR",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "60 HIGH ST # Y1",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407616",
+        "telephone": "207-795-8260",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA5526"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2204"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04240",
+        "retrieved_timestamp": "2025-02-18T04:00:49.183990"
+      }
+    },
+    {
+      "npi": "1538470364",
+      "personal_info": {
+        "first_name": "ANITA",
+        "last_name": "TEVANIAN",
+        "middle_name": null,
+        "credential": "P.A.-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "583 LISBON ST",
+        "address_line_2": null,
+        "city": "LISBON FALLS",
+        "state": "ME",
+        "postal_code": "042521250",
+        "telephone": "207-753-4960",
+        "fax": "207-753-4966"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "001229"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04252",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184003"
+      }
+    },
+    {
+      "npi": "1821064767",
+      "personal_info": {
+        "first_name": "LENIA",
+        "last_name": "COATES",
+        "middle_name": "A",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "21 MAIN ST",
+        "address_line_2": null,
+        "city": "LIVERMORE FALLS",
+        "state": "ME",
+        "postal_code": "042541219",
+        "telephone": "207-897-6601",
+        "fax": "207-897-4339"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1517"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04254",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184016"
+      }
+    },
+    {
+      "npi": "1750732889",
+      "personal_info": {
+        "first_name": "CORY",
+        "last_name": "MILLER",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "16 DEPOT ST",
+        "address_line_2": null,
+        "city": "LIVERMORE FALLS",
+        "state": "ME",
+        "postal_code": "042541311",
+        "telephone": "207-897-4345",
+        "fax": "207-897-2321"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1622"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04254",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184028"
+      }
+    },
+    {
+      "npi": "1619643491",
+      "personal_info": {
+        "first_name": "LILLIAN",
+        "last_name": "TAYLOR",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "181 FRANKLIN HEALTH CMNS",
+        "address_line_2": null,
+        "city": "FARMINGTON",
+        "state": "ME",
+        "postal_code": "049386144",
+        "telephone": "207-778-9001",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2250"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2250"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04254",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184041"
+      }
+    },
+    {
+      "npi": "1518489095",
+      "personal_info": {
+        "first_name": "WAYNE",
+        "last_name": "HEATH",
+        "middle_name": "ANTHONY",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "184 TOWN FARM RD",
+        "address_line_2": null,
+        "city": "NEW GLOUCESTER",
+        "state": "ME",
+        "postal_code": "042604432",
+        "telephone": "207-926-4488",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1725"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04260",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184053"
+      }
+    },
+    {
+      "npi": "1467447847",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "KLOTZ",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "13 FOREST RD",
+        "address_line_2": null,
+        "city": "NEW GLOUCESTER",
+        "state": "ME",
+        "postal_code": "042603026",
+        "telephone": "207-772-4203",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA76"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04260",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184066"
+      }
+    },
+    {
+      "npi": "1053389692",
+      "personal_info": {
+        "first_name": "DIANE",
+        "last_name": "HANDLER",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "180 CHURCH HILL RD",
+        "address_line_2": "STE 1",
+        "city": "LEEDS",
+        "state": "ME",
+        "postal_code": "042633418",
+        "telephone": "207-524-3501",
+        "fax": "207-524-2459"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA676"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184078"
+      }
+    },
+    {
+      "npi": "1245931815",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "HARLOW",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "300 MAIN ST",
+        "address_line_2": null,
+        "city": "LEWISTON",
+        "state": "ME",
+        "postal_code": "042407027",
+        "telephone": "207-320-1305",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2374"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184090"
+      }
+    },
+    {
+      "npi": "1457033771",
+      "personal_info": {
+        "first_name": "OLIVIA",
+        "last_name": "JUNE",
+        "middle_name": "G.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1 KINGSTON COLLECTION WAY APT 352",
+        "address_line_2": null,
+        "city": "KINGSTON",
+        "state": "MA",
+        "postal_code": "023643118",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184100"
+      }
+    },
+    {
+      "npi": "1427338698",
+      "personal_info": {
+        "first_name": "ANTHONY",
+        "last_name": "MARTIN",
+        "middle_name": "S.",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "11 ACADEMY RD",
+        "address_line_2": null,
+        "city": "MONMOUTH",
+        "state": "ME",
+        "postal_code": "042597035",
+        "telephone": "207-524-3501",
+        "fax": "207-933-9645"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1399"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184112"
+      }
+    },
+    {
+      "npi": "1457685497",
+      "personal_info": {
+        "first_name": "CHADDWICK",
+        "last_name": "MCBEIGH",
+        "middle_name": "M.",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 HOSPITAL DR STE A",
+        "address_line_2": null,
+        "city": "BRIDGTON",
+        "state": "ME",
+        "postal_code": "040091167",
+        "telephone": "207-647-2311",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1746"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184124"
+      }
+    },
+    {
+      "npi": "1083738736",
+      "personal_info": {
+        "first_name": "ELLEN",
+        "last_name": "MEDRANO",
+        "middle_name": "N.",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "180 CHURCH HILL RD STE 1",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "ME",
+        "postal_code": "042633418",
+        "telephone": "207-524-3501",
+        "fax": "207-524-2093"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA428"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184135"
+      }
+    },
+    {
+      "npi": "1467452185",
+      "personal_info": {
+        "first_name": "HEATHER",
+        "last_name": "ROBERTSON",
+        "middle_name": "I.",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "180 CHURCH HILL RD",
+        "address_line_2": "SUITE 1",
+        "city": "LEEDS",
+        "state": "ME",
+        "postal_code": "042633418",
+        "telephone": "207-524-3501",
+        "fax": "207-524-2459"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VA",
+          "license": "0110002587"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA003586L"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1472"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184149"
+      }
+    },
+    {
+      "npi": "1851954218",
+      "personal_info": {
+        "first_name": "RACHEL",
+        "last_name": "SAMARDAK",
+        "middle_name": "L.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "180 CHURCH HILL RD STE 1",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "ME",
+        "postal_code": "042633418",
+        "telephone": "207-524-3501",
+        "fax": "207-524-2093"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA427"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184160"
+      }
+    },
+    {
+      "npi": "1316496052",
+      "personal_info": {
+        "first_name": "KASSIE",
+        "last_name": "SKVORAK",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "11 ACADEMY RD",
+        "address_line_2": null,
+        "city": "MONMOUTH",
+        "state": "ME",
+        "postal_code": "042597035",
+        "telephone": "207-524-3501",
+        "fax": "207-933-9645"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1648"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184172"
+      }
+    },
+    {
+      "npi": "1427399906",
+      "personal_info": {
+        "first_name": "MAYRA",
+        "last_name": "TORRES BRINK",
+        "middle_name": "A.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "11 ACADEMY RD",
+        "address_line_2": null,
+        "city": "MONMOUTH",
+        "state": "ME",
+        "postal_code": "042597035",
+        "telephone": "207-524-3501",
+        "fax": "207-933-9645"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA319"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184184"
+      }
+    },
+    {
+      "npi": "1770158149",
+      "personal_info": {
+        "first_name": "JOHN",
+        "last_name": "WIRONEN",
+        "middle_name": "F.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "180 CHURCH HILL RD STE 1",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "ME",
+        "postal_code": "042633418",
+        "telephone": "207-524-3501",
+        "fax": "207-524-2093"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2225"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184196"
+      }
+    },
+    {
+      "npi": "1932223146",
+      "personal_info": {
+        "first_name": "MAGDALENA",
+        "last_name": "ZWEIFEL",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "180 CHURCH HILL RD",
+        "address_line_2": "SUITE 1",
+        "city": "LEEDS",
+        "state": "ME",
+        "postal_code": "042633418",
+        "telephone": "207-524-3501",
+        "fax": "207-524-2459"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "IL",
+          "license": "085005016"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04263",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184208"
+      }
+    },
+    {
+      "npi": "1932832128",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "ABRAMS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "32 HIDEAWAY RD",
+        "address_line_2": null,
+        "city": "POLAND",
+        "state": "ME",
+        "postal_code": "042746332",
+        "telephone": "207-891-8147",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2405"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04274",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184221"
+      }
+    },
+    {
+      "npi": "1982168373",
+      "personal_info": {
+        "first_name": "RACHEL",
+        "last_name": "JACKSON",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 943",
+        "address_line_2": null,
+        "city": "SABATTUS",
+        "state": "ME",
+        "postal_code": "042800943",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2022"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04280",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184233"
+      }
+    },
+    {
+      "npi": "1881097186",
+      "personal_info": {
+        "first_name": "DESIREE",
+        "last_name": "VIVIANO",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "448 WEST RD",
+        "address_line_2": null,
+        "city": "BOWDOIN",
+        "state": "ME",
+        "postal_code": "042877237",
+        "telephone": "516-456-8812",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "017990-1"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA2178"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04287",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184247"
+      }
+    },
+    {
+      "npi": "1851954218",
+      "personal_info": {
+        "first_name": "RACHEL",
+        "last_name": "SAMARDAK",
+        "middle_name": "L.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "180 CHURCH HILL RD STE 1",
+        "address_line_2": null,
+        "city": "LEEDS",
+        "state": "ME",
+        "postal_code": "042633418",
+        "telephone": "207-524-3501",
+        "fax": "207-524-2093"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA427"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04282",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184258"
+      }
+    },
+    {
+      "npi": "1316496052",
+      "personal_info": {
+        "first_name": "KASSIE",
+        "last_name": "SKVORAK",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "11 ACADEMY RD",
+        "address_line_2": null,
+        "city": "MONMOUTH",
+        "state": "ME",
+        "postal_code": "042597035",
+        "telephone": "207-524-3501",
+        "fax": "207-933-9645"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "ME",
+          "license": "PA1648"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "04282",
+        "retrieved_timestamp": "2025-02-18T04:00:49.184270"
+      }
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "msa_name": "Nantucket, MA MicroSA",
+    "query_timestamp": "2025-02-18T03:53:28.546033",
+    "total_physicians": 7,
+    "specialty_distribution": {
+      "Physician Assistant": 6,
+      "Physician Assistant, Surgical": 2,
+      "Physician Assistant, Medical": 2,
+      "Emergency Medicine": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1811053366",
+      "personal_info": {
+        "first_name": "JAYNE",
+        "last_name": "CULKINS",
+        "middle_name": "D",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2430",
+        "address_line_2": null,
+        "city": "NANTUCKET",
+        "state": "MA",
+        "postal_code": "025842430",
+        "telephone": "508-228-8589",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1539"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02584",
+        "retrieved_timestamp": "2025-02-18T03:53:28.546083"
+      }
+    },
+    {
+      "npi": "1326085267",
+      "personal_info": {
+        "first_name": "CYNTHIA",
+        "last_name": "BOLLES",
+        "middle_name": "J",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "144 STATE ST",
+        "address_line_2": null,
+        "city": "PORTLAND",
+        "state": "ME",
+        "postal_code": "041013776",
+        "telephone": "207-879-3000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA-353"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "ME",
+          "license": "PA-353"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02554",
+        "retrieved_timestamp": "2025-02-18T03:53:28.546099"
+      }
+    },
+    {
+      "npi": "1518061910",
+      "personal_info": {
+        "first_name": "MARIA",
+        "last_name": "CAREY",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "57 PROSPECT STREET",
+        "address_line_2": "NANTUCKET COTTAGE HOSPITAL",
+        "city": "NANTUCKET",
+        "state": "MA",
+        "postal_code": "02554",
+        "telephone": "508-454-2788",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "742"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02554",
+        "retrieved_timestamp": "2025-02-18T03:53:28.546111"
+      }
+    },
+    {
+      "npi": "1811053366",
+      "personal_info": {
+        "first_name": "JAYNE",
+        "last_name": "CULKINS",
+        "middle_name": "D",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2430",
+        "address_line_2": null,
+        "city": "NANTUCKET",
+        "state": "MA",
+        "postal_code": "025842430",
+        "telephone": "508-228-8589",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "1539"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02554",
+        "retrieved_timestamp": "2025-02-18T03:53:28.546124"
+      }
+    },
+    {
+      "npi": "1740598861",
+      "personal_info": {
+        "first_name": "ALISON",
+        "last_name": "FASSNACHT",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "57 PROSPECT ST UNIT 1",
+        "address_line_2": null,
+        "city": "NANTUCKET",
+        "state": "MA",
+        "postal_code": "025544396",
+        "telephone": "516-906-9336",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "014439"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100318"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02554",
+        "retrieved_timestamp": "2025-02-18T03:53:28.546135"
+      }
+    },
+    {
+      "npi": "1164801486",
+      "personal_info": {
+        "first_name": "ARTEMIS",
+        "last_name": "PANAGOPOULOS",
+        "middle_name": "DIANE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "57 PROSPECT ST DEPT FLR 1",
+        "address_line_2": null,
+        "city": "NANTUCKET",
+        "state": "MA",
+        "postal_code": "025542799",
+        "telephone": "508-825-8100",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5238"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02554",
+        "retrieved_timestamp": "2025-02-18T03:53:28.546148"
+      }
+    },
+    {
+      "npi": "1851857940",
+      "personal_info": {
+        "first_name": "MARGARET",
+        "last_name": "SCHIFANO",
+        "middle_name": "ESTHER",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "900 23RD ST NW",
+        "address_line_2": null,
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postal_code": "200372342",
+        "telephone": "202-741-2911",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207P00000X",
+          "taxonomy_desc": "Emergency Medicine",
+          "primary": false,
+          "state": "NY",
+          "license": "024687"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NY",
+          "license": "024687"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "024687"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02554",
+        "retrieved_timestamp": "2025-02-18T03:53:28.546164"
+      }
+    }
+  ]
+}

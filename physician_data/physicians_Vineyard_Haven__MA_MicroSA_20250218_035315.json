@@ -1,0 +1,631 @@
+{
+  "metadata": {
+    "msa_name": "Vineyard Haven, MA MicroSA",
+    "query_timestamp": "2025-02-18T03:53:15.559856",
+    "total_physicians": 16,
+    "specialty_distribution": {
+      "Physician Assistant": 18,
+      "Physician Assistant, Medical": 3,
+      "Physician Assistant, Surgical": 2,
+      "Specialist/Technologist, Athletic Trainer": 1,
+      "Student in an Organized Health Care Education/Training Program": 1,
+      "Dietitian, Registered": 1,
+      "Physical Therapist": 1,
+      "Orthopaedic Surgery": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1710541487",
+      "personal_info": {
+        "first_name": "KELLEY",
+        "last_name": "ELLSWORTH",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "3135 38TH ST NW",
+        "address_line_2": null,
+        "city": "WASHINGTON",
+        "state": "DC",
+        "postal_code": "200163726",
+        "telephone": "202-744-4983",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "DC",
+          "license": "PA031761"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA7445"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02568",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559879"
+      }
+    },
+    {
+      "npi": "1265119911",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "POGGI",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2534",
+        "address_line_2": null,
+        "city": "VINEYARD HAVEN",
+        "state": "MA",
+        "postal_code": "025680922",
+        "telephone": "774-521-9886",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02568",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559888"
+      }
+    },
+    {
+      "npi": "1568819902",
+      "personal_info": {
+        "first_name": "KRISTA",
+        "last_name": "BENDAVID",
+        "middle_name": "RENEE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "75 FRANCIS ST",
+        "address_line_2": null,
+        "city": "BOSTON",
+        "state": "MA",
+        "postal_code": "021156110",
+        "telephone": "617-732-5500",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "OK",
+          "license": "3158"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "5871"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559899"
+      }
+    },
+    {
+      "npi": "1346397692",
+      "personal_info": {
+        "first_name": "KATHLEEN",
+        "last_name": "BRIODY",
+        "middle_name": "M",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL RD.",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "02557",
+        "telephone": "508-693-0410",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MD",
+          "license": "C0003434"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559908"
+      }
+    },
+    {
+      "npi": "1952121683",
+      "personal_info": {
+        "first_name": "KANIKA",
+        "last_name": "DATTA",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "P.O. BOX 477",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "02557",
+        "telephone": "774-420-8121",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "2255A2300X",
+          "taxonomy_desc": "Specialist/Technologist, Athletic Trainer",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559917"
+      }
+    },
+    {
+      "npi": "1558361733",
+      "personal_info": {
+        "first_name": "DEBORAH",
+        "last_name": "ESPINOZA",
+        "middle_name": "AMELIA",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1477",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "025571477",
+        "telephone": "508-957-9360",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "PA5007"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NM",
+          "license": "pa2007-0023"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559926"
+      }
+    },
+    {
+      "npi": "1861814550",
+      "personal_info": {
+        "first_name": "ADAM",
+        "last_name": "KARWIEL",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "4535 DRESSLER RD NW",
+        "address_line_2": null,
+        "city": "CANTON",
+        "state": "OH",
+        "postal_code": "447182545",
+        "telephone": "330-493-4443",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CT",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559934"
+      }
+    },
+    {
+      "npi": "1225621170",
+      "personal_info": {
+        "first_name": "ALEXANDRA",
+        "last_name": "MAZZA",
+        "middle_name": "NICOLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL RD",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "025571406",
+        "telephone": "508-684-4500",
+        "fax": "508-684-4502"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559942"
+      }
+    },
+    {
+      "npi": "1588106421",
+      "personal_info": {
+        "first_name": "JAMIE",
+        "last_name": "MURTAUGH",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1477",
+        "address_line_2": "MARTHA'S VINEYARD HOSPITAL",
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "025571477",
+        "telephone": "508-693-0410",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA5980"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559951"
+      }
+    },
+    {
+      "npi": "1861425803",
+      "personal_info": {
+        "first_name": "ANTHONY",
+        "last_name": "PILAND",
+        "middle_name": "DURAND",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL RD",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "025571406",
+        "telephone": "508-684-4500",
+        "fax": "508-684-4502"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "MA",
+          "license": "2559"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559959"
+      }
+    },
+    {
+      "npi": "1124279286",
+      "personal_info": {
+        "first_name": "LATEEFAH",
+        "last_name": "PREE",
+        "middle_name": "A",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL ROAD",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "025571477",
+        "telephone": "508-957-0111",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "4173"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559967"
+      }
+    },
+    {
+      "npi": "1518441963",
+      "personal_info": {
+        "first_name": "JOSEPH",
+        "last_name": "REGAN",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL RD",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "025571406",
+        "telephone": "508-693-0410",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2197"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA8107"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1413"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559976"
+      }
+    },
+    {
+      "npi": "1124257803",
+      "personal_info": {
+        "first_name": "AUBREY",
+        "last_name": "RYAN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL RD",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "025571406",
+        "telephone": "508-693-0410",
+        "fax": "508-693-5971"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "013352"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7906"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559985"
+      }
+    },
+    {
+      "npi": "1477914976",
+      "personal_info": {
+        "first_name": "OLIVIA",
+        "last_name": "SHEERIN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL RD",
+        "address_line_2": null,
+        "city": "OAK BLUFFS",
+        "state": "MA",
+        "postal_code": "025571406",
+        "telephone": "508-684-4500",
+        "fax": "508-684-4502"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "133V00000X",
+          "taxonomy_desc": "Dietitian, Registered",
+          "primary": false,
+          "state": "MA",
+          "license": "4059"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA7789"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02557",
+        "retrieved_timestamp": "2025-02-18T03:53:15.559994"
+      }
+    },
+    {
+      "npi": "1386862274",
+      "personal_info": {
+        "first_name": "CHRISTA",
+        "last_name": "FRATINO",
+        "middle_name": null,
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1438 WESTERN AVE",
+        "address_line_2": null,
+        "city": "ALBANY",
+        "state": "NY",
+        "postal_code": "122033421",
+        "telephone": "518-649-9986",
+        "fax": "518-649-9987"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "025802"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "AP2252"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02575",
+        "retrieved_timestamp": "2025-02-18T03:53:15.560003"
+      }
+    },
+    {
+      "npi": "1588624415",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "PO BOX 547",
+        "address_line_2": null,
+        "city": "WEST TISBURY",
+        "state": "MA",
+        "postal_code": "025750547",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "225100000X",
+          "taxonomy_desc": "Physical Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207X00000X",
+          "taxonomy_desc": "Orthopaedic Surgery",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "02575",
+        "retrieved_timestamp": "2025-02-18T03:53:15.560012"
+      }
+    }
+  ]
+}

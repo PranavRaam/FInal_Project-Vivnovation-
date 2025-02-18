@@ -1,0 +1,2532 @@
+{
+  "metadata": {
+    "msa_name": "Keene, NH MicroSA",
+    "query_timestamp": "2025-02-18T04:00:03.933664",
+    "total_physicians": 67,
+    "specialty_distribution": {
+      "Physician Assistant": 63,
+      "Physician Assistant, Medical": 16,
+      "Physician Assistant, Surgical": 8,
+      "Student in an Organized Health Care Education/Training Program": 2,
+      "Licensed Practical Nurse": 1,
+      "Physical Therapist, Sports": 1,
+      "Emergency Medicine, Emergency Medical Services": 1,
+      "Specialist/Technologist, Athletic Trainer": 1,
+      "Psychologist": 1,
+      "Neuromusculoskeletal Medicine & OMM": 1,
+      "Anesthesiology": 1,
+      "Family Medicine": 1,
+      "Internal Medicine": 1,
+      "Orthopaedic Surgery": 1,
+      "Pediatrics": 1,
+      "Physical Medicine & Rehabilitation": 1,
+      "Psychiatry & Neurology, Neurology": 1,
+      "Psychiatry & Neurology, Psychiatry": 1,
+      "Surgery": 1,
+      "Pain Medicine, Interventional Pain Medicine": 1,
+      "Nurse Practitioner": 1,
+      "General Acute Care Hospital, Critical Access": 1,
+      "Emergency Medicine": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1265519946",
+      "personal_info": {
+        "first_name": "WILLIAM",
+        "last_name": "ARGIE",
+        "middle_name": "A",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": "DARTMOUTH-HITCHCOCK CLINIC - FAMILY MED",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-6534",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "MA",
+          "license": "1884"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "0531"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933687"
+      }
+    },
+    {
+      "npi": "1043784077",
+      "personal_info": {
+        "first_name": "RUSSELL",
+        "last_name": "ARPIN",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT STREET",
+        "address_line_2": "DARTMOUTH HITCHCOCK - ORTHOPAEDICS",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1470"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933699"
+      }
+    },
+    {
+      "npi": "1124424379",
+      "personal_info": {
+        "first_name": "PAYSON",
+        "last_name": "AYER-DUFNER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": "DHC - ORTHO",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5482",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1055"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933708"
+      }
+    },
+    {
+      "npi": "1336762699",
+      "personal_info": {
+        "first_name": "MAKAYLA",
+        "last_name": "BATIS",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "250 CEDA RD",
+        "address_line_2": null,
+        "city": "CHARLESTOWN",
+        "state": "NH",
+        "postal_code": "036034511",
+        "telephone": "603-826-5711",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "055.0031476"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1639"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933718"
+      }
+    },
+    {
+      "npi": "1649761206",
+      "personal_info": {
+        "first_name": "MATTHEW",
+        "last_name": "BATIS",
+        "middle_name": "JOHN",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT STREET",
+        "address_line_2": "ORTHOPAEDICS",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NH",
+          "license": "1391"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933726"
+      }
+    },
+    {
+      "npi": "1770697005",
+      "personal_info": {
+        "first_name": "LINDA",
+        "last_name": "BEAN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "351 WINCHESTER ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034313930",
+        "telephone": "603-352-3416",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "1814"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "1064"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933737"
+      }
+    },
+    {
+      "npi": "1497836951",
+      "personal_info": {
+        "first_name": "NANCY",
+        "last_name": "BENDA",
+        "middle_name": "T.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT STREET THE CHESHIRE MEDICAL CENTER",
+        "address_line_2": "EMERGENCY MEDICINE DEPARTMENT",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933746"
+      }
+    },
+    {
+      "npi": "1568994614",
+      "personal_info": {
+        "first_name": "ANNA",
+        "last_name": "BLANC",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1487"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933755"
+      }
+    },
+    {
+      "npi": "1952008567",
+      "personal_info": {
+        "first_name": "KATHRYN",
+        "last_name": "BRADLEY",
+        "middle_name": "ROSE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311718",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2112"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933764"
+      }
+    },
+    {
+      "npi": "1023180361",
+      "personal_info": {
+        "first_name": "JOSEPH",
+        "last_name": "CAMERON",
+        "middle_name": "HENRY",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580-90 COURT STREET",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "0883"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933772"
+      }
+    },
+    {
+      "npi": "1235268301",
+      "personal_info": {
+        "first_name": "JUDITH",
+        "last_name": "CARPENTER",
+        "middle_name": "LEE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT STREET",
+        "address_line_2": "DH KEENE FAMILY MEDICINE",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431",
+        "telephone": "802-365-4354",
+        "fax": "802-365-9435"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "164W00000X",
+          "taxonomy_desc": "Licensed Practical Nurse",
+          "primary": false,
+          "state": "NY",
+          "license": "001561"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "0550030895"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933782"
+      }
+    },
+    {
+      "npi": "1346989761",
+      "personal_info": {
+        "first_name": "KIERSTIN",
+        "last_name": "CLARK",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311718",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1908"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933791"
+      }
+    },
+    {
+      "npi": "1720069552",
+      "personal_info": {
+        "first_name": "CHRISTINE",
+        "last_name": "COUTURE",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 810",
+        "address_line_2": null,
+        "city": "HANOVER",
+        "state": "NH",
+        "postal_code": "037550810",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CT",
+          "license": "001243"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "001243"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2386"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933800"
+      }
+    },
+    {
+      "npi": "1023632205",
+      "personal_info": {
+        "first_name": "JASON",
+        "last_name": "DAVIS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "978-407-3044",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1635"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933809"
+      }
+    },
+    {
+      "npi": "1427474691",
+      "personal_info": {
+        "first_name": "KRISTIN",
+        "last_name": "DUNNELL",
+        "middle_name": "BREE",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": "DARTMOUTH HITCHCOCK - FAMILY MEDICINE",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1004"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933818"
+      }
+    },
+    {
+      "npi": "1508881723",
+      "personal_info": {
+        "first_name": "ALLISON",
+        "last_name": "ELLIA",
+        "middle_name": "D",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "153 DEAN FARM ROAD",
+        "address_line_2": null,
+        "city": "JAFFREY",
+        "state": "NH",
+        "postal_code": "03452",
+        "telephone": "603-532-9379",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0499"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933827"
+      }
+    },
+    {
+      "npi": "1477190742",
+      "personal_info": {
+        "first_name": "THATCHER",
+        "last_name": "FRIANT",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311729",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1594"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "055.0031457"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933835"
+      }
+    },
+    {
+      "npi": "1356881692",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "GALLANT",
+        "middle_name": "MICHAEL",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311718",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "1252"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933844"
+      }
+    },
+    {
+      "npi": "1356441679",
+      "personal_info": {
+        "first_name": "LINDA",
+        "last_name": "GROISS",
+        "middle_name": "JEAN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5482",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NH",
+          "license": "179"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933852"
+      }
+    },
+    {
+      "npi": "1710606595",
+      "personal_info": {
+        "first_name": "CASEY",
+        "last_name": "HOLT",
+        "middle_name": "ANNA MARIE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 810",
+        "address_line_2": null,
+        "city": "HANOVER",
+        "state": "NH",
+        "postal_code": "037550810",
+        "telephone": "603-308-1472",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2152"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933862"
+      }
+    },
+    {
+      "npi": "1003317546",
+      "personal_info": {
+        "first_name": "KRISTIE",
+        "last_name": "LA MONICA",
+        "middle_name": "N",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "1347"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933870"
+      }
+    },
+    {
+      "npi": "1396147443",
+      "personal_info": {
+        "first_name": "ELISA",
+        "last_name": "LAFAYETTE",
+        "middle_name": "DANIELLE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "164 HIGH ST",
+        "address_line_2": null,
+        "city": "GREENFIELD",
+        "state": "MA",
+        "postal_code": "013012613",
+        "telephone": "413-773-2263",
+        "fax": "413-773-2127"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "1043"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "MA",
+          "license": "PA100078"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933880"
+      }
+    },
+    {
+      "npi": "1962705038",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "LEINAU",
+        "middle_name": "ARTHUR",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-6534",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "OK",
+          "license": "APA1957"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "1586"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933912"
+      }
+    },
+    {
+      "npi": "1215315197",
+      "personal_info": {
+        "first_name": "ROBIN",
+        "last_name": "LISTON",
+        "middle_name": "A",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "ONE MEDICAL CENTER DRIVE",
+        "address_line_2": "EMERGENCY MEDICINE",
+        "city": "LEBANON",
+        "state": "NH",
+        "postal_code": "03756",
+        "telephone": "603-650-7254",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1099"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933921"
+      }
+    },
+    {
+      "npi": "1710175385",
+      "personal_info": {
+        "first_name": "MAUREEN",
+        "last_name": "MAHONEY",
+        "middle_name": "MARY",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 810",
+        "address_line_2": null,
+        "city": "HANOVER",
+        "state": "NH",
+        "postal_code": "037550810",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "VT",
+          "license": "0550030864"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2313"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933931"
+      }
+    },
+    {
+      "npi": "1598210866",
+      "personal_info": {
+        "first_name": "CLAUDIA",
+        "last_name": "MATTA",
+        "middle_name": "E",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5496",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "1184"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933939"
+      }
+    },
+    {
+      "npi": "1174605802",
+      "personal_info": {
+        "first_name": "SUSAN",
+        "last_name": "MAYDWELL",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "113 PINE CLIFF RD",
+        "address_line_2": null,
+        "city": "ALSTEAD",
+        "state": "NH",
+        "postal_code": "036023817",
+        "telephone": "603-835-2294",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NH",
+          "license": "0465"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933949"
+      }
+    },
+    {
+      "npi": "1538694385",
+      "personal_info": {
+        "first_name": "CLARISSA",
+        "last_name": "MCHODGKINS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311718",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "FL",
+          "license": "PA9110308"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933958"
+      }
+    },
+    {
+      "npi": "1154165819",
+      "personal_info": {
+        "first_name": "OLIVIA",
+        "last_name": "MCLEAN",
+        "middle_name": "MARY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311718",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2860"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933968"
+      }
+    },
+    {
+      "npi": "1356889901",
+      "personal_info": {
+        "first_name": "BRITTANY",
+        "last_name": "MOLINO",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "458 OLD STREET RD",
+        "address_line_2": null,
+        "city": "PETERBOROUGH",
+        "state": "NH",
+        "postal_code": "034581265",
+        "telephone": "603-512-5296",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1237"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933976"
+      }
+    },
+    {
+      "npi": "1043837917",
+      "personal_info": {
+        "first_name": "JAYE",
+        "last_name": "MORGAN",
+        "middle_name": "L",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NH",
+          "license": "1676"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933985"
+      }
+    },
+    {
+      "npi": "1063432250",
+      "personal_info": {
+        "first_name": "PATRICIA",
+        "last_name": "MORRISON",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "7 EVANS LN",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034315234",
+        "telephone": "603-357-4476",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "0139"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.933994"
+      }
+    },
+    {
+      "npi": "1366278772",
+      "personal_info": {
+        "first_name": "KATHERINE",
+        "last_name": "MUISE",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311718",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2883"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934002"
+      }
+    },
+    {
+      "npi": "1124551718",
+      "personal_info": {
+        "first_name": "AMY",
+        "last_name": "NEAL",
+        "middle_name": "T",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT STREET",
+        "address_line_2": "THE CHESHIRE MEDICAL CENTER",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431",
+        "telephone": "603-354-5454",
+        "fax": "603-354-6535"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1254"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934011"
+      }
+    },
+    {
+      "npi": "1972282028",
+      "personal_info": {
+        "first_name": "MADISON",
+        "last_name": "NICHOLS",
+        "middle_name": "BAILEY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311729",
+        "telephone": "548-260-3354",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2043"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934019"
+      }
+    },
+    {
+      "npi": "1558749432",
+      "personal_info": {
+        "first_name": "MATTHEW",
+        "last_name": "NICHOLS",
+        "middle_name": "O",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": "THE CHESHIRE MEDICAL CENTER (ER)",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311718",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1102"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934028"
+      }
+    },
+    {
+      "npi": "1497395842",
+      "personal_info": {
+        "first_name": "BRIAN",
+        "last_name": "PELLICANO",
+        "middle_name": "T",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-6534",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1690"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934038"
+      }
+    },
+    {
+      "npi": "1629473293",
+      "personal_info": {
+        "first_name": "BRANDIN",
+        "last_name": "PHILLIPS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "7 THORNDIKE TER APT 2",
+        "address_line_2": null,
+        "city": "SWAMPSCOTT",
+        "state": "MA",
+        "postal_code": "019072526",
+        "telephone": "916-284-0212",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CA",
+          "license": "52101"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "1340"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA8709"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934046"
+      }
+    },
+    {
+      "npi": "1851178792",
+      "personal_info": {
+        "first_name": "SARA",
+        "last_name": "READ",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "351 WINCHESTER ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034313930",
+        "telephone": "603-352-3406",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934054"
+      }
+    },
+    {
+      "npi": "1023619269",
+      "personal_info": {
+        "first_name": "TROY",
+        "last_name": "ROBINSON",
+        "middle_name": "MICHAEL",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "351 WINCHESTER ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034313930",
+        "telephone": "603-352-3406",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NH",
+          "license": "1658"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934061"
+      }
+    },
+    {
+      "npi": "1073757605",
+      "personal_info": {
+        "first_name": "CARA",
+        "last_name": "ROCKWOOD",
+        "middle_name": "LOUISE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "149 EMERALD ST UNIT U",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034313660",
+        "telephone": "978-513-7645",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "WA",
+          "license": "PA61471747"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "OH",
+          "license": "50-001647"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934070"
+      }
+    },
+    {
+      "npi": "1992518039",
+      "personal_info": {
+        "first_name": "RICKIE",
+        "last_name": "SAINI",
+        "middle_name": null,
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "351 WINCHESTER ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034313930",
+        "telephone": "603-352-3406",
+        "fax": "603-352-3416"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934079"
+      }
+    },
+    {
+      "npi": "1295160844",
+      "personal_info": {
+        "first_name": "TARRYN",
+        "last_name": "SCHNEIDER",
+        "middle_name": "N.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "2251S0007X",
+          "taxonomy_desc": "Physical Therapist, Sports",
+          "primary": false,
+          "state": "VT",
+          "license": "104.0098262"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NH",
+          "license": "1385"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934091"
+      }
+    },
+    {
+      "npi": "1891719068",
+      "personal_info": {
+        "first_name": "DAVID",
+        "last_name": "SEGAL",
+        "middle_name": "S",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "825 MARLBORO RD",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034315609",
+        "telephone": "603-209-1600",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "121"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934103"
+      }
+    },
+    {
+      "npi": "1184722811",
+      "personal_info": {
+        "first_name": "PAMELA",
+        "last_name": "SLOCUM",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 124",
+        "address_line_2": "135 GREENDALE RD",
+        "city": "BELMONT",
+        "state": "VT",
+        "postal_code": "057300124",
+        "telephone": "802-259-2640",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0354"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934113"
+      }
+    },
+    {
+      "npi": "1073697595",
+      "personal_info": {
+        "first_name": "ABIGAIL",
+        "last_name": "TATTERSALL",
+        "middle_name": "ELIZABETH",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 2147",
+        "address_line_2": null,
+        "city": "FORT MYERS",
+        "state": "FL",
+        "postal_code": "339022147",
+        "telephone": "239-343-7100",
+        "fax": "239-343-7190"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0836"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "FL",
+          "license": "PA9110197"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934125"
+      }
+    },
+    {
+      "npi": "1336169374",
+      "personal_info": {
+        "first_name": "WAYNE",
+        "last_name": "TEMMEN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 656",
+        "address_line_2": null,
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postal_code": "053020656",
+        "telephone": "802-254-9441",
+        "fax": "802-254-3233"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934137"
+      }
+    },
+    {
+      "npi": "1316520489",
+      "personal_info": {
+        "first_name": "HANNAH",
+        "last_name": "TERRAZZINO",
+        "middle_name": "CATHERINE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1930"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934148"
+      }
+    },
+    {
+      "npi": "1376941740",
+      "personal_info": {
+        "first_name": "EVAN",
+        "last_name": "THOMPSON",
+        "middle_name": "SCOTT",
+        "credential": "PA-C, ATC, AEMT",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311729",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207PE0004X",
+          "taxonomy_desc": "Emergency Medicine, Emergency Medical Services",
+          "primary": false,
+          "state": "NH",
+          "license": "30091"
+        },
+        {
+          "taxonomy_code": "2255A2300X",
+          "taxonomy_desc": "Specialist/Technologist, Athletic Trainer",
+          "primary": false,
+          "state": "NH",
+          "license": "0555"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2009"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934159"
+      }
+    },
+    {
+      "npi": "1578183927",
+      "personal_info": {
+        "first_name": "CARA",
+        "last_name": "WEINER",
+        "middle_name": "S.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1719"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934172"
+      }
+    },
+    {
+      "npi": "1619208733",
+      "personal_info": {
+        "first_name": "AMARIS",
+        "last_name": "WELLER",
+        "middle_name": "L",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 297",
+        "address_line_2": null,
+        "city": "HARRISVILLE",
+        "state": "NH",
+        "postal_code": "034500297",
+        "telephone": "603-827-3694",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934182"
+      }
+    },
+    {
+      "npi": "1811550734",
+      "personal_info": {
+        "first_name": "BENJAMIN",
+        "last_name": "WILKIE",
+        "middle_name": "M",
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-653-0732",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1574"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934193"
+      }
+    },
+    {
+      "npi": "1336551605",
+      "personal_info": {
+        "first_name": "STACY",
+        "last_name": "ZICKL",
+        "middle_name": "E",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": "DHC - ORTHOPAEDICS",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5482",
+        "fax": "603-354-5483"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1025"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03431",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934205"
+      }
+    },
+    {
+      "npi": "1619208733",
+      "personal_info": {
+        "first_name": "AMARIS",
+        "last_name": "WELLER",
+        "middle_name": "L",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 297",
+        "address_line_2": null,
+        "city": "HARRISVILLE",
+        "state": "NH",
+        "postal_code": "034500297",
+        "telephone": "603-827-3694",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03450",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934216"
+      }
+    },
+    {
+      "npi": "1508881723",
+      "personal_info": {
+        "first_name": "ALLISON",
+        "last_name": "ELLIA",
+        "middle_name": "D",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "153 DEAN FARM ROAD",
+        "address_line_2": null,
+        "city": "JAFFREY",
+        "state": "NH",
+        "postal_code": "03452",
+        "telephone": "603-532-9379",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0499"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03452",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934228"
+      }
+    },
+    {
+      "npi": "1861441545",
+      "personal_info": {
+        "first_name": "KEVIN",
+        "last_name": "COSTELLO",
+        "middle_name": "ROBERT",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "458 OLD STREET RD",
+        "address_line_2": "SUITE 200",
+        "city": "PETERBOROUGH",
+        "state": "NH",
+        "postal_code": "034581265",
+        "telephone": "603-924-2144",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03458",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934240"
+      }
+    },
+    {
+      "npi": "1255889549",
+      "personal_info": {
+        "first_name": "JADE",
+        "last_name": "DURGIN",
+        "middle_name": "ASHTON",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "424 OLD STREET ROAD SUITE 201",
+        "address_line_2": null,
+        "city": "PETERBOROUGH",
+        "state": "NH",
+        "postal_code": "03458",
+        "telephone": "603-924-4668",
+        "fax": "603-924-4669"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NH",
+          "license": "1205"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03458",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934254"
+      }
+    },
+    {
+      "npi": "1417332198",
+      "personal_info": {
+        "first_name": "EVA",
+        "last_name": "HEENAN",
+        "middle_name": null,
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "369 MIDDLE HANCOCK RD",
+        "address_line_2": null,
+        "city": "PETERBOROUGH",
+        "state": "NH",
+        "postal_code": "034582003",
+        "telephone": "860-912-9322",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CT",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03458",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934270"
+      }
+    },
+    {
+      "npi": "1679911820",
+      "personal_info": {
+        "first_name": "RAYNE",
+        "last_name": "LODER",
+        "middle_name": "M.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "452 OLD STREET RD",
+        "address_line_2": null,
+        "city": "PETERBOROUGH",
+        "state": "NH",
+        "postal_code": "034581263",
+        "telephone": "603-924-7191",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1201"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03458",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934288"
+      }
+    },
+    {
+      "npi": "1356889901",
+      "personal_info": {
+        "first_name": "BRITTANY",
+        "last_name": "MOLINO",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "458 OLD STREET RD",
+        "address_line_2": null,
+        "city": "PETERBOROUGH",
+        "state": "NH",
+        "postal_code": "034581265",
+        "telephone": "603-512-5296",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1237"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03458",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934300"
+      }
+    },
+    {
+      "npi": "1881676104",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "452 OLD STREET RD",
+        "address_line_2": null,
+        "city": "PETERBOROUGH",
+        "state": "NH",
+        "postal_code": "034581263",
+        "telephone": "603-924-7191",
+        "fax": "603-924-9586"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "103T00000X",
+          "taxonomy_desc": "Psychologist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "204D00000X",
+          "taxonomy_desc": "Neuromusculoskeletal Medicine & OMM",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207L00000X",
+          "taxonomy_desc": "Anesthesiology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207X00000X",
+          "taxonomy_desc": "Orthopaedic Surgery",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208000000X",
+          "taxonomy_desc": "Pediatrics",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208100000X",
+          "taxonomy_desc": "Physical Medicine & Rehabilitation",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2084N0400X",
+          "taxonomy_desc": "Psychiatry & Neurology, Neurology",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2084P0800X",
+          "taxonomy_desc": "Psychiatry & Neurology, Psychiatry",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208600000X",
+          "taxonomy_desc": "Surgery",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208VP0014X",
+          "taxonomy_desc": "Pain Medicine, Interventional Pain Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "282NC0060X",
+          "taxonomy_desc": "General Acute Care Hospital, Critical Access",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03458",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934324"
+      }
+    },
+    {
+      "npi": "1932978715",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "SALVADORE",
+        "middle_name": "RALPH",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "452 OLD STREET RD",
+        "address_line_2": null,
+        "city": "PETERBOROUGH",
+        "state": "NH",
+        "postal_code": "034581295",
+        "telephone": "603-924-7191",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2956"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03458",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934336"
+      }
+    },
+    {
+      "npi": "1578183927",
+      "personal_info": {
+        "first_name": "CARA",
+        "last_name": "WEINER",
+        "middle_name": "S.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1719"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03458",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934348"
+      }
+    },
+    {
+      "npi": "1467926295",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "DEMASCO",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 232410",
+        "address_line_2": null,
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "postal_code": "921932410",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207P00000X",
+          "taxonomy_desc": "Emergency Medicine",
+          "primary": false,
+          "state": "CA",
+          "license": "56677"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "CA",
+          "license": "PA56677"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03470",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934362"
+      }
+    },
+    {
+      "npi": "1992815534",
+      "personal_info": {
+        "first_name": "MOIRA",
+        "last_name": "LAWLOR",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "215 N MAIN ST",
+        "address_line_2": null,
+        "city": "WHITE RIVER JUNCTION",
+        "state": "VT",
+        "postal_code": "050090001",
+        "telephone": "802-295-9363",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0546"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03602",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934375"
+      }
+    },
+    {
+      "npi": "1174605802",
+      "personal_info": {
+        "first_name": "SUSAN",
+        "last_name": "MAYDWELL",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "113 PINE CLIFF RD",
+        "address_line_2": null,
+        "city": "ALSTEAD",
+        "state": "NH",
+        "postal_code": "036023817",
+        "telephone": "603-835-2294",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NH",
+          "license": "0465"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03602",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934388"
+      }
+    },
+    {
+      "npi": "1568994614",
+      "personal_info": {
+        "first_name": "ANNA",
+        "last_name": "BLANC",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1487"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "03608",
+        "retrieved_timestamp": "2025-02-18T04:00:03.934400"
+      }
+    }
+  ]
+}

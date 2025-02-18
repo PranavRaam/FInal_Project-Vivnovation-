@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "msa_name": "Coco, PR MicroSA",
+    "query_timestamp": "2025-02-18T03:47:13.806650",
+    "total_physicians": 1,
+    "specialty_distribution": {
+      "Physician Assistant": 1,
+      "Speech-Language Pathologist,  ": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1144617127",
+      "personal_info": {
+        "first_name": "NORMA",
+        "last_name": "SOTOMAYOR",
+        "middle_name": "LETICIA",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "4280 W VISTA CT",
+        "address_line_2": null,
+        "city": "KISSIMMEE",
+        "state": "FL",
+        "postal_code": "347464038",
+        "telephone": "787-449-4405",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PR",
+          "license": "1532"
+        },
+        {
+          "taxonomy_code": "235Z00000X",
+          "taxonomy_desc": "Speech-Language Pathologist,  ",
+          "primary": true,
+          "state": "PR",
+          "license": "3039"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "00751",
+        "retrieved_timestamp": "2025-02-18T03:47:13.806674"
+      }
+    }
+  ]
+}

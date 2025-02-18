@@ -1,0 +1,2804 @@
+{
+  "metadata": {
+    "msa_name": "Vineland, NJ MSA",
+    "query_timestamp": "2025-02-18T04:15:10.056253",
+    "total_physicians": 73,
+    "specialty_distribution": {
+      "Physician Assistant": 61,
+      "Physician Assistant, Medical": 18,
+      "Physician Assistant, Surgical": 15,
+      "Orthopaedic Surgery": 4,
+      "Physical Medicine & Rehabilitation": 4,
+      "Clinical Nurse Specialist, Oncology": 2,
+      "Chiropractor": 2,
+      "Neurological Surgery": 2,
+      "Orthopaedic Surgery, Orthopaedic Surgery of the Spine": 2,
+      "Psychiatry & Neurology, Pain Medicine": 2,
+      "Pain Medicine, Interventional Pain Medicine": 2,
+      "Physical Therapist": 2,
+      "Physical Medicine & Rehabilitation, Pain Medicine": 2,
+      "Family Medicine": 1,
+      "Student in an Organized Health Care Education/Training Program": 1,
+      "Specialist/Technologist, Athletic Trainer": 1,
+      "Internal Medicine": 1,
+      "Durable Medical Equipment & Medical Supplies": 1,
+      "Nurse Practitioner": 1,
+      "Surgery": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1659597870",
+      "personal_info": {
+        "first_name": "TODD",
+        "last_name": "CECCHINI",
+        "middle_name": "FRANCIS COX",
+        "credential": "Physician Assistant",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "701 ROADSTOWN ROAD",
+        "address_line_2": null,
+        "city": "BRIDGETON",
+        "state": "NJ",
+        "postal_code": "08302",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "DE",
+          "license": "C5-0000387"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NY",
+          "license": "015765-1"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08302",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056274"
+      }
+    },
+    {
+      "npi": "1881086460",
+      "personal_info": {
+        "first_name": "ASHLEY",
+        "last_name": "GOLDEN",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "394 STILLMAN AVE",
+        "address_line_2": null,
+        "city": "BRIDGETON",
+        "state": "NJ",
+        "postal_code": "083024881",
+        "telephone": "810-623-9870",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "CA",
+          "license": "53355"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00365200"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA057464"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08302",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056282"
+      }
+    },
+    {
+      "npi": "1649769878",
+      "personal_info": {
+        "first_name": "ANDREW",
+        "last_name": "HARRISON",
+        "middle_name": "C",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 FEDERAL ST # 200",
+        "address_line_2": null,
+        "city": "CAMDEN",
+        "state": "NJ",
+        "postal_code": "081031088",
+        "telephone": "856-356-4924",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00470100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08302",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056290"
+      }
+    },
+    {
+      "npi": "1619366317",
+      "personal_info": {
+        "first_name": "MARIA",
+        "last_name": "MARTINEZ",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "24 PARTRIDGE CT",
+        "address_line_2": null,
+        "city": "BRIDGETON",
+        "state": "NJ",
+        "postal_code": "083029461",
+        "telephone": "856-451-1746",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00358300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08302",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056296"
+      }
+    },
+    {
+      "npi": "1497888259",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "SENISCH",
+        "middle_name": "CHARLES",
+        "credential": "Physician Assistant",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "38 PINDALE DR",
+        "address_line_2": null,
+        "city": "BRIDGETON",
+        "state": "NJ",
+        "postal_code": "083024901",
+        "telephone": "856-455-7979",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00011800"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "DE",
+          "license": "C5-0000539"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08302",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056301"
+      }
+    },
+    {
+      "npi": "1538160015",
+      "personal_info": {
+        "first_name": "STACEY",
+        "last_name": "SMICK",
+        "middle_name": "L",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "70 CORNWELL DR",
+        "address_line_2": null,
+        "city": "BRIDGETON",
+        "state": "NJ",
+        "postal_code": "083023602",
+        "telephone": "856-455-6770",
+        "fax": "856-455-6030"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00066000"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08302",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056308"
+      }
+    },
+    {
+      "npi": "1902375835",
+      "personal_info": {
+        "first_name": "LAURA",
+        "last_name": "MORRIS",
+        "middle_name": "ELIZABETH",
+        "credential": "Ms, PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "285 MARSHALLVILLE RD",
+        "address_line_2": null,
+        "city": "WOODBINE",
+        "state": "NJ",
+        "postal_code": "082709722",
+        "telephone": "609-335-8702",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "CT",
+          "license": "4338"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08270",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056316"
+      }
+    },
+    {
+      "npi": "1003078171",
+      "personal_info": {
+        "first_name": "ALEXANDERA",
+        "last_name": "CLARKE",
+        "middle_name": "K",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "420 FRONT STREET",
+        "address_line_2": null,
+        "city": "ELMER",
+        "state": "NJ",
+        "postal_code": "083182177",
+        "telephone": "856-358-1500",
+        "fax": "856-358-1117"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NY",
+          "license": "012576"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NY",
+          "license": "0125761"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08318",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056323"
+      }
+    },
+    {
+      "npi": "1801291109",
+      "personal_info": {
+        "first_name": "BRITTANY",
+        "last_name": "DAVIS",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "420 FRONT ST",
+        "address_line_2": "PO BOX 578",
+        "city": "ELMER",
+        "state": "NJ",
+        "postal_code": "083182177",
+        "telephone": "856-358-1500",
+        "fax": "856-358-6985"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NY",
+          "license": "018223"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25mp00396400"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08318",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056330"
+      }
+    },
+    {
+      "npi": "1134946700",
+      "personal_info": {
+        "first_name": "KATELYN",
+        "last_name": "DEAN",
+        "middle_name": "MICHELLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "501 FRONT ST",
+        "address_line_2": null,
+        "city": "ELMER",
+        "state": "NJ",
+        "postal_code": "083182101",
+        "telephone": "856-641-7516",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA065858"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00882100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08318",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056336"
+      }
+    },
+    {
+      "npi": "1316627813",
+      "personal_info": {
+        "first_name": "JACOB",
+        "last_name": "EBNER",
+        "middle_name": "MARK",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "107 CEDAR RD",
+        "address_line_2": null,
+        "city": "PITTSGROVE",
+        "state": "NJ",
+        "postal_code": "083183830",
+        "telephone": "856-275-5492",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "DE",
+          "license": "C5-0012175"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08318",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056341"
+      }
+    },
+    {
+      "npi": "1578166161",
+      "personal_info": {
+        "first_name": "TAYLOR",
+        "last_name": "MAGEE",
+        "middle_name": "ROSE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1200 EAGLE AVE",
+        "address_line_2": null,
+        "city": "OCEAN",
+        "state": "NJ",
+        "postal_code": "077127631",
+        "telephone": "732-775-6581",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00586700"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08318",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056347"
+      }
+    },
+    {
+      "npi": "1164010856",
+      "personal_info": {
+        "first_name": "CLOE",
+        "last_name": "SAVINO",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "420 FRONT ST",
+        "address_line_2": null,
+        "city": "ELMER",
+        "state": "NJ",
+        "postal_code": "083182177",
+        "telephone": "860-575-6346",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00697600"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08318",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056352"
+      }
+    },
+    {
+      "npi": "1477957736",
+      "personal_info": {
+        "first_name": "SAMANTHA",
+        "last_name": "ADERHOLDT",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "3 ELIZABETH AVE",
+        "address_line_2": null,
+        "city": "MILLVILLE",
+        "state": "NJ",
+        "postal_code": "08332",
+        "telephone": "856-641-6272",
+        "fax": "856-327-6588"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00348500"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08332",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056361"
+      }
+    },
+    {
+      "npi": "1164203030",
+      "personal_info": {
+        "first_name": "ALEXANDRA",
+        "last_name": "BURROWS",
+        "middle_name": "RAE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2556 LONG LN",
+        "address_line_2": null,
+        "city": "LEBANON",
+        "state": "PA",
+        "postal_code": "170461714",
+        "telephone": "717-376-8150",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": false,
+          "state": "PA",
+          "license": "1211175"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "1211175"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "PA",
+          "license": "1211175"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08332",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056369"
+      }
+    },
+    {
+      "npi": "1851967392",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "CONSALO",
+        "middle_name": null,
+        "credential": "Physician Assistant",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1301 S LINCOLN AVE APT 918",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083616692",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00610500"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08332",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056374"
+      }
+    },
+    {
+      "npi": "1689102055",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "GREICO",
+        "middle_name": "V",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1700 N 10TH ST",
+        "address_line_2": null,
+        "city": "MILLVILLE",
+        "state": "NJ",
+        "postal_code": "083322042",
+        "telephone": "856-327-6446",
+        "fax": "856-327-0158"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00424800"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08332",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056380"
+      }
+    },
+    {
+      "npi": "1598203051",
+      "personal_info": {
+        "first_name": "DOMINIQUE",
+        "last_name": "KOONS",
+        "middle_name": "CHRISTINA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1505 W SHERMAN AVE STE 112",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083607059",
+        "telephone": "856-641-7920",
+        "fax": "856-641-7915"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "364SX0200X",
+          "taxonomy_desc": "Clinical Nurse Specialist, Oncology",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00421800"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00421800"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08332",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056387"
+      }
+    },
+    {
+      "npi": "1902561525",
+      "personal_info": {
+        "first_name": "SABRINA",
+        "last_name": "WYNNE",
+        "middle_name": "MARIAH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "258 CHERRY LN",
+        "address_line_2": null,
+        "city": "MILLVILLE",
+        "state": "NJ",
+        "postal_code": "083324129",
+        "telephone": "856-265-7659",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00660100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08332",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056394"
+      }
+    },
+    {
+      "npi": "1851967392",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "CONSALO",
+        "middle_name": null,
+        "credential": "Physician Assistant",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1301 S LINCOLN AVE APT 918",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083616692",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00610500"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08361",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056400"
+      }
+    },
+    {
+      "npi": "1801569603",
+      "personal_info": {
+        "first_name": "ASHLEY",
+        "last_name": "GONZALEZ",
+        "middle_name": "KRISTINE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1550 CLOVER AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083616540",
+        "telephone": "856-506-9871",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08361",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056406"
+      }
+    },
+    {
+      "npi": "1659512093",
+      "personal_info": {
+        "first_name": "SIMONE",
+        "last_name": "NOBLE",
+        "middle_name": "D",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2466 E CHESTNUT AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083618486",
+        "telephone": "856-691-3442",
+        "fax": "856-691-6582"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00211100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08361",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056412"
+      }
+    },
+    {
+      "npi": "1922771377",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "2500 MORRIS AVE STE 220",
+        "address_line_2": null,
+        "city": "UNION",
+        "state": "NJ",
+        "postal_code": "070835675",
+        "telephone": "738-906-9600",
+        "fax": "732-377-0393"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "111N00000X",
+          "taxonomy_desc": "Chiropractor",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207T00000X",
+          "taxonomy_desc": "Neurological Surgery",
+          "primary": true,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207X00000X",
+          "taxonomy_desc": "Orthopaedic Surgery",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207XS0117X",
+          "taxonomy_desc": "Orthopaedic Surgery, Orthopaedic Surgery of the Spine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208100000X",
+          "taxonomy_desc": "Physical Medicine & Rehabilitation",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2084P2900X",
+          "taxonomy_desc": "Psychiatry & Neurology, Pain Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208VP0014X",
+          "taxonomy_desc": "Pain Medicine, Interventional Pain Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "225100000X",
+          "taxonomy_desc": "Physical Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08361",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056420"
+      }
+    },
+    {
+      "npi": "1003644477",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "SANTORO",
+        "middle_name": "ALWINE",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "6308 BENSEN AVE",
+        "address_line_2": null,
+        "city": "MAYS LANDING",
+        "state": "NJ",
+        "postal_code": "083301104",
+        "telephone": "856-558-1574",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00870000"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08361",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056426"
+      }
+    },
+    {
+      "npi": "1053414110",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "THOMAS",
+        "middle_name": "L",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2466 E CHESTNUT AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "08361",
+        "telephone": "856-691-3442",
+        "fax": "856-691-6582"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00113200"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08361",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056432"
+      }
+    },
+    {
+      "npi": "1295316818",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "AUCOTT",
+        "middle_name": "MICHELLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1113 W DUERER ST",
+        "address_line_2": null,
+        "city": "EGG HARBOR CITY",
+        "state": "NJ",
+        "postal_code": "082153112",
+        "telephone": "609-214-1409",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00616400"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056439"
+      }
+    },
+    {
+      "npi": "1073508826",
+      "personal_info": {
+        "first_name": "ANGELA",
+        "last_name": "BEAMS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "301 S MAIN RD",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083607897",
+        "telephone": "856-692-0502",
+        "fax": "856-691-1710"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00529200"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "FL",
+          "license": "PA3146"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056444"
+      }
+    },
+    {
+      "npi": "1265277305",
+      "personal_info": {
+        "first_name": "KELSEY",
+        "last_name": "BIONDI",
+        "middle_name": "ELIZABETH",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4543 POST RD",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083609321",
+        "telephone": "609-774-1056",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056450"
+      }
+    },
+    {
+      "npi": "1811214638",
+      "personal_info": {
+        "first_name": "CHRISTIAN",
+        "last_name": "BRENNER",
+        "middle_name": "MICHAEL",
+        "credential": "PA-C, ATC",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "352 S DELSEA DR STE C",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083605306",
+        "telephone": "856-690-1616",
+        "fax": "856-896-6107"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "2255A2300X",
+          "taxonomy_desc": "Specialist/Technologist, Athletic Trainer",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MT00153100"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056457"
+      }
+    },
+    {
+      "npi": "1609632652",
+      "personal_info": {
+        "first_name": "CAROLINE",
+        "last_name": "CASEY",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "134 BRIDGETON PIKE STE C",
+        "address_line_2": null,
+        "city": "MULLICA HILL",
+        "state": "NJ",
+        "postal_code": "080622616",
+        "telephone": "856-507-2783",
+        "fax": "856-221-4138"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00838400"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056463"
+      }
+    },
+    {
+      "npi": "1063817880",
+      "personal_info": {
+        "first_name": "ANTHONY",
+        "last_name": "CHAMPION",
+        "middle_name": "W",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "541 S CAPE MAY AVE",
+        "address_line_2": null,
+        "city": "EGG HARBOR CITY",
+        "state": "NJ",
+        "postal_code": "082151767",
+        "telephone": "609-385-5452",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00347900"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056469"
+      }
+    },
+    {
+      "npi": "1487386280",
+      "personal_info": {
+        "first_name": "JASON",
+        "last_name": "CLAPPER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "352 S DELSEA DR UNIT C",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083605308",
+        "telephone": "856-690-1616",
+        "fax": "856-690-1089"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00708200"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056474"
+      }
+    },
+    {
+      "npi": "1245871334",
+      "personal_info": {
+        "first_name": "TERRELL",
+        "last_name": "COLLINS",
+        "middle_name": "AMANDA",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1297 W LANDIS AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083603423",
+        "telephone": "856-507-8548",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056480"
+      }
+    },
+    {
+      "npi": "1952646747",
+      "personal_info": {
+        "first_name": "KAITLIN",
+        "last_name": "CONNELLY",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "352 S DELSEA DR UNIT C",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083605308",
+        "telephone": "856-690-1616",
+        "fax": "856-896-6107"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00298300"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056488"
+      }
+    },
+    {
+      "npi": "1487201828",
+      "personal_info": {
+        "first_name": "ERIN",
+        "last_name": "COX",
+        "middle_name": "ELIZABETH",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "750 BRUNSWICK AVE",
+        "address_line_2": null,
+        "city": "TRENTON",
+        "state": "NJ",
+        "postal_code": "086384143",
+        "telephone": "609-610-3966",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056495"
+      }
+    },
+    {
+      "npi": "1154165363",
+      "personal_info": {
+        "first_name": "TIFFANY",
+        "last_name": "CROSS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1341 BAYLOR AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083604470",
+        "telephone": "856-332-7896",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056501"
+      }
+    },
+    {
+      "npi": "1972079440",
+      "personal_info": {
+        "first_name": "YANNI",
+        "last_name": "CRUZ",
+        "middle_name": "EBORAS",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 416457",
+        "address_line_2": null,
+        "city": "BOSTON",
+        "state": "MA",
+        "postal_code": "022416911",
+        "telephone": "844-362-1735",
+        "fax": "973-290-7495"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA060289"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "OA004670"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00498800"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056508"
+      }
+    },
+    {
+      "npi": "1134946700",
+      "personal_info": {
+        "first_name": "KATELYN",
+        "last_name": "DEAN",
+        "middle_name": "MICHELLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "501 FRONT ST",
+        "address_line_2": null,
+        "city": "ELMER",
+        "state": "NJ",
+        "postal_code": "083182101",
+        "telephone": "856-641-7516",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA065858"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00882100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056515"
+      }
+    },
+    {
+      "npi": "1942565528",
+      "personal_info": {
+        "first_name": "NICHOLAS",
+        "last_name": "DIGNAZIO",
+        "middle_name": "D",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "352 S DELSEA DR UNIT C",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083605308",
+        "telephone": "856-690-1616",
+        "fax": "856-690-1089"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA055388"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00283900"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056523"
+      }
+    },
+    {
+      "npi": "1336732957",
+      "personal_info": {
+        "first_name": "TAYLOR",
+        "last_name": "EBLING",
+        "middle_name": "ANN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "301 S MAIN RD",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083607897",
+        "telephone": "856-629-0502",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA062346"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00596500"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056529"
+      }
+    },
+    {
+      "npi": "1831482355",
+      "personal_info": {
+        "first_name": "MARY",
+        "last_name": "ENDICOTT",
+        "middle_name": "ALLISON",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1206 W SHERMAN AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083606911",
+        "telephone": "856-696-9933",
+        "fax": "856-696-9939"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00255200"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056536"
+      }
+    },
+    {
+      "npi": "1205105954",
+      "personal_info": {
+        "first_name": "RANDALL",
+        "last_name": "FABER",
+        "middle_name": "BARRY",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 FEDERAL ST STE 200",
+        "address_line_2": null,
+        "city": "CAMDEN",
+        "state": "NJ",
+        "postal_code": "081031088",
+        "telephone": "848-288-6935",
+        "fax": "732-790-0107"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00283700"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056542"
+      }
+    },
+    {
+      "npi": "1891158531",
+      "personal_info": {
+        "first_name": "JOHN",
+        "last_name": "FERRARO",
+        "middle_name": "B",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "352 S DELSEA DR STE C",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083605306",
+        "telephone": "856-690-1616",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00392700"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056548"
+      }
+    },
+    {
+      "npi": "1033447792",
+      "personal_info": {
+        "first_name": "DANIELLE",
+        "last_name": "FRANCIS",
+        "middle_name": "K",
+        "credential": "P.A.",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "352 S DELSEA DR STE C",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083605306",
+        "telephone": "856-690-1616",
+        "fax": "856-690-1089"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25mp00229700"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056555"
+      }
+    },
+    {
+      "npi": "1831780576",
+      "personal_info": {
+        "first_name": "EMILY",
+        "last_name": "GARDNER",
+        "middle_name": "LAUREN",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4000 CHURCH RD",
+        "address_line_2": null,
+        "city": "MOUNT LAUREL",
+        "state": "NJ",
+        "postal_code": "080541110",
+        "telephone": "856-222-4444",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00604000"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056561"
+      }
+    },
+    {
+      "npi": "1417608993",
+      "personal_info": {
+        "first_name": "ERIN",
+        "last_name": "GIDDENS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "640 N BROAD ST APT 631",
+        "address_line_2": null,
+        "city": "PHILADELPHIA",
+        "state": "PA",
+        "postal_code": "191303420",
+        "telephone": "407-803-2018",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056567"
+      }
+    },
+    {
+      "npi": "1346464971",
+      "personal_info": {
+        "first_name": "IAN",
+        "last_name": "GRAY",
+        "middle_name": "ROSS",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "352 S DELSEA DR STE C",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083605306",
+        "telephone": "856-690-1616",
+        "fax": "856-896-6107"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00160500"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "PA",
+          "license": "MA052484"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056573"
+      }
+    },
+    {
+      "npi": "1972016897",
+      "personal_info": {
+        "first_name": "TAYLOR",
+        "last_name": "HADLEY",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "333 N SHORE RD",
+        "address_line_2": null,
+        "city": "MARMORA",
+        "state": "NJ",
+        "postal_code": "082231601",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00453700"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056580"
+      }
+    },
+    {
+      "npi": "1477924033",
+      "personal_info": {
+        "first_name": "ANNABELLE",
+        "last_name": "HERRON",
+        "middle_name": "ANITA",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "301 LIPPINCOTT DR STE 410",
+        "address_line_2": null,
+        "city": "MARLTON",
+        "state": "NJ",
+        "postal_code": "080534197",
+        "telephone": "856-355-0340",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00876700"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056586"
+      }
+    },
+    {
+      "npi": "1013141423",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "1237 W SHERMAN AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083606920",
+        "telephone": "954-377-2909",
+        "fax": "865-560-7089"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NJ",
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056593"
+      }
+    },
+    {
+      "npi": "1841624566",
+      "personal_info": {
+        "first_name": "ALEXANDREA",
+        "last_name": "JARED",
+        "middle_name": "PERRY",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "3601 THE VANDERBILT CLINIC",
+        "address_line_2": null,
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postal_code": "372326933",
+        "telephone": "615-936-2000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00317000"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "TN",
+          "license": "5027"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056600"
+      }
+    },
+    {
+      "npi": "1770050171",
+      "personal_info": {
+        "first_name": "JULIANNE",
+        "last_name": "JUSTICE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1505 W SHERMAN AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083607059",
+        "telephone": "856-641-8000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00501000"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056606"
+      }
+    },
+    {
+      "npi": "1972001519",
+      "personal_info": {
+        "first_name": "KYLE",
+        "last_name": "KNOWLES",
+        "middle_name": "JAMES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2605 N BLUE BELL RD",
+        "address_line_2": null,
+        "city": "FRANKLINVILLE",
+        "state": "NJ",
+        "postal_code": "083223301",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00456000"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056611"
+      }
+    },
+    {
+      "npi": "1598203051",
+      "personal_info": {
+        "first_name": "DOMINIQUE",
+        "last_name": "KOONS",
+        "middle_name": "CHRISTINA",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1505 W SHERMAN AVE STE 112",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083607059",
+        "telephone": "856-641-7920",
+        "fax": "856-641-7915"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "364SX0200X",
+          "taxonomy_desc": "Clinical Nurse Specialist, Oncology",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00421800"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00421800"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056617"
+      }
+    },
+    {
+      "npi": "1295007052",
+      "personal_info": {
+        "first_name": "BERNADETTE",
+        "last_name": "LIVEWELL",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "4000 CHURCH RD",
+        "address_line_2": null,
+        "city": "MOUNT LAUREL",
+        "state": "NJ",
+        "postal_code": "080541110",
+        "telephone": "856-222-4444",
+        "fax": "856-222-0049"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00277600"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056624"
+      }
+    },
+    {
+      "npi": "1538640214",
+      "personal_info": {
+        "first_name": "MATTHEW",
+        "last_name": "LOUIS",
+        "middle_name": "B",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "415 W LANDIS AVE STE 102",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083608135",
+        "telephone": "888-985-2727",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00491700"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056631"
+      }
+    },
+    {
+      "npi": "1437483179",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "MAINES",
+        "middle_name": "I",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "134 BRIDGETON PIKE STE C",
+        "address_line_2": null,
+        "city": "MULLICA HILL",
+        "state": "NJ",
+        "postal_code": "080622616",
+        "telephone": "856-507-2783",
+        "fax": "856-221-4138"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25mp00224700"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056637"
+      }
+    },
+    {
+      "npi": "1194305722",
+      "personal_info": {
+        "first_name": "HEATHER",
+        "last_name": "MALIA",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "148 ALDER AVE",
+        "address_line_2": null,
+        "city": "EGG HARBOR TWP",
+        "state": "NJ",
+        "postal_code": "082345331",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00609800"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056642"
+      }
+    },
+    {
+      "npi": "1285935981",
+      "personal_info": {
+        "first_name": "NADINE",
+        "last_name": "MILES",
+        "middle_name": "G.",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1907 GREENTREE RD",
+        "address_line_2": null,
+        "city": "CHERRY HILL",
+        "state": "NJ",
+        "postal_code": "080031112",
+        "telephone": "856-424-8222",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00244000"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056648"
+      }
+    },
+    {
+      "npi": "1033514351",
+      "personal_info": {
+        "first_name": "CHRISTIE",
+        "last_name": "MORRIS",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 FEDERAL ST # 200",
+        "address_line_2": null,
+        "city": "CAMDEN",
+        "state": "NJ",
+        "postal_code": "081031088",
+        "telephone": "856-356-4924",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00347100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056653"
+      }
+    },
+    {
+      "npi": "1104532803",
+      "personal_info": {
+        "first_name": "ANASTASIYA",
+        "last_name": "MULYAR",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1206 W SHERMAN AVE BLDG 2A",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083606911",
+        "telephone": "856-696-9933",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00758100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056658"
+      }
+    },
+    {
+      "npi": "1548927536",
+      "personal_info": {
+        "first_name": "ROSHNI",
+        "last_name": "PATEL",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "606 E MARSHALL ST",
+        "address_line_2": null,
+        "city": "WEST CHESTER",
+        "state": "PA",
+        "postal_code": "193804452",
+        "telephone": "610-436-8440",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "PA",
+          "license": "MA062790"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056664"
+      }
+    },
+    {
+      "npi": "1922771377",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "2500 MORRIS AVE STE 220",
+        "address_line_2": null,
+        "city": "UNION",
+        "state": "NJ",
+        "postal_code": "070835675",
+        "telephone": "738-906-9600",
+        "fax": "732-377-0393"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "111N00000X",
+          "taxonomy_desc": "Chiropractor",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207T00000X",
+          "taxonomy_desc": "Neurological Surgery",
+          "primary": true,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207X00000X",
+          "taxonomy_desc": "Orthopaedic Surgery",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207XS0117X",
+          "taxonomy_desc": "Orthopaedic Surgery, Orthopaedic Surgery of the Spine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208100000X",
+          "taxonomy_desc": "Physical Medicine & Rehabilitation",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2084P2900X",
+          "taxonomy_desc": "Psychiatry & Neurology, Pain Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208VP0014X",
+          "taxonomy_desc": "Pain Medicine, Interventional Pain Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "225100000X",
+          "taxonomy_desc": "Physical Therapist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056672"
+      }
+    },
+    {
+      "npi": "1679979090",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "4 EVES DR # A",
+        "address_line_2": "SUITE 100",
+        "city": "MARLTON",
+        "state": "NJ",
+        "postal_code": "080533195",
+        "telephone": "609-267-9400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "208100000X",
+          "taxonomy_desc": "Physical Medicine & Rehabilitation",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2081P2900X",
+          "taxonomy_desc": "Physical Medicine & Rehabilitation, Pain Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207X00000X",
+          "taxonomy_desc": "Orthopaedic Surgery",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056680"
+      }
+    },
+    {
+      "npi": "1700474962",
+      "personal_info": {
+        "first_name": "MARTIN",
+        "last_name": "ROKITA",
+        "middle_name": "STEFAN",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "301 LIPPINCOTT DR STE 410",
+        "address_line_2": null,
+        "city": "MARLTON",
+        "state": "NJ",
+        "postal_code": "080534197",
+        "telephone": "856-355-0340",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00698200"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056685"
+      }
+    },
+    {
+      "npi": "1225547003",
+      "personal_info": {
+        "first_name": "KRISTEN",
+        "last_name": "SCHAFFER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1505 W SHERMAN AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083607059",
+        "telephone": "856-641-8000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00446400"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00446400"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056692"
+      }
+    },
+    {
+      "npi": "1013735505",
+      "personal_info": {
+        "first_name": "NICHOLE",
+        "last_name": "SMITH",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1505 W SHERMAN AVE",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083607059",
+        "telephone": "856-641-8000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056697"
+      }
+    },
+    {
+      "npi": "1225794928",
+      "personal_info": {
+        "first_name": "MIRANDA",
+        "last_name": "TURNER",
+        "middle_name": "ALEXANDRA",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "431 MULLICA HILL RD",
+        "address_line_2": null,
+        "city": "MULLICA HILL",
+        "state": "NJ",
+        "postal_code": "080622663",
+        "telephone": "856-472-3137",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00665600"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056702"
+      }
+    },
+    {
+      "npi": "1275217440",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "301 LIPPINCOTT DR STE 410",
+        "address_line_2": null,
+        "city": "MARLTON",
+        "state": "NJ",
+        "postal_code": "080534197",
+        "telephone": "856-355-0340",
+        "fax": "856-355-0330"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207X00000X",
+          "taxonomy_desc": "Orthopaedic Surgery",
+          "primary": true,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208100000X",
+          "taxonomy_desc": "Physical Medicine & Rehabilitation",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2081P2900X",
+          "taxonomy_desc": "Physical Medicine & Rehabilitation, Pain Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "332B00000X",
+          "taxonomy_desc": "Durable Medical Equipment & Medical Supplies",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056709"
+      }
+    },
+    {
+      "npi": "1043597800",
+      "personal_info": {
+        "first_name": "JAYME",
+        "last_name": "WHITE",
+        "middle_name": "N",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "352 S DELSEA DR STE C",
+        "address_line_2": null,
+        "city": "VINELAND",
+        "state": "NJ",
+        "postal_code": "083605306",
+        "telephone": "856-690-1616",
+        "fax": "856-896-6107"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00272000"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056716"
+      }
+    },
+    {
+      "npi": "1114222940",
+      "personal_info": {
+        "first_name": "ALISON",
+        "last_name": "WIELAND",
+        "middle_name": "LEE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1420 WHITTINGTON DR",
+        "address_line_2": null,
+        "city": "RALEIGH",
+        "state": "NC",
+        "postal_code": "276148755",
+        "telephone": "610-704-9914",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "208600000X",
+          "taxonomy_desc": "Surgery",
+          "primary": false,
+          "state": "NC",
+          "license": "0010-08477"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00245800"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056722"
+      }
+    },
+    {
+      "npi": "1982992541",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "WITT",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1 FEDERAL ST STE 200",
+        "address_line_2": null,
+        "city": "CAMDEN",
+        "state": "NJ",
+        "postal_code": "081031088",
+        "telephone": "848-288-6935",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00281000"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056728"
+      }
+    },
+    {
+      "npi": "1902561525",
+      "personal_info": {
+        "first_name": "SABRINA",
+        "last_name": "WYNNE",
+        "middle_name": "MARIAH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "258 CHERRY LN",
+        "address_line_2": null,
+        "city": "MILLVILLE",
+        "state": "NJ",
+        "postal_code": "083324129",
+        "telephone": "856-265-7659",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "NJ",
+          "license": "25MP00660100"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "08360",
+        "retrieved_timestamp": "2025-02-18T04:15:10.056734"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1972 @@
+{
+  "metadata": {
+    "msa_name": "Brattleboro, VT MicroSA",
+    "query_timestamp": "2025-02-18T04:04:07.591083",
+    "total_physicians": 51,
+    "specialty_distribution": {
+      "Physician Assistant": 62,
+      "Physician Assistant, Medical": 16,
+      "Physician Assistant, Surgical": 8,
+      "Student in an Organized Health Care Education/Training Program": 3,
+      "Family Medicine": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1568994614",
+      "personal_info": {
+        "first_name": "ANNA",
+        "last_name": "BLANC",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "590 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311719",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1487"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05101",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591100"
+      }
+    },
+    {
+      "npi": "1336573708",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "LAVOIE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL CT",
+        "address_line_2": "ROCKINGHAM MEDICAL GROUP",
+        "city": "BELLOWS FALLS",
+        "state": "VT",
+        "postal_code": "051011489",
+        "telephone": "802-463-9000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031180"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05101",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591107"
+      }
+    },
+    {
+      "npi": "1215264254",
+      "personal_info": {
+        "first_name": "BROOKE",
+        "last_name": "PRINGLE",
+        "middle_name": "E",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 710",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051560710",
+        "telephone": "802-463-9000",
+        "fax": "802-463-1290"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05101",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591113"
+      }
+    },
+    {
+      "npi": "1598462103",
+      "personal_info": {
+        "first_name": "JADE",
+        "last_name": "ORMROD-LEVEN",
+        "middle_name": "LILY",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "406 1ST AVE",
+        "address_line_2": null,
+        "city": "CHESTER",
+        "state": "VT",
+        "postal_code": "051438983",
+        "telephone": "802-299-9722",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031708"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05143",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591119"
+      }
+    },
+    {
+      "npi": "1205465762",
+      "personal_info": {
+        "first_name": "RACHEL",
+        "last_name": "YRSHA",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "25 JOHNSON HILL RD",
+        "address_line_2": null,
+        "city": "LONDONDERRY",
+        "state": "VT",
+        "postal_code": "051489606",
+        "telephone": "802-342-2526",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031534"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05148",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591127"
+      }
+    },
+    {
+      "npi": "1720429822",
+      "personal_info": {
+        "first_name": "LEANNE",
+        "last_name": "ALEXANDER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 RIDGEWOOD RD",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051563050",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031175"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591134"
+      }
+    },
+    {
+      "npi": "1124789482",
+      "personal_info": {
+        "first_name": "JAZMYNE",
+        "last_name": "BERRY",
+        "middle_name": "TAYLOR",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "100 RIVER ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051562930",
+        "telephone": "802-886-8902",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031642"
+        },
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591140"
+      }
+    },
+    {
+      "npi": "1679568349",
+      "personal_info": {
+        "first_name": "DARIN",
+        "last_name": "BRADLEY",
+        "middle_name": "WALTER STANLEY",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2002 S GLENBURNIE RD STE 100",
+        "address_line_2": null,
+        "city": "NEW BERN",
+        "state": "NC",
+        "postal_code": "285625229",
+        "telephone": "252-631-5188",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "VT",
+          "license": "055-0030633"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NC",
+          "license": "0010-11814"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591147"
+      }
+    },
+    {
+      "npi": "1811415193",
+      "personal_info": {
+        "first_name": "JULIA",
+        "last_name": "CHICKERING",
+        "middle_name": "ALISON",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 MEDICAL CENTER DR",
+        "address_line_2": null,
+        "city": "LEBANON",
+        "state": "NH",
+        "postal_code": "037560001",
+        "telephone": "603-650-5104",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "055.0031358"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1488"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591153"
+      }
+    },
+    {
+      "npi": "1073544409",
+      "personal_info": {
+        "first_name": "RUTH",
+        "last_name": "CODY",
+        "middle_name": "FINGERHUT",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "368 RIVER ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051562242",
+        "telephone": "802-886-2526",
+        "fax": "802-886-2225"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030156"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591159"
+      }
+    },
+    {
+      "npi": "1285730648",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "DUFFY",
+        "middle_name": "JAMES",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "355 RIVER ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051562221",
+        "telephone": "802-886-1954",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591166"
+      }
+    },
+    {
+      "npi": "1063850915",
+      "personal_info": {
+        "first_name": "WARREN",
+        "last_name": "FENNER",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 RIDGEWOOD RD",
+        "address_line_2": "EMERGENCY DEPARTMENT",
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051563050",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031215"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591172"
+      }
+    },
+    {
+      "npi": "1144870122",
+      "personal_info": {
+        "first_name": "BRITTANY",
+        "last_name": "GUBINSKI",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "357 W OREILLY ST",
+        "address_line_2": null,
+        "city": "KINGSTON",
+        "state": "NY",
+        "postal_code": "124015709",
+        "telephone": "845-416-8566",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591178"
+      }
+    },
+    {
+      "npi": "1124066642",
+      "personal_info": {
+        "first_name": "BENJAMIN",
+        "last_name": "HOLOBOWICZ",
+        "middle_name": null,
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "11 JOHN STARK HWY",
+        "address_line_2": null,
+        "city": "NEWPORT",
+        "state": "NH",
+        "postal_code": "037731807",
+        "telephone": "603-863-4100",
+        "fax": "603-863-3585"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "0550030828"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "NH",
+          "license": "0433P"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "0433P"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591184"
+      }
+    },
+    {
+      "npi": "1043617434",
+      "personal_info": {
+        "first_name": "ERIC",
+        "last_name": "JACOBSON",
+        "middle_name": "K",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "390 RIVER STREET",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051562226",
+        "telephone": "802-886-4500",
+        "fax": "802-886-4560"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "TX",
+          "license": "PA09021"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031321"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591191"
+      }
+    },
+    {
+      "npi": "1003138181",
+      "personal_info": {
+        "first_name": "SAMUEL",
+        "last_name": "KIPPENBERGER",
+        "middle_name": "M.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 RIDGEWOOD RD",
+        "address_line_2": "ESNE/SPRINGFIELD HOSPITAL EMERGENCY DEPARTMENT",
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051563050",
+        "telephone": "802-885-7540",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031092"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591197"
+      }
+    },
+    {
+      "npi": "1336573708",
+      "personal_info": {
+        "first_name": "LAUREN",
+        "last_name": "LAVOIE",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1 HOSPITAL CT",
+        "address_line_2": "ROCKINGHAM MEDICAL GROUP",
+        "city": "BELLOWS FALLS",
+        "state": "VT",
+        "postal_code": "051011489",
+        "telephone": "802-463-9000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031180"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591203"
+      }
+    },
+    {
+      "npi": "1194486357",
+      "personal_info": {
+        "first_name": "KATHRYN",
+        "last_name": "MACKSOUD",
+        "middle_name": "ANNE",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "100 RIVER ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051562930",
+        "telephone": "802-886-8900",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031598"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591208"
+      }
+    },
+    {
+      "npi": "1093726366",
+      "personal_info": {
+        "first_name": "TIMOTHY",
+        "last_name": "MELLO",
+        "middle_name": "J",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "29 RIDGEWOOD RD",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051563050",
+        "telephone": "802-885-6373",
+        "fax": "802-885-6376"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "0550030562"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0416P"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "VT",
+          "license": "0550030562"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NH",
+          "license": "0416P"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591215"
+      }
+    },
+    {
+      "npi": "1912434036",
+      "personal_info": {
+        "first_name": "ERIC",
+        "last_name": "PEDERSEN",
+        "middle_name": "SCOTT",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "250 PLEASANT ST",
+        "address_line_2": null,
+        "city": "CONCORD",
+        "state": "NH",
+        "postal_code": "033017539",
+        "telephone": "603-225-2711",
+        "fax": "603-224-6527"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "0550031341"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1321"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591222"
+      }
+    },
+    {
+      "npi": "1306872312",
+      "personal_info": {
+        "first_name": "ANTHONY",
+        "last_name": "PETRILLO",
+        "middle_name": "PASQUALE",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "368 RIVER ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051562242",
+        "telephone": "802-886-2526",
+        "fax": "802-886-2225"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030018"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591227"
+      }
+    },
+    {
+      "npi": "1497790950",
+      "personal_info": {
+        "first_name": "ELLEN",
+        "last_name": "PINTER",
+        "middle_name": "RENEE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "368 RIVER ST",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051562242",
+        "telephone": "802-886-2526",
+        "fax": "802-886-2225"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030008"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591234"
+      }
+    },
+    {
+      "npi": "1215264254",
+      "personal_info": {
+        "first_name": "BROOKE",
+        "last_name": "PRINGLE",
+        "middle_name": "E",
+        "credential": "PAC",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 710",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051560710",
+        "telephone": "802-463-9000",
+        "fax": "802-463-1290"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591239"
+      }
+    },
+    {
+      "npi": "1932824711",
+      "personal_info": {
+        "first_name": "HENDRY",
+        "last_name": "RODMAN",
+        "middle_name": "THOMPSON",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 RIDGEWOOD RD",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "051563057",
+        "telephone": "207-497-5614",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2433"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2433"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031704"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591246"
+      }
+    },
+    {
+      "npi": "1447452826",
+      "personal_info": {
+        "first_name": "JENNIFER",
+        "last_name": "SOPKO",
+        "middle_name": "NICOLE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 1189",
+        "address_line_2": null,
+        "city": "CORVALLIS",
+        "state": "OR",
+        "postal_code": "973391189",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "VT",
+          "license": "055.0031594"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "021537"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2342"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "OR",
+          "license": "PA218759"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591252"
+      }
+    },
+    {
+      "npi": "1811983307",
+      "personal_info": {
+        "first_name": "RACHEL",
+        "last_name": "SPENGLER",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 RIDGEWOOD ROAD",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "05156",
+        "telephone": "802-885-7540",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030544"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591258"
+      }
+    },
+    {
+      "npi": "1811200710",
+      "personal_info": {
+        "first_name": "JESSICA",
+        "last_name": "WHITE",
+        "middle_name": "ANNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "25 RIDGEWOOD RD.",
+        "address_line_2": null,
+        "city": "SPRINGFIELD",
+        "state": "VT",
+        "postal_code": "05156",
+        "telephone": "802-885-7540",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05156",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591262"
+      }
+    },
+    {
+      "npi": "1811349582",
+      "personal_info": {
+        "first_name": "JILLIAN",
+        "last_name": "BARNEY",
+        "middle_name": "ELIZABETH",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2585 HENDERSONVILLE RD",
+        "address_line_2": null,
+        "city": "ARDEN",
+        "state": "NC",
+        "postal_code": "287049577",
+        "telephone": "828-258-8800",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NC",
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MI",
+          "license": "5601009492"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA7834"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NC",
+          "license": "0010-06596"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591269"
+      }
+    },
+    {
+      "npi": "1457069494",
+      "personal_info": {
+        "first_name": "MACKENZIE",
+        "last_name": "BONNER",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "680 CENTRE ST",
+        "address_line_2": null,
+        "city": "BROCKTON",
+        "state": "MA",
+        "postal_code": "023023308",
+        "telephone": "508-941-7000",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "MA",
+          "license": "PA9164"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591276"
+      }
+    },
+    {
+      "npi": "1821543745",
+      "personal_info": {
+        "first_name": "NICOLE",
+        "last_name": "BRUGGER",
+        "middle_name": null,
+        "credential": "PAc-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 810",
+        "address_line_2": null,
+        "city": "HANOVER",
+        "state": "NH",
+        "postal_code": "037550810",
+        "telephone": "603-308-1453",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA5846"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "CT",
+          "license": "004568"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2029"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591282"
+      }
+    },
+    {
+      "npi": "1194177972",
+      "personal_info": {
+        "first_name": "VIVEK",
+        "last_name": "DESAI",
+        "middle_name": null,
+        "credential": null,
+        "gender": "M",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "20 PROSPECT AVE",
+        "address_line_2": null,
+        "city": "HACKENSACK",
+        "state": "NJ",
+        "postal_code": "076011997",
+        "telephone": "551-996-8867",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "MA",
+          "license": "PA6015"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA2330"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "NJ",
+          "license": "25MP00483300"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031539"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591289"
+      }
+    },
+    {
+      "npi": "1689609844",
+      "personal_info": {
+        "first_name": "ROBERT",
+        "last_name": "FEINBERG",
+        "middle_name": null,
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "74 PLEASANT ST",
+        "address_line_2": "STE 204",
+        "city": "NEW LONDON",
+        "state": "NH",
+        "postal_code": "032575881",
+        "telephone": "603-526-4635",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "UT",
+          "license": "6015963-1206"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031079"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591295"
+      }
+    },
+    {
+      "npi": "1477190742",
+      "personal_info": {
+        "first_name": "THATCHER",
+        "last_name": "FRIANT",
+        "middle_name": null,
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "580 COURT ST",
+        "address_line_2": null,
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034311729",
+        "telephone": "603-354-5400",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "1594"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "VT",
+          "license": "055.0031457"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591300"
+      }
+    },
+    {
+      "npi": "1326592015",
+      "personal_info": {
+        "first_name": "SARAH",
+        "last_name": "HILL",
+        "middle_name": "ELIZABETH",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "17 BELMONT AVE",
+        "address_line_2": "RICHARDS BUILDING",
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postal_code": "05301",
+        "telephone": "802-251-8611",
+        "fax": "802-251-8419"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "TN",
+          "license": "3178"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": false,
+          "state": "TN",
+          "license": "3178"
+        },
+        {
+          "taxonomy_code": "363AS0400X",
+          "taxonomy_desc": "Physician Assistant, Surgical",
+          "primary": true,
+          "state": "VT",
+          "license": "055.003151"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591306"
+      }
+    },
+    {
+      "npi": "1437469772",
+      "personal_info": {
+        "first_name": "DANIEL",
+        "last_name": "JOSEPH",
+        "middle_name": "G",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1154 PUTNEY RD",
+        "address_line_2": null,
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postal_code": "053019061",
+        "telephone": "802-490-2100",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "IN",
+          "license": "10001488A"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "014232"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NV",
+          "license": "PA1504"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031490"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591312"
+      }
+    },
+    {
+      "npi": "1982264289",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "KNIGHT",
+        "middle_name": "YVONNE",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "878 OLD WENDELL RD",
+        "address_line_2": null,
+        "city": "NORTHFIELD",
+        "state": "MA",
+        "postal_code": "013609677",
+        "telephone": "978-760-2272",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591317"
+      }
+    },
+    {
+      "npi": "1710175385",
+      "personal_info": {
+        "first_name": "MAUREEN",
+        "last_name": "MAHONEY",
+        "middle_name": "MARY",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 810",
+        "address_line_2": null,
+        "city": "HANOVER",
+        "state": "NH",
+        "postal_code": "037550810",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "VT",
+          "license": "0550030864"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NH",
+          "license": "2313"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591322"
+      }
+    },
+    {
+      "npi": "1275509853",
+      "personal_info": {
+        "first_name": "JEFFREY",
+        "last_name": "MECKLING",
+        "middle_name": "G.",
+        "credential": "P.A.",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "21 BELMONT AVE",
+        "address_line_2": null,
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postal_code": "053017110",
+        "telephone": "802-258-3905",
+        "fax": "802-258-4903"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NY",
+          "license": "007856"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0031105"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591328"
+      }
+    },
+    {
+      "npi": "1679746937",
+      "personal_info": {
+        "first_name": "FAYE",
+        "last_name": "MINSKY",
+        "middle_name": null,
+        "credential": "RPA-C",
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "50 FORT HILL TER",
+        "address_line_2": null,
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010604008",
+        "telephone": "413-586-9560",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "0550030904"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591334"
+      }
+    },
+    {
+      "npi": "1306978523",
+      "personal_info": {
+        "first_name": "ANNE",
+        "last_name": "MONTGOMERY",
+        "middle_name": "CLOUTIER",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "21 BELMONT AVE",
+        "address_line_2": null,
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postal_code": "053017110",
+        "telephone": "802-257-2611",
+        "fax": "802-257-2655"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "55-0030154"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591338"
+      }
+    },
+    {
+      "npi": "1043611627",
+      "personal_info": {
+        "first_name": "SAMANTHA",
+        "last_name": "NADEAU",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 803",
+        "address_line_2": "ANNA MARSH LANE",
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postal_code": "05301",
+        "telephone": "802-257-7787",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031223"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591345"
+      }
+    },
+    {
+      "npi": "1356306963",
+      "personal_info": {
+        "first_name": "MARY",
+        "last_name": "O'BEIRNE",
+        "middle_name": "ANN",
+        "credential": "pa",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "600 BLAIR PARK RD",
+        "address_line_2": "SUITE 190",
+        "city": "WILLISTON",
+        "state": "VT",
+        "postal_code": "054957586",
+        "telephone": "802-860-1145",
+        "fax": "802-872-0282"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030498"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591350"
+      }
+    },
+    {
+      "npi": "1972568673",
+      "personal_info": {
+        "first_name": "JOHN",
+        "last_name": "STANCHFIELD",
+        "middle_name": "PAUL",
+        "credential": "pa",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "21 BELMONT AVE",
+        "address_line_2": null,
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postal_code": "053017110",
+        "telephone": "802-258-3905",
+        "fax": "802-258-4903"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030830"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05301",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591356"
+      }
+    },
+    {
+      "npi": "1952948770",
+      "personal_info": {
+        "first_name": "MORGAN",
+        "last_name": "BROADFOOT",
+        "middle_name": null,
+        "credential": "PA-C, MPAS",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "79 MAIN STREET",
+        "address_line_2": "PUTNEY FAMILY HEALTHCARE",
+        "city": "PUTNEY",
+        "state": "VT",
+        "postal_code": "053468318",
+        "telephone": "802-387-5581",
+        "fax": "802-387-6694"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031461"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05346",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591361"
+      }
+    },
+    {
+      "npi": "1235210014",
+      "personal_info": {
+        "first_name": "CHRISTOPHER",
+        "last_name": "WINNER",
+        "middle_name": "LEWIS",
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "505 ROUTE 30",
+        "address_line_2": null,
+        "city": "NEWFANE",
+        "state": "VT",
+        "postal_code": "05345",
+        "telephone": "802-365-7215",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05345",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591368"
+      }
+    },
+    {
+      "npi": "1497012793",
+      "personal_info": {
+        "first_name": "DANNY",
+        "last_name": "BALLENTINE",
+        "middle_name": "PAUL",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 216",
+        "address_line_2": "185 GRAFTON RD",
+        "city": "TOWNSHEND",
+        "state": "VT",
+        "postal_code": "053530216",
+        "telephone": "802-365-7920",
+        "fax": "802-365-3641"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "005.0031123"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05353",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591373"
+      }
+    },
+    {
+      "npi": "1407947039",
+      "personal_info": {
+        "first_name": "DONALD",
+        "last_name": "JACKSON",
+        "middle_name": "J.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 216",
+        "address_line_2": "185 GRAFTON RD.",
+        "city": "TOWNSHEND",
+        "state": "VT",
+        "postal_code": "053530216",
+        "telephone": "802-365-4331",
+        "fax": "802-365-7031"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030673"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05353",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591378"
+      }
+    },
+    {
+      "npi": "1003261439",
+      "personal_info": {
+        "first_name": "JEREMY",
+        "last_name": "MCWHORTER",
+        "middle_name": "C",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "289 COUNTY RD",
+        "address_line_2": null,
+        "city": "WINDSOR",
+        "state": "VT",
+        "postal_code": "050899000",
+        "telephone": "802-674-7220",
+        "fax": "802-674-7006"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "1844"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031298"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05353",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591384"
+      }
+    },
+    {
+      "npi": "1467424135",
+      "personal_info": {
+        "first_name": "WARREN",
+        "last_name": "MONTGOMERY",
+        "middle_name": "R",
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 216",
+        "address_line_2": null,
+        "city": "TOWNSHEND",
+        "state": "VT",
+        "postal_code": "053530216",
+        "telephone": "802-365-4331",
+        "fax": "802-365-7384"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055-0030984"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05353",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591389"
+      }
+    },
+    {
+      "npi": "1639445646",
+      "personal_info": {
+        "first_name": "JOSHUA",
+        "last_name": "ROSENBLUM",
+        "middle_name": "ADAM",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "185 GRAFTON RD",
+        "address_line_2": null,
+        "city": "TOWNSHEND",
+        "state": "VT",
+        "postal_code": "053538820",
+        "telephone": "802-365-7676",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NH",
+          "license": "0909"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "VT",
+          "license": "055.0031121"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05353",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591395"
+      }
+    },
+    {
+      "npi": "1306585682",
+      "personal_info": {
+        "first_name": "SAVANNAH",
+        "last_name": "NESBITT",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "43 CASTLE HILL RD",
+        "address_line_2": null,
+        "city": "WILMINGTON",
+        "state": "VT",
+        "postal_code": "053639745",
+        "telephone": "802-451-6230",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "05363",
+        "retrieved_timestamp": "2025-02-18T04:04:07.591400"
+      }
+    }
+  ]
+}

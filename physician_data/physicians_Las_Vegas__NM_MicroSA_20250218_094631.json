@@ -1,0 +1,701 @@
+{
+  "metadata": {
+    "msa_name": "Las Vegas, NM MicroSA",
+    "query_timestamp": "2025-02-18T09:46:31.506896",
+    "total_physicians": 16,
+    "specialty_distribution": {
+      "Physician Assistant, Medical": 10,
+      "Physician Assistant": 9,
+      "Nurse Practitioner": 3,
+      "Internal Medicine": 3,
+      "Family Medicine": 2,
+      "Nurse Practitioner, Adult Health": 1,
+      "Student in an Organized Health Care Education/Training Program": 1,
+      "Emergency Medicine": 1,
+      "Counselor": 1,
+      "Counselor, Addiction (Substance Use Disorder)": 1,
+      "Psychologist, Clinical": 1,
+      "Social Worker, Clinical": 1,
+      "General Practice": 1,
+      "Clinical Nurse Specialist": 1,
+      "Psychiatry & Neurology, Psychiatry": 1
+    }
+  },
+  "physicians": [
+    {
+      "npi": "1629150610",
+      "personal_info": {
+        "first_name": "SUSAN",
+        "last_name": "LOVRO",
+        "middle_name": "UPTON",
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 710",
+        "address_line_2": "HWY 50",
+        "city": "PECOS",
+        "state": "NM",
+        "postal_code": "87552",
+        "telephone": "505-757-6482",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NM",
+          "license": "PA2006-0023"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87552",
+        "retrieved_timestamp": "2025-02-18T09:46:31.506927"
+      }
+    },
+    {
+      "npi": "1487291464",
+      "personal_info": {
+        "first_name": "SUSAN",
+        "last_name": "OLIVE",
+        "middle_name": "SHELDON",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1775 HOPEWELL ST",
+        "address_line_2": null,
+        "city": "SANTA FE",
+        "state": "NM",
+        "postal_code": "875053896",
+        "telephone": "505-443-3100",
+        "fax": "505-989-5368"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NM",
+          "license": "PA2019-0113"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87552",
+        "retrieved_timestamp": "2025-02-18T09:46:31.506943"
+      }
+    },
+    {
+      "npi": "1851478515",
+      "personal_info": {
+        "first_name": "CARLA",
+        "last_name": "CURTIS-KLINGER",
+        "middle_name": "ANN",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 158",
+        "address_line_2": "ECFH CREDENTIALING DEPT",
+        "city": "ESPANOLA",
+        "state": "NM",
+        "postal_code": "875320158",
+        "telephone": "505-753-7218",
+        "fax": "505-753-5815"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "OR",
+          "license": "PA00874"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.506956"
+      }
+    },
+    {
+      "npi": "1649408121",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "105 MILLS AVE STE 300",
+        "address_line_2": null,
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "877014169",
+        "telephone": "505-425-9311",
+        "fax": "505-425-9047"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NM",
+          "license": "92-PA09"
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": "NM",
+          "license": "R53421"
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": true,
+          "state": "NM",
+          "license": "76-31"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.506968"
+      }
+    },
+    {
+      "npi": "1972596336",
+      "personal_info": {
+        "first_name": "ANTHONY",
+        "last_name": "DURAN",
+        "middle_name": "J.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "1900 HOT SPRINGS BLVD.",
+        "address_line_2": "SUITE D",
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "877013481",
+        "telephone": "505-425-3718",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NM",
+          "license": "80-PA005"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.506980"
+      }
+    },
+    {
+      "npi": "1295846772",
+      "personal_info": {
+        "first_name": "JACQUE",
+        "last_name": "EWING-HAYES",
+        "middle_name": "G",
+        "credential": "PA",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "3695 HOT SPRINGS BLVD",
+        "address_line_2": null,
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "877019549",
+        "telephone": "505-454-2100",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NM",
+          "license": "80-PA017"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.506991"
+      }
+    },
+    {
+      "npi": "1891925848",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "105 MILLS AVE # 300",
+        "address_line_2": null,
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "87701",
+        "telephone": "505-425-9311",
+        "fax": "505-425-9047"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NM",
+          "license": "92PA09"
+        },
+        {
+          "taxonomy_code": "363LA2200X",
+          "taxonomy_desc": "Nurse Practitioner, Adult Health",
+          "primary": false,
+          "state": "NM",
+          "license": "R53421"
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": true,
+          "state": "NM",
+          "license": "NM81-770"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507003"
+      }
+    },
+    {
+      "npi": "1902538051",
+      "personal_info": {
+        "first_name": "ELIZABETH",
+        "last_name": "JOHNSON",
+        "middle_name": null,
+        "credential": null,
+        "gender": "F",
+        "sole_proprietor": "YES"
+      },
+      "practice_location": {
+        "address_line": "1235 8TH ST",
+        "address_line_2": null,
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "877014219",
+        "telephone": "505-425-6788",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "390200000X",
+          "taxonomy_desc": "Student in an Organized Health Care Education/Training Program",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NM",
+          "license": "PA2023-0296"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507014"
+      }
+    },
+    {
+      "npi": "1295085157",
+      "personal_info": {
+        "first_name": "MICHAEL",
+        "last_name": "LEE",
+        "middle_name": "J.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 158",
+        "address_line_2": "EL CENTRO FAMILY HEALTH",
+        "city": "ESPANOLA",
+        "state": "NM",
+        "postal_code": "875320158",
+        "telephone": "505-753-7218",
+        "fax": "505-753-5815"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NM",
+          "license": "PA2012-0040"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507024"
+      }
+    },
+    {
+      "npi": "1053305474",
+      "personal_info": {
+        "first_name": "MATTHEW",
+        "last_name": "PROBST",
+        "middle_name": "D.",
+        "credential": "PA-C",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "2020 7TH ST",
+        "address_line_2": null,
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "877014958",
+        "telephone": "505-434-0119",
+        "fax": "877-553-1272"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NM",
+          "license": "PA2003-0043"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507034"
+      }
+    },
+    {
+      "npi": "1861430480",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "104 LEGION DR",
+        "address_line_2": null,
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "877014804",
+        "telephone": "800-893-9698",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207P00000X",
+          "taxonomy_desc": "Emergency Medicine",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507045"
+      }
+    },
+    {
+      "npi": "1225127343",
+      "personal_info": {
+        "first_name": "JOHN",
+        "last_name": "SCOTT",
+        "middle_name": null,
+        "credential": "PA",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 158",
+        "address_line_2": null,
+        "city": "ESPANOLA",
+        "state": "NM",
+        "postal_code": "875320158",
+        "telephone": "505-753-7218",
+        "fax": "505-747-7396"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "VA",
+          "license": "0110840842"
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": "DC",
+          "license": "pa30149"
+        },
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": true,
+          "state": "NM",
+          "license": "PA2016-0036"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507057"
+      }
+    },
+    {
+      "npi": "1932399946",
+      "personal_info": {
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "credential": null,
+        "gender": null,
+        "sole_proprietor": null
+      },
+      "practice_location": {
+        "address_line": "3695 HOT SPRINGS BLVD",
+        "address_line_2": null,
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "877019549",
+        "telephone": "505-454-2100",
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "101Y00000X",
+          "taxonomy_desc": "Counselor",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "101YA0400X",
+          "taxonomy_desc": "Counselor, Addiction (Substance Use Disorder)",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "103TC0700X",
+          "taxonomy_desc": "Psychologist, Clinical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "1041C0700X",
+          "taxonomy_desc": "Social Worker, Clinical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207Q00000X",
+          "taxonomy_desc": "Family Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "207R00000X",
+          "taxonomy_desc": "Internal Medicine",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "208D00000X",
+          "taxonomy_desc": "General Practice",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "363L00000X",
+          "taxonomy_desc": "Nurse Practitioner",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "364S00000X",
+          "taxonomy_desc": "Clinical Nurse Specialist",
+          "primary": false,
+          "state": null,
+          "license": null
+        },
+        {
+          "taxonomy_code": "2084P0800X",
+          "taxonomy_desc": "Psychiatry & Neurology, Psychiatry",
+          "primary": true,
+          "state": null,
+          "license": null
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507072"
+      }
+    },
+    {
+      "npi": "1619297959",
+      "personal_info": {
+        "first_name": "KRISTEN",
+        "last_name": "SWEENEY",
+        "middle_name": "N",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 746652",
+        "address_line_2": null,
+        "city": "ATLANTA",
+        "state": "GA",
+        "postal_code": "303746652",
+        "telephone": "047-200-5999",
+        "fax": "904-376-4036"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "ME",
+          "license": "PA001212"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": false,
+          "state": "NM",
+          "license": "PA2014-0042"
+        },
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "FL",
+          "license": "PA9109458"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507083"
+      }
+    },
+    {
+      "npi": "1801965579",
+      "personal_info": {
+        "first_name": "JEFFREY",
+        "last_name": "WEBB",
+        "middle_name": "SCOTT",
+        "credential": "PAC",
+        "gender": "M",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "501 7TH ST",
+        "address_line_2": null,
+        "city": "LAS VEGAS",
+        "state": "NM",
+        "postal_code": "87701",
+        "telephone": "505-425-3566",
+        "fax": "505-425-3568"
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363AM0700X",
+          "taxonomy_desc": "Physician Assistant, Medical",
+          "primary": true,
+          "state": "NM",
+          "license": "97PA06"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87701",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507092"
+      }
+    },
+    {
+      "npi": "1316155492",
+      "personal_info": {
+        "first_name": "MICHAELA",
+        "last_name": "MONTANO",
+        "middle_name": "M",
+        "credential": "PA-C",
+        "gender": "F",
+        "sole_proprietor": "NO"
+      },
+      "practice_location": {
+        "address_line": "PO BOX 264",
+        "address_line_2": null,
+        "city": "MONTEZUMA",
+        "state": "NM",
+        "postal_code": "877310264",
+        "telephone": null,
+        "fax": null
+      },
+      "specialties": [
+        {
+          "taxonomy_code": "363A00000X",
+          "taxonomy_desc": "Physician Assistant",
+          "primary": true,
+          "state": "NM",
+          "license": "99PA21"
+        }
+      ],
+      "search_metadata": {
+        "search_zip_code": "87731",
+        "retrieved_timestamp": "2025-02-18T09:46:31.507102"
+      }
+    }
+  ]
+}

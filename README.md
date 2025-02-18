@@ -11,8 +11,8 @@ This solution integrates data processing, API interactions, natural language und
 
 ![Map 1](./output_1.png)
 ![Map 2](./output_2.png)
-![Map 3](./output_3.png)
-![Map 4](./output_4.png)
+![Map 3](./output_4.png)
+![Map 4](./output_3.png)
 # Progress Breakdown:
 
 ### **1. Initial Setup and Planning**

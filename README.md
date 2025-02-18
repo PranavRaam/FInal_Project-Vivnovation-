@@ -17,7 +17,8 @@ This solution integrates data processing, API interactions, natural language und
 
 ### Demo Video:
 
-[watch the video](./output_images/demo_video.mp4)
+[![Watch the Video](https://img.youtube.com/vi/rL_Kj7P8x5k/0.jpg)](https://youtu.be/rL_Kj7P8x5k)
+
 
 # Steps To Run & Execute The Code:
 

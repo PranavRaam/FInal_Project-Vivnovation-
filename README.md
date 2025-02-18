@@ -4,8 +4,12 @@ This project aims to develop an AI-driven system that maps physician groups (PGs
 
 This solution integrates data processing, API interactions, natural language understanding, and geospatial visualization, making it a valuable tool for healthcare analytics, resource allocation, and strategic planning.
 
-![diagram (1).svg](Mapping%20Physician%20Groups%20in%20a%20Metropolitan%20Statist%2019e710fe5cc880c19f98eaaae336d4c9/diagram_(1).svg)
+### Output Visualizations:
 
+![Map 1](./output_1.png)
+![Map 2](./output_2.png)
+![Map 3](./output_3.png)
+![Map 4](./output_4.png)
 # Progress Breakdown:
 
 ### **1. Initial Setup and Planning**

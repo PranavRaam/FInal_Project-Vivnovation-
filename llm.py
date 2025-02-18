@@ -165,5 +165,5 @@ if __name__ == "__main__":
     success = process_physician_data(
         input_file="physician_data/physicians_Utuado__PR_MicroSA_20250218_034313.json",
         output_file="physicians_with_groups.json",
-        api_key="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"
+        api_key="HUGGINGFACE_API_KEY"
     )
